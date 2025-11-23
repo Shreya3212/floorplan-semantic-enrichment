@@ -1,0 +1,3017 @@
+[
+    {
+        "id": "KakaoTalk_20240319_133126275_jpg.rf.b10b770156fad18531f735afa211f6b6.jpg_FIREEXTINGUISHER_0",
+        "image": "KakaoTalk_20240319_133126275_jpg.rf.b10b770156fad18531f735afa211f6b6.jpg",
+        "type": "FIREEXTINGUISHER",
+        "passed_checks": [],
+        "failed_checks": [
+            "FireExtinguisher Confidence TOO LOW"
+        ]
+    },
+    {
+        "id": "KakaoTalk_20240319_133126275_jpg.rf.b10b770156fad18531f735afa211f6b6.jpg",
+        "image": "",
+        "type": "unknown",
+        "passed_checks": [],
+        "failed_checks": []
+    },
+    {
+        "id": "KakaoTalk_20240325_162133706_04_jpg.rf.470f2fd4b0e4d6a203d659c3ac2ff49b.jpg_FIREEXTINGUISHER_1",
+        "image": "KakaoTalk_20240325_162133706_04_jpg.rf.470f2fd4b0e4d6a203d659c3ac2ff49b.jpg",
+        "type": "FIREEXTINGUISHER",
+        "passed_checks": [],
+        "failed_checks": [
+            "FireExtinguisher Confidence TOO LOW"
+        ]
+    },
+    {
+        "id": "KakaoTalk_20240325_162133706_04_jpg.rf.470f2fd4b0e4d6a203d659c3ac2ff49b.jpg",
+        "image": "",
+        "type": "unknown",
+        "passed_checks": [],
+        "failed_checks": []
+    },
+    {
+        "id": "KakaoTalk_20240325_162133706_06_jpg.rf.6ab13f86d2b307e02c69f678f1ab4042.jpg_EXIT_0",
+        "image": "KakaoTalk_20240325_162133706_06_jpg.rf.6ab13f86d2b307e02c69f678f1ab4042.jpg",
+        "type": "EXIT",
+        "passed_checks": [],
+        "failed_checks": [
+            "Exit OCR MISSING"
+        ]
+    },
+    {
+        "id": "KakaoTalk_20240325_162133706_06_jpg.rf.6ab13f86d2b307e02c69f678f1ab4042.jpg",
+        "image": "",
+        "type": "unknown",
+        "passed_checks": [],
+        "failed_checks": []
+    },
+    {
+        "id": "KakaoTalk_20240325_162133706_07_jpg.rf.01e7a87e0d6bcc1aa3bb7d940d5b9bd9.jpg_EXIT_1",
+        "image": "KakaoTalk_20240325_162133706_07_jpg.rf.01e7a87e0d6bcc1aa3bb7d940d5b9bd9.jpg",
+        "type": "EXIT",
+        "passed_checks": [],
+        "failed_checks": [
+            "Exit OCR MISSING"
+        ]
+    },
+    {
+        "id": "KakaoTalk_20240325_162133706_07_jpg.rf.01e7a87e0d6bcc1aa3bb7d940d5b9bd9.jpg",
+        "image": "",
+        "type": "unknown",
+        "passed_checks": [],
+        "failed_checks": []
+    },
+    {
+        "id": "KakaoTalk_20240325_162133706_07_jpg.rf.5591e80f61f9e87b51c0e285b55ba7f5.jpg_EXIT_2",
+        "image": "KakaoTalk_20240325_162133706_07_jpg.rf.5591e80f61f9e87b51c0e285b55ba7f5.jpg",
+        "type": "EXIT",
+        "passed_checks": [],
+        "failed_checks": [
+            "Exit OCR MISSING"
+        ]
+    },
+    {
+        "id": "KakaoTalk_20240325_162133706_07_jpg.rf.5591e80f61f9e87b51c0e285b55ba7f5.jpg",
+        "image": "",
+        "type": "unknown",
+        "passed_checks": [],
+        "failed_checks": []
+    },
+    {
+        "id": "KakaoTalk_20240325_162133706_07_jpg.rf.f1cf771e1a92454ebd5fa2139e81de47.jpg_EXIT_3",
+        "image": "KakaoTalk_20240325_162133706_07_jpg.rf.f1cf771e1a92454ebd5fa2139e81de47.jpg",
+        "type": "EXIT",
+        "passed_checks": [],
+        "failed_checks": [
+            "Exit OCR MISSING"
+        ]
+    },
+    {
+        "id": "KakaoTalk_20240325_162133706_07_jpg.rf.f1cf771e1a92454ebd5fa2139e81de47.jpg",
+        "image": "",
+        "type": "unknown",
+        "passed_checks": [],
+        "failed_checks": []
+    },
+    {
+        "id": "KakaoTalk_20240330_153803899_01_jpg.rf.959cf5de93d52bfddbda353d8418c921.jpg_EXIT_4",
+        "image": "KakaoTalk_20240330_153803899_01_jpg.rf.959cf5de93d52bfddbda353d8418c921.jpg",
+        "type": "EXIT",
+        "passed_checks": [],
+        "failed_checks": [
+            "Exit OCR MISSING"
+        ]
+    },
+    {
+        "id": "KakaoTalk_20240330_153803899_01_jpg.rf.959cf5de93d52bfddbda353d8418c921.jpg",
+        "image": "",
+        "type": "unknown",
+        "passed_checks": [],
+        "failed_checks": []
+    },
+    {
+        "id": "KakaoTalk_20240330_153803899_01_jpg.rf.ae64b8a21d67a0f70c62d50e92ec626e.jpg_EXIT_5",
+        "image": "KakaoTalk_20240330_153803899_01_jpg.rf.ae64b8a21d67a0f70c62d50e92ec626e.jpg",
+        "type": "EXIT",
+        "passed_checks": [],
+        "failed_checks": [
+            "Exit OCR MISSING"
+        ]
+    },
+    {
+        "id": "KakaoTalk_20240330_153803899_01_jpg.rf.ae64b8a21d67a0f70c62d50e92ec626e.jpg",
+        "image": "",
+        "type": "unknown",
+        "passed_checks": [],
+        "failed_checks": []
+    },
+    {
+        "id": "KakaoTalk_20240330_153803899_01_jpg.rf.ae64b8a21d67a0f70c62d50e92ec626e.jpg_EXIT_6",
+        "image": "KakaoTalk_20240330_153803899_01_jpg.rf.ae64b8a21d67a0f70c62d50e92ec626e.jpg",
+        "type": "EXIT",
+        "passed_checks": [],
+        "failed_checks": [
+            "Exit OCR MISSING"
+        ]
+    },
+    {
+        "id": "KakaoTalk_20240330_153803899_02_jpg.rf.6b0204ee81d0a1c3bb8f5ececea71058.jpg_EXIT_7",
+        "image": "KakaoTalk_20240330_153803899_02_jpg.rf.6b0204ee81d0a1c3bb8f5ececea71058.jpg",
+        "type": "EXIT",
+        "passed_checks": [],
+        "failed_checks": [
+            "Exit OCR MISSING"
+        ]
+    },
+    {
+        "id": "KakaoTalk_20240330_153803899_02_jpg.rf.6b0204ee81d0a1c3bb8f5ececea71058.jpg",
+        "image": "",
+        "type": "unknown",
+        "passed_checks": [],
+        "failed_checks": []
+    },
+    {
+        "id": "KakaoTalk_20240330_153803899_02_jpg.rf.6b0204ee81d0a1c3bb8f5ececea71058.jpg_EXIT_8",
+        "image": "KakaoTalk_20240330_153803899_02_jpg.rf.6b0204ee81d0a1c3bb8f5ececea71058.jpg",
+        "type": "EXIT",
+        "passed_checks": [],
+        "failed_checks": [
+            "Exit OCR MISSING"
+        ]
+    },
+    {
+        "id": "KakaoTalk_20240330_153803899_02_jpg.rf.6b0204ee81d0a1c3bb8f5ececea71058.jpg_EXIT_9",
+        "image": "KakaoTalk_20240330_153803899_02_jpg.rf.6b0204ee81d0a1c3bb8f5ececea71058.jpg",
+        "type": "EXIT",
+        "passed_checks": [],
+        "failed_checks": [
+            "Exit OCR MISSING"
+        ]
+    },
+    {
+        "id": "KakaoTalk_20240330_153803899_02_jpg.rf.939a102bc7119b3636730fa7a78711c3.jpg_EXIT_10",
+        "image": "KakaoTalk_20240330_153803899_02_jpg.rf.939a102bc7119b3636730fa7a78711c3.jpg",
+        "type": "EXIT",
+        "passed_checks": [],
+        "failed_checks": [
+            "Exit OCR MISSING"
+        ]
+    },
+    {
+        "id": "KakaoTalk_20240330_153803899_02_jpg.rf.939a102bc7119b3636730fa7a78711c3.jpg",
+        "image": "",
+        "type": "unknown",
+        "passed_checks": [],
+        "failed_checks": []
+    },
+    {
+        "id": "KakaoTalk_20240330_153803899_02_jpg.rf.939a102bc7119b3636730fa7a78711c3.jpg_EXIT_11",
+        "image": "KakaoTalk_20240330_153803899_02_jpg.rf.939a102bc7119b3636730fa7a78711c3.jpg",
+        "type": "EXIT",
+        "passed_checks": [],
+        "failed_checks": [
+            "Exit OCR MISSING"
+        ]
+    },
+    {
+        "id": "KakaoTalk_20240330_153803899_02_jpg.rf.939a102bc7119b3636730fa7a78711c3.jpg_EXIT_12",
+        "image": "KakaoTalk_20240330_153803899_02_jpg.rf.939a102bc7119b3636730fa7a78711c3.jpg",
+        "type": "EXIT",
+        "passed_checks": [],
+        "failed_checks": [
+            "Exit OCR MISSING"
+        ]
+    },
+    {
+        "id": "KakaoTalk_20240330_153803899_03_jpg.rf.b1d221f32f89ed2f577301a6d24d86df.jpg_EXIT_13",
+        "image": "KakaoTalk_20240330_153803899_03_jpg.rf.b1d221f32f89ed2f577301a6d24d86df.jpg",
+        "type": "EXIT",
+        "passed_checks": [],
+        "failed_checks": [
+            "Exit OCR MISSING"
+        ]
+    },
+    {
+        "id": "KakaoTalk_20240330_153803899_03_jpg.rf.b1d221f32f89ed2f577301a6d24d86df.jpg",
+        "image": "",
+        "type": "unknown",
+        "passed_checks": [],
+        "failed_checks": []
+    },
+    {
+        "id": "KakaoTalk_20240330_153803899_03_jpg.rf.c367c568d1ebe367e7d4f8c604b6920a.jpg_EXIT_14",
+        "image": "KakaoTalk_20240330_153803899_03_jpg.rf.c367c568d1ebe367e7d4f8c604b6920a.jpg",
+        "type": "EXIT",
+        "passed_checks": [],
+        "failed_checks": [
+            "Exit OCR MISSING"
+        ]
+    },
+    {
+        "id": "KakaoTalk_20240330_153803899_03_jpg.rf.c367c568d1ebe367e7d4f8c604b6920a.jpg",
+        "image": "",
+        "type": "unknown",
+        "passed_checks": [],
+        "failed_checks": []
+    },
+    {
+        "id": "KakaoTalk_20240330_153803899_03_jpg.rf.c367c568d1ebe367e7d4f8c604b6920a.jpg_EXIT_15",
+        "image": "KakaoTalk_20240330_153803899_03_jpg.rf.c367c568d1ebe367e7d4f8c604b6920a.jpg",
+        "type": "EXIT",
+        "passed_checks": [],
+        "failed_checks": [
+            "Exit OCR MISSING"
+        ]
+    },
+    {
+        "id": "KakaoTalk_20240330_153803899_03_jpg.rf.c367c568d1ebe367e7d4f8c604b6920a.jpg_EXIT_16",
+        "image": "KakaoTalk_20240330_153803899_03_jpg.rf.c367c568d1ebe367e7d4f8c604b6920a.jpg",
+        "type": "EXIT",
+        "passed_checks": [],
+        "failed_checks": [
+            "Exit OCR MISSING"
+        ]
+    },
+    {
+        "id": "KakaoTalk_20240330_153803899_03_jpg.rf.c367c568d1ebe367e7d4f8c604b6920a.jpg_EXIT_17",
+        "image": "KakaoTalk_20240330_153803899_03_jpg.rf.c367c568d1ebe367e7d4f8c604b6920a.jpg",
+        "type": "EXIT",
+        "passed_checks": [],
+        "failed_checks": [
+            "Exit OCR MISSING"
+        ]
+    },
+    {
+        "id": "KakaoTalk_20240330_153803899_03_jpg.rf.f8819cfdc033ec7c6ef20d493312869d.jpg_EXIT_18",
+        "image": "KakaoTalk_20240330_153803899_03_jpg.rf.f8819cfdc033ec7c6ef20d493312869d.jpg",
+        "type": "EXIT",
+        "passed_checks": [],
+        "failed_checks": [
+            "Exit OCR MISSING"
+        ]
+    },
+    {
+        "id": "KakaoTalk_20240330_153803899_03_jpg.rf.f8819cfdc033ec7c6ef20d493312869d.jpg",
+        "image": "",
+        "type": "unknown",
+        "passed_checks": [],
+        "failed_checks": []
+    },
+    {
+        "id": "KakaoTalk_20240330_153803899_03_jpg.rf.f8819cfdc033ec7c6ef20d493312869d.jpg_EXIT_19",
+        "image": "KakaoTalk_20240330_153803899_03_jpg.rf.f8819cfdc033ec7c6ef20d493312869d.jpg",
+        "type": "EXIT",
+        "passed_checks": [],
+        "failed_checks": [
+            "Exit OCR MISSING"
+        ]
+    },
+    {
+        "id": "KakaoTalk_20240330_153803899_04_jpg.rf.0da9e56a974d8d355a93f9133fbcbbd1.jpg_EXIT_20",
+        "image": "KakaoTalk_20240330_153803899_04_jpg.rf.0da9e56a974d8d355a93f9133fbcbbd1.jpg",
+        "type": "EXIT",
+        "passed_checks": [],
+        "failed_checks": [
+            "Exit OCR MISSING"
+        ]
+    },
+    {
+        "id": "KakaoTalk_20240330_153803899_04_jpg.rf.0da9e56a974d8d355a93f9133fbcbbd1.jpg",
+        "image": "",
+        "type": "unknown",
+        "passed_checks": [],
+        "failed_checks": []
+    },
+    {
+        "id": "KakaoTalk_20240330_153803899_04_jpg.rf.0da9e56a974d8d355a93f9133fbcbbd1.jpg_EXIT_21",
+        "image": "KakaoTalk_20240330_153803899_04_jpg.rf.0da9e56a974d8d355a93f9133fbcbbd1.jpg",
+        "type": "EXIT",
+        "passed_checks": [],
+        "failed_checks": [
+            "Exit OCR MISSING"
+        ]
+    },
+    {
+        "id": "KakaoTalk_20240330_153803899_04_jpg.rf.579a9f7345ee4d5f9dcbebde299d7544.jpg_EXIT_22",
+        "image": "KakaoTalk_20240330_153803899_04_jpg.rf.579a9f7345ee4d5f9dcbebde299d7544.jpg",
+        "type": "EXIT",
+        "passed_checks": [],
+        "failed_checks": [
+            "Exit OCR MISSING"
+        ]
+    },
+    {
+        "id": "KakaoTalk_20240330_153803899_04_jpg.rf.579a9f7345ee4d5f9dcbebde299d7544.jpg",
+        "image": "",
+        "type": "unknown",
+        "passed_checks": [],
+        "failed_checks": []
+    },
+    {
+        "id": "KakaoTalk_20240330_153803899_04_jpg.rf.f218ad87d6cd4b8d44e4a1aa168901c4.jpg_EXIT_23",
+        "image": "KakaoTalk_20240330_153803899_04_jpg.rf.f218ad87d6cd4b8d44e4a1aa168901c4.jpg",
+        "type": "EXIT",
+        "passed_checks": [],
+        "failed_checks": [
+            "Exit OCR MISSING"
+        ]
+    },
+    {
+        "id": "KakaoTalk_20240330_153803899_04_jpg.rf.f218ad87d6cd4b8d44e4a1aa168901c4.jpg",
+        "image": "",
+        "type": "unknown",
+        "passed_checks": [],
+        "failed_checks": []
+    },
+    {
+        "id": "KakaoTalk_20240330_153803899_05_jpg.rf.0c119ec54703160bc8c474f60c8d1895.jpg_EXIT_24",
+        "image": "KakaoTalk_20240330_153803899_05_jpg.rf.0c119ec54703160bc8c474f60c8d1895.jpg",
+        "type": "EXIT",
+        "passed_checks": [],
+        "failed_checks": [
+            "Exit OCR MISSING"
+        ]
+    },
+    {
+        "id": "KakaoTalk_20240330_153803899_05_jpg.rf.0c119ec54703160bc8c474f60c8d1895.jpg",
+        "image": "",
+        "type": "unknown",
+        "passed_checks": [],
+        "failed_checks": []
+    },
+    {
+        "id": "KakaoTalk_20240330_153803899_05_jpg.rf.e4776cd62813e41ccc5e51aa97203213.jpg_EXIT_25",
+        "image": "KakaoTalk_20240330_153803899_05_jpg.rf.e4776cd62813e41ccc5e51aa97203213.jpg",
+        "type": "EXIT",
+        "passed_checks": [],
+        "failed_checks": [
+            "Exit OCR MISSING"
+        ]
+    },
+    {
+        "id": "KakaoTalk_20240330_153803899_05_jpg.rf.e4776cd62813e41ccc5e51aa97203213.jpg",
+        "image": "",
+        "type": "unknown",
+        "passed_checks": [],
+        "failed_checks": []
+    },
+    {
+        "id": "KakaoTalk_20240330_153803899_05_jpg.rf.e4776cd62813e41ccc5e51aa97203213.jpg_EXIT_26",
+        "image": "KakaoTalk_20240330_153803899_05_jpg.rf.e4776cd62813e41ccc5e51aa97203213.jpg",
+        "type": "EXIT",
+        "passed_checks": [],
+        "failed_checks": [
+            "Exit OCR MISSING"
+        ]
+    },
+    {
+        "id": "KakaoTalk_20240330_153803899_05_jpg.rf.f7c28aec03afdbd8c35406043df8dcec.jpg_EXIT_27",
+        "image": "KakaoTalk_20240330_153803899_05_jpg.rf.f7c28aec03afdbd8c35406043df8dcec.jpg",
+        "type": "EXIT",
+        "passed_checks": [],
+        "failed_checks": [
+            "Exit OCR MISSING"
+        ]
+    },
+    {
+        "id": "KakaoTalk_20240330_153803899_05_jpg.rf.f7c28aec03afdbd8c35406043df8dcec.jpg",
+        "image": "",
+        "type": "unknown",
+        "passed_checks": [],
+        "failed_checks": []
+    },
+    {
+        "id": "KakaoTalk_20240330_153803899_06_jpg.rf.2f23a961108e87e820e2ae586f99a692.jpg_EXIT_28",
+        "image": "KakaoTalk_20240330_153803899_06_jpg.rf.2f23a961108e87e820e2ae586f99a692.jpg",
+        "type": "EXIT",
+        "passed_checks": [],
+        "failed_checks": [
+            "Exit OCR MISSING"
+        ]
+    },
+    {
+        "id": "KakaoTalk_20240330_153803899_06_jpg.rf.2f23a961108e87e820e2ae586f99a692.jpg",
+        "image": "",
+        "type": "unknown",
+        "passed_checks": [],
+        "failed_checks": []
+    },
+    {
+        "id": "KakaoTalk_20240330_153803899_06_jpg.rf.2f23a961108e87e820e2ae586f99a692.jpg_EXIT_29",
+        "image": "KakaoTalk_20240330_153803899_06_jpg.rf.2f23a961108e87e820e2ae586f99a692.jpg",
+        "type": "EXIT",
+        "passed_checks": [],
+        "failed_checks": [
+            "Exit OCR MISSING"
+        ]
+    },
+    {
+        "id": "KakaoTalk_20240330_153803899_06_jpg.rf.2f23a961108e87e820e2ae586f99a692.jpg_EXIT_30",
+        "image": "KakaoTalk_20240330_153803899_06_jpg.rf.2f23a961108e87e820e2ae586f99a692.jpg",
+        "type": "EXIT",
+        "passed_checks": [],
+        "failed_checks": [
+            "Exit OCR MISSING"
+        ]
+    },
+    {
+        "id": "KakaoTalk_20240330_153803899_06_jpg.rf.dee67d32adad3fab8009044bdeb0c15b.jpg_EXIT_31",
+        "image": "KakaoTalk_20240330_153803899_06_jpg.rf.dee67d32adad3fab8009044bdeb0c15b.jpg",
+        "type": "EXIT",
+        "passed_checks": [],
+        "failed_checks": [
+            "Exit OCR MISSING"
+        ]
+    },
+    {
+        "id": "KakaoTalk_20240330_153803899_06_jpg.rf.dee67d32adad3fab8009044bdeb0c15b.jpg",
+        "image": "",
+        "type": "unknown",
+        "passed_checks": [],
+        "failed_checks": []
+    },
+    {
+        "id": "KakaoTalk_20240330_153803899_06_jpg.rf.dee67d32adad3fab8009044bdeb0c15b.jpg_EXIT_32",
+        "image": "KakaoTalk_20240330_153803899_06_jpg.rf.dee67d32adad3fab8009044bdeb0c15b.jpg",
+        "type": "EXIT",
+        "passed_checks": [],
+        "failed_checks": [
+            "Exit OCR MISSING"
+        ]
+    },
+    {
+        "id": "KakaoTalk_20240330_153803899_06_jpg.rf.fabefdeef536a091d8a7ddd45b5be7e5.jpg_EXIT_33",
+        "image": "KakaoTalk_20240330_153803899_06_jpg.rf.fabefdeef536a091d8a7ddd45b5be7e5.jpg",
+        "type": "EXIT",
+        "passed_checks": [],
+        "failed_checks": [
+            "Exit OCR MISSING"
+        ]
+    },
+    {
+        "id": "KakaoTalk_20240330_153803899_06_jpg.rf.fabefdeef536a091d8a7ddd45b5be7e5.jpg",
+        "image": "",
+        "type": "unknown",
+        "passed_checks": [],
+        "failed_checks": []
+    },
+    {
+        "id": "KakaoTalk_20240330_153803899_06_jpg.rf.fabefdeef536a091d8a7ddd45b5be7e5.jpg_EXIT_34",
+        "image": "KakaoTalk_20240330_153803899_06_jpg.rf.fabefdeef536a091d8a7ddd45b5be7e5.jpg",
+        "type": "EXIT",
+        "passed_checks": [],
+        "failed_checks": [
+            "Exit OCR MISSING"
+        ]
+    },
+    {
+        "id": "KakaoTalk_20240330_153803899_06_jpg.rf.fabefdeef536a091d8a7ddd45b5be7e5.jpg_EXIT_35",
+        "image": "KakaoTalk_20240330_153803899_06_jpg.rf.fabefdeef536a091d8a7ddd45b5be7e5.jpg",
+        "type": "EXIT",
+        "passed_checks": [],
+        "failed_checks": [
+            "Exit OCR MISSING"
+        ]
+    },
+    {
+        "id": "KakaoTalk_20240330_153803899_07_jpg.rf.6ef2d245f567fdf7844e8575739f6e5c.jpg_EXIT_36",
+        "image": "KakaoTalk_20240330_153803899_07_jpg.rf.6ef2d245f567fdf7844e8575739f6e5c.jpg",
+        "type": "EXIT",
+        "passed_checks": [],
+        "failed_checks": [
+            "Exit OCR MISSING"
+        ]
+    },
+    {
+        "id": "KakaoTalk_20240330_153803899_07_jpg.rf.6ef2d245f567fdf7844e8575739f6e5c.jpg",
+        "image": "",
+        "type": "unknown",
+        "passed_checks": [],
+        "failed_checks": []
+    },
+    {
+        "id": "KakaoTalk_20240330_153803899_07_jpg.rf.ace706353d428209c8978a79e7877db4.jpg_EXIT_37",
+        "image": "KakaoTalk_20240330_153803899_07_jpg.rf.ace706353d428209c8978a79e7877db4.jpg",
+        "type": "EXIT",
+        "passed_checks": [],
+        "failed_checks": [
+            "Exit OCR MISSING"
+        ]
+    },
+    {
+        "id": "KakaoTalk_20240330_153803899_07_jpg.rf.ace706353d428209c8978a79e7877db4.jpg",
+        "image": "",
+        "type": "unknown",
+        "passed_checks": [],
+        "failed_checks": []
+    },
+    {
+        "id": "KakaoTalk_20240330_153803899_07_jpg.rf.ace706353d428209c8978a79e7877db4.jpg_EXIT_38",
+        "image": "KakaoTalk_20240330_153803899_07_jpg.rf.ace706353d428209c8978a79e7877db4.jpg",
+        "type": "EXIT",
+        "passed_checks": [],
+        "failed_checks": [
+            "Exit OCR MISSING"
+        ]
+    },
+    {
+        "id": "KakaoTalk_20240330_153803899_07_jpg.rf.ace706353d428209c8978a79e7877db4.jpg_EXIT_39",
+        "image": "KakaoTalk_20240330_153803899_07_jpg.rf.ace706353d428209c8978a79e7877db4.jpg",
+        "type": "EXIT",
+        "passed_checks": [],
+        "failed_checks": [
+            "Exit OCR MISSING"
+        ]
+    },
+    {
+        "id": "KakaoTalk_20240330_153803899_08_jpg.rf.5b0d8da7b6c4118f11352f2174c133c7.jpg_EXIT_40",
+        "image": "KakaoTalk_20240330_153803899_08_jpg.rf.5b0d8da7b6c4118f11352f2174c133c7.jpg",
+        "type": "EXIT",
+        "passed_checks": [],
+        "failed_checks": [
+            "Exit OCR MISSING"
+        ]
+    },
+    {
+        "id": "KakaoTalk_20240330_153803899_08_jpg.rf.5b0d8da7b6c4118f11352f2174c133c7.jpg",
+        "image": "",
+        "type": "unknown",
+        "passed_checks": [],
+        "failed_checks": []
+    },
+    {
+        "id": "KakaoTalk_20240330_153803899_08_jpg.rf.5b0d8da7b6c4118f11352f2174c133c7.jpg_EXIT_41",
+        "image": "KakaoTalk_20240330_153803899_08_jpg.rf.5b0d8da7b6c4118f11352f2174c133c7.jpg",
+        "type": "EXIT",
+        "passed_checks": [],
+        "failed_checks": [
+            "Exit OCR MISSING"
+        ]
+    },
+    {
+        "id": "KakaoTalk_20240330_153803899_08_jpg.rf.5b0d8da7b6c4118f11352f2174c133c7.jpg_EXIT_42",
+        "image": "KakaoTalk_20240330_153803899_08_jpg.rf.5b0d8da7b6c4118f11352f2174c133c7.jpg",
+        "type": "EXIT",
+        "passed_checks": [],
+        "failed_checks": [
+            "Exit OCR MISSING"
+        ]
+    },
+    {
+        "id": "KakaoTalk_20240330_153803899_08_jpg.rf.5b0d8da7b6c4118f11352f2174c133c7.jpg_EXIT_43",
+        "image": "KakaoTalk_20240330_153803899_08_jpg.rf.5b0d8da7b6c4118f11352f2174c133c7.jpg",
+        "type": "EXIT",
+        "passed_checks": [],
+        "failed_checks": [
+            "Exit OCR MISSING"
+        ]
+    },
+    {
+        "id": "KakaoTalk_20240330_153803899_08_jpg.rf.9a71078ff8c3d1361bcad5f1ec704f7b.jpg_EXIT_44",
+        "image": "KakaoTalk_20240330_153803899_08_jpg.rf.9a71078ff8c3d1361bcad5f1ec704f7b.jpg",
+        "type": "EXIT",
+        "passed_checks": [],
+        "failed_checks": [
+            "Exit OCR MISSING"
+        ]
+    },
+    {
+        "id": "KakaoTalk_20240330_153803899_08_jpg.rf.9a71078ff8c3d1361bcad5f1ec704f7b.jpg",
+        "image": "",
+        "type": "unknown",
+        "passed_checks": [],
+        "failed_checks": []
+    },
+    {
+        "id": "KakaoTalk_20240330_153803899_08_jpg.rf.9a71078ff8c3d1361bcad5f1ec704f7b.jpg_EXIT_45",
+        "image": "KakaoTalk_20240330_153803899_08_jpg.rf.9a71078ff8c3d1361bcad5f1ec704f7b.jpg",
+        "type": "EXIT",
+        "passed_checks": [],
+        "failed_checks": [
+            "Exit OCR MISSING"
+        ]
+    },
+    {
+        "id": "KakaoTalk_20240330_153803899_08_jpg.rf.d92d77cb566af8b00d5246070cad898d.jpg_EXIT_46",
+        "image": "KakaoTalk_20240330_153803899_08_jpg.rf.d92d77cb566af8b00d5246070cad898d.jpg",
+        "type": "EXIT",
+        "passed_checks": [],
+        "failed_checks": [
+            "Exit OCR MISSING"
+        ]
+    },
+    {
+        "id": "KakaoTalk_20240330_153803899_08_jpg.rf.d92d77cb566af8b00d5246070cad898d.jpg",
+        "image": "",
+        "type": "unknown",
+        "passed_checks": [],
+        "failed_checks": []
+    },
+    {
+        "id": "KakaoTalk_20240330_153803899_08_jpg.rf.d92d77cb566af8b00d5246070cad898d.jpg_EXIT_47",
+        "image": "KakaoTalk_20240330_153803899_08_jpg.rf.d92d77cb566af8b00d5246070cad898d.jpg",
+        "type": "EXIT",
+        "passed_checks": [],
+        "failed_checks": [
+            "Exit OCR MISSING"
+        ]
+    },
+    {
+        "id": "KakaoTalk_20240330_153803899_09_jpg.rf.5a533f68147ae474e32a79b0c4f18a9e.jpg_EXIT_48",
+        "image": "KakaoTalk_20240330_153803899_09_jpg.rf.5a533f68147ae474e32a79b0c4f18a9e.jpg",
+        "type": "EXIT",
+        "passed_checks": [],
+        "failed_checks": [
+            "Exit OCR MISSING"
+        ]
+    },
+    {
+        "id": "KakaoTalk_20240330_153803899_09_jpg.rf.5a533f68147ae474e32a79b0c4f18a9e.jpg",
+        "image": "",
+        "type": "unknown",
+        "passed_checks": [],
+        "failed_checks": []
+    },
+    {
+        "id": "KakaoTalk_20240330_153803899_10_jpg.rf.68aa21cf56f333ea5ada533d0e0e8ecd.jpg_EXIT_49",
+        "image": "KakaoTalk_20240330_153803899_10_jpg.rf.68aa21cf56f333ea5ada533d0e0e8ecd.jpg",
+        "type": "EXIT",
+        "passed_checks": [],
+        "failed_checks": [
+            "Exit OCR MISSING"
+        ]
+    },
+    {
+        "id": "KakaoTalk_20240330_153803899_10_jpg.rf.68aa21cf56f333ea5ada533d0e0e8ecd.jpg",
+        "image": "",
+        "type": "unknown",
+        "passed_checks": [],
+        "failed_checks": []
+    },
+    {
+        "id": "KakaoTalk_20240330_153803899_10_jpg.rf.68aa21cf56f333ea5ada533d0e0e8ecd.jpg_EXIT_50",
+        "image": "KakaoTalk_20240330_153803899_10_jpg.rf.68aa21cf56f333ea5ada533d0e0e8ecd.jpg",
+        "type": "EXIT",
+        "passed_checks": [],
+        "failed_checks": [
+            "Exit OCR MISSING"
+        ]
+    },
+    {
+        "id": "KakaoTalk_20240330_153803899_10_jpg.rf.68aa21cf56f333ea5ada533d0e0e8ecd.jpg_EXIT_51",
+        "image": "KakaoTalk_20240330_153803899_10_jpg.rf.68aa21cf56f333ea5ada533d0e0e8ecd.jpg",
+        "type": "EXIT",
+        "passed_checks": [],
+        "failed_checks": [
+            "Exit OCR MISSING"
+        ]
+    },
+    {
+        "id": "KakaoTalk_20240330_153803899_10_jpg.rf.68aa21cf56f333ea5ada533d0e0e8ecd.jpg_EXIT_52",
+        "image": "KakaoTalk_20240330_153803899_10_jpg.rf.68aa21cf56f333ea5ada533d0e0e8ecd.jpg",
+        "type": "EXIT",
+        "passed_checks": [],
+        "failed_checks": [
+            "Exit OCR MISSING"
+        ]
+    },
+    {
+        "id": "KakaoTalk_20240330_153803899_10_jpg.rf.68aa21cf56f333ea5ada533d0e0e8ecd.jpg_EXIT_53",
+        "image": "KakaoTalk_20240330_153803899_10_jpg.rf.68aa21cf56f333ea5ada533d0e0e8ecd.jpg",
+        "type": "EXIT",
+        "passed_checks": [],
+        "failed_checks": [
+            "Exit OCR MISSING"
+        ]
+    },
+    {
+        "id": "KakaoTalk_20240330_153803899_10_jpg.rf.82d9275f6e4ea197a222f3e74ac74ec8.jpg_EXIT_54",
+        "image": "KakaoTalk_20240330_153803899_10_jpg.rf.82d9275f6e4ea197a222f3e74ac74ec8.jpg",
+        "type": "EXIT",
+        "passed_checks": [],
+        "failed_checks": [
+            "Exit OCR MISSING"
+        ]
+    },
+    {
+        "id": "KakaoTalk_20240330_153803899_10_jpg.rf.82d9275f6e4ea197a222f3e74ac74ec8.jpg",
+        "image": "",
+        "type": "unknown",
+        "passed_checks": [],
+        "failed_checks": []
+    },
+    {
+        "id": "KakaoTalk_20240330_153803899_10_jpg.rf.82d9275f6e4ea197a222f3e74ac74ec8.jpg_EXIT_55",
+        "image": "KakaoTalk_20240330_153803899_10_jpg.rf.82d9275f6e4ea197a222f3e74ac74ec8.jpg",
+        "type": "EXIT",
+        "passed_checks": [],
+        "failed_checks": [
+            "Exit OCR MISSING"
+        ]
+    },
+    {
+        "id": "KakaoTalk_20240330_153803899_10_jpg.rf.82d9275f6e4ea197a222f3e74ac74ec8.jpg_EXIT_56",
+        "image": "KakaoTalk_20240330_153803899_10_jpg.rf.82d9275f6e4ea197a222f3e74ac74ec8.jpg",
+        "type": "EXIT",
+        "passed_checks": [],
+        "failed_checks": [
+            "Exit OCR MISSING"
+        ]
+    },
+    {
+        "id": "KakaoTalk_20240330_153803899_10_jpg.rf.82d9275f6e4ea197a222f3e74ac74ec8.jpg_EXIT_57",
+        "image": "KakaoTalk_20240330_153803899_10_jpg.rf.82d9275f6e4ea197a222f3e74ac74ec8.jpg",
+        "type": "EXIT",
+        "passed_checks": [],
+        "failed_checks": [
+            "Exit OCR MISSING"
+        ]
+    },
+    {
+        "id": "KakaoTalk_20240330_153803899_10_jpg.rf.82d9275f6e4ea197a222f3e74ac74ec8.jpg_EXIT_58",
+        "image": "KakaoTalk_20240330_153803899_10_jpg.rf.82d9275f6e4ea197a222f3e74ac74ec8.jpg",
+        "type": "EXIT",
+        "passed_checks": [],
+        "failed_checks": [
+            "Exit OCR MISSING"
+        ]
+    },
+    {
+        "id": "KakaoTalk_20240330_153803899_11_jpg.rf.2190b199b7aa354ea4c8887dda605c53.jpg_EXIT_59",
+        "image": "KakaoTalk_20240330_153803899_11_jpg.rf.2190b199b7aa354ea4c8887dda605c53.jpg",
+        "type": "EXIT",
+        "passed_checks": [],
+        "failed_checks": [
+            "Exit OCR MISSING"
+        ]
+    },
+    {
+        "id": "KakaoTalk_20240330_153803899_11_jpg.rf.2190b199b7aa354ea4c8887dda605c53.jpg",
+        "image": "",
+        "type": "unknown",
+        "passed_checks": [],
+        "failed_checks": []
+    },
+    {
+        "id": "KakaoTalk_20240330_153803899_11_jpg.rf.499524f6602ac0c83e7acca083361254.jpg_EXIT_60",
+        "image": "KakaoTalk_20240330_153803899_11_jpg.rf.499524f6602ac0c83e7acca083361254.jpg",
+        "type": "EXIT",
+        "passed_checks": [],
+        "failed_checks": [
+            "Exit OCR MISSING"
+        ]
+    },
+    {
+        "id": "KakaoTalk_20240330_153803899_11_jpg.rf.499524f6602ac0c83e7acca083361254.jpg",
+        "image": "",
+        "type": "unknown",
+        "passed_checks": [],
+        "failed_checks": []
+    },
+    {
+        "id": "KakaoTalk_20240330_153803899_11_jpg.rf.77f208f10d79fbca21dfbc29e9ae6b18.jpg_EXIT_61",
+        "image": "KakaoTalk_20240330_153803899_11_jpg.rf.77f208f10d79fbca21dfbc29e9ae6b18.jpg",
+        "type": "EXIT",
+        "passed_checks": [],
+        "failed_checks": [
+            "Exit OCR MISSING"
+        ]
+    },
+    {
+        "id": "KakaoTalk_20240330_153803899_11_jpg.rf.77f208f10d79fbca21dfbc29e9ae6b18.jpg",
+        "image": "",
+        "type": "unknown",
+        "passed_checks": [],
+        "failed_checks": []
+    },
+    {
+        "id": "KakaoTalk_20240330_153803899_12_jpg.rf.4099e028dee5a4fe3d99bd848a68c06f.jpg_EXIT_62",
+        "image": "KakaoTalk_20240330_153803899_12_jpg.rf.4099e028dee5a4fe3d99bd848a68c06f.jpg",
+        "type": "EXIT",
+        "passed_checks": [],
+        "failed_checks": [
+            "Exit OCR MISSING"
+        ]
+    },
+    {
+        "id": "KakaoTalk_20240330_153803899_12_jpg.rf.4099e028dee5a4fe3d99bd848a68c06f.jpg",
+        "image": "",
+        "type": "unknown",
+        "passed_checks": [],
+        "failed_checks": []
+    },
+    {
+        "id": "KakaoTalk_20240330_153803899_12_jpg.rf.4099e028dee5a4fe3d99bd848a68c06f.jpg_EXIT_63",
+        "image": "KakaoTalk_20240330_153803899_12_jpg.rf.4099e028dee5a4fe3d99bd848a68c06f.jpg",
+        "type": "EXIT",
+        "passed_checks": [],
+        "failed_checks": [
+            "Exit OCR MISSING"
+        ]
+    },
+    {
+        "id": "KakaoTalk_20240330_153803899_12_jpg.rf.4099e028dee5a4fe3d99bd848a68c06f.jpg_EXIT_64",
+        "image": "KakaoTalk_20240330_153803899_12_jpg.rf.4099e028dee5a4fe3d99bd848a68c06f.jpg",
+        "type": "EXIT",
+        "passed_checks": [],
+        "failed_checks": [
+            "Exit OCR MISSING"
+        ]
+    },
+    {
+        "id": "KakaoTalk_20240330_153803899_12_jpg.rf.43429a4fb07053da63f9365464c34c3b.jpg_EXIT_65",
+        "image": "KakaoTalk_20240330_153803899_12_jpg.rf.43429a4fb07053da63f9365464c34c3b.jpg",
+        "type": "EXIT",
+        "passed_checks": [],
+        "failed_checks": [
+            "Exit OCR MISSING"
+        ]
+    },
+    {
+        "id": "KakaoTalk_20240330_153803899_12_jpg.rf.43429a4fb07053da63f9365464c34c3b.jpg",
+        "image": "",
+        "type": "unknown",
+        "passed_checks": [],
+        "failed_checks": []
+    },
+    {
+        "id": "KakaoTalk_20240330_153803899_12_jpg.rf.43429a4fb07053da63f9365464c34c3b.jpg_EXIT_66",
+        "image": "KakaoTalk_20240330_153803899_12_jpg.rf.43429a4fb07053da63f9365464c34c3b.jpg",
+        "type": "EXIT",
+        "passed_checks": [],
+        "failed_checks": [
+            "Exit OCR MISSING"
+        ]
+    },
+    {
+        "id": "KakaoTalk_20240330_153803899_12_jpg.rf.43429a4fb07053da63f9365464c34c3b.jpg_EXIT_67",
+        "image": "KakaoTalk_20240330_153803899_12_jpg.rf.43429a4fb07053da63f9365464c34c3b.jpg",
+        "type": "EXIT",
+        "passed_checks": [],
+        "failed_checks": [
+            "Exit OCR MISSING"
+        ]
+    },
+    {
+        "id": "KakaoTalk_20240330_153803899_12_jpg.rf.43429a4fb07053da63f9365464c34c3b.jpg_EXIT_68",
+        "image": "KakaoTalk_20240330_153803899_12_jpg.rf.43429a4fb07053da63f9365464c34c3b.jpg",
+        "type": "EXIT",
+        "passed_checks": [],
+        "failed_checks": [
+            "Exit OCR MISSING"
+        ]
+    },
+    {
+        "id": "KakaoTalk_20240330_153803899_12_jpg.rf.9cf146d82ae7e6cee61058863e0360c5.jpg_EXIT_69",
+        "image": "KakaoTalk_20240330_153803899_12_jpg.rf.9cf146d82ae7e6cee61058863e0360c5.jpg",
+        "type": "EXIT",
+        "passed_checks": [],
+        "failed_checks": [
+            "Exit OCR MISSING"
+        ]
+    },
+    {
+        "id": "KakaoTalk_20240330_153803899_12_jpg.rf.9cf146d82ae7e6cee61058863e0360c5.jpg",
+        "image": "",
+        "type": "unknown",
+        "passed_checks": [],
+        "failed_checks": []
+    },
+    {
+        "id": "KakaoTalk_20240330_153803899_12_jpg.rf.9cf146d82ae7e6cee61058863e0360c5.jpg_EXIT_70",
+        "image": "KakaoTalk_20240330_153803899_12_jpg.rf.9cf146d82ae7e6cee61058863e0360c5.jpg",
+        "type": "EXIT",
+        "passed_checks": [],
+        "failed_checks": [
+            "Exit OCR MISSING"
+        ]
+    },
+    {
+        "id": "KakaoTalk_20240330_153803899_12_jpg.rf.9cf146d82ae7e6cee61058863e0360c5.jpg_EXIT_71",
+        "image": "KakaoTalk_20240330_153803899_12_jpg.rf.9cf146d82ae7e6cee61058863e0360c5.jpg",
+        "type": "EXIT",
+        "passed_checks": [],
+        "failed_checks": [
+            "Exit OCR MISSING"
+        ]
+    },
+    {
+        "id": "KakaoTalk_20240330_153803899_13_jpg.rf.1ab5cf0d9800c92ab735b820d2bb15b0.jpg_EXIT_72",
+        "image": "KakaoTalk_20240330_153803899_13_jpg.rf.1ab5cf0d9800c92ab735b820d2bb15b0.jpg",
+        "type": "EXIT",
+        "passed_checks": [],
+        "failed_checks": [
+            "Exit OCR MISSING"
+        ]
+    },
+    {
+        "id": "KakaoTalk_20240330_153803899_13_jpg.rf.1ab5cf0d9800c92ab735b820d2bb15b0.jpg",
+        "image": "",
+        "type": "unknown",
+        "passed_checks": [],
+        "failed_checks": []
+    },
+    {
+        "id": "KakaoTalk_20240330_153803899_13_jpg.rf.1ab5cf0d9800c92ab735b820d2bb15b0.jpg_EXIT_73",
+        "image": "KakaoTalk_20240330_153803899_13_jpg.rf.1ab5cf0d9800c92ab735b820d2bb15b0.jpg",
+        "type": "EXIT",
+        "passed_checks": [],
+        "failed_checks": [
+            "Exit OCR MISSING"
+        ]
+    },
+    {
+        "id": "KakaoTalk_20240330_153803899_13_jpg.rf.60fa36f6e8ef0c6703357534bb6d80e7.jpg_EXIT_74",
+        "image": "KakaoTalk_20240330_153803899_13_jpg.rf.60fa36f6e8ef0c6703357534bb6d80e7.jpg",
+        "type": "EXIT",
+        "passed_checks": [],
+        "failed_checks": [
+            "Exit OCR MISSING"
+        ]
+    },
+    {
+        "id": "KakaoTalk_20240330_153803899_13_jpg.rf.60fa36f6e8ef0c6703357534bb6d80e7.jpg",
+        "image": "",
+        "type": "unknown",
+        "passed_checks": [],
+        "failed_checks": []
+    },
+    {
+        "id": "KakaoTalk_20240330_153803899_13_jpg.rf.60fa36f6e8ef0c6703357534bb6d80e7.jpg_EXIT_75",
+        "image": "KakaoTalk_20240330_153803899_13_jpg.rf.60fa36f6e8ef0c6703357534bb6d80e7.jpg",
+        "type": "EXIT",
+        "passed_checks": [],
+        "failed_checks": [
+            "Exit OCR MISSING"
+        ]
+    },
+    {
+        "id": "KakaoTalk_20240330_153803899_13_jpg.rf.60fa36f6e8ef0c6703357534bb6d80e7.jpg_EXIT_76",
+        "image": "KakaoTalk_20240330_153803899_13_jpg.rf.60fa36f6e8ef0c6703357534bb6d80e7.jpg",
+        "type": "EXIT",
+        "passed_checks": [],
+        "failed_checks": [
+            "Exit OCR MISSING"
+        ]
+    },
+    {
+        "id": "KakaoTalk_20240330_153803899_13_jpg.rf.e9f6b5cbd6eb07cf65acef498f15156d.jpg_EXIT_77",
+        "image": "KakaoTalk_20240330_153803899_13_jpg.rf.e9f6b5cbd6eb07cf65acef498f15156d.jpg",
+        "type": "EXIT",
+        "passed_checks": [],
+        "failed_checks": [
+            "Exit OCR MISSING"
+        ]
+    },
+    {
+        "id": "KakaoTalk_20240330_153803899_13_jpg.rf.e9f6b5cbd6eb07cf65acef498f15156d.jpg",
+        "image": "",
+        "type": "unknown",
+        "passed_checks": [],
+        "failed_checks": []
+    },
+    {
+        "id": "KakaoTalk_20240330_153803899_13_jpg.rf.e9f6b5cbd6eb07cf65acef498f15156d.jpg_EXIT_78",
+        "image": "KakaoTalk_20240330_153803899_13_jpg.rf.e9f6b5cbd6eb07cf65acef498f15156d.jpg",
+        "type": "EXIT",
+        "passed_checks": [],
+        "failed_checks": [
+            "Exit OCR MISSING"
+        ]
+    },
+    {
+        "id": "KakaoTalk_20240330_153803899_13_jpg.rf.e9f6b5cbd6eb07cf65acef498f15156d.jpg_EXIT_79",
+        "image": "KakaoTalk_20240330_153803899_13_jpg.rf.e9f6b5cbd6eb07cf65acef498f15156d.jpg",
+        "type": "EXIT",
+        "passed_checks": [],
+        "failed_checks": [
+            "Exit OCR MISSING"
+        ]
+    },
+    {
+        "id": "KakaoTalk_20240330_153803899_13_jpg.rf.e9f6b5cbd6eb07cf65acef498f15156d.jpg_EXIT_80",
+        "image": "KakaoTalk_20240330_153803899_13_jpg.rf.e9f6b5cbd6eb07cf65acef498f15156d.jpg",
+        "type": "EXIT",
+        "passed_checks": [],
+        "failed_checks": [
+            "Exit OCR MISSING"
+        ]
+    },
+    {
+        "id": "KakaoTalk_20240330_153803899_14_jpg.rf.dced5cc79c1c2740117164e6cf5b2408.jpg_EXIT_81",
+        "image": "KakaoTalk_20240330_153803899_14_jpg.rf.dced5cc79c1c2740117164e6cf5b2408.jpg",
+        "type": "EXIT",
+        "passed_checks": [],
+        "failed_checks": [
+            "Exit OCR MISSING"
+        ]
+    },
+    {
+        "id": "KakaoTalk_20240330_153803899_14_jpg.rf.dced5cc79c1c2740117164e6cf5b2408.jpg",
+        "image": "",
+        "type": "unknown",
+        "passed_checks": [],
+        "failed_checks": []
+    },
+    {
+        "id": "KakaoTalk_20240330_153803899_14_jpg.rf.dced5cc79c1c2740117164e6cf5b2408.jpg_EXIT_82",
+        "image": "KakaoTalk_20240330_153803899_14_jpg.rf.dced5cc79c1c2740117164e6cf5b2408.jpg",
+        "type": "EXIT",
+        "passed_checks": [],
+        "failed_checks": [
+            "Exit OCR MISSING"
+        ]
+    },
+    {
+        "id": "KakaoTalk_20240330_153803899_14_jpg.rf.dced5cc79c1c2740117164e6cf5b2408.jpg_EXIT_83",
+        "image": "KakaoTalk_20240330_153803899_14_jpg.rf.dced5cc79c1c2740117164e6cf5b2408.jpg",
+        "type": "EXIT",
+        "passed_checks": [],
+        "failed_checks": [
+            "Exit OCR MISSING"
+        ]
+    },
+    {
+        "id": "KakaoTalk_20240330_153803899_14_jpg.rf.dced5cc79c1c2740117164e6cf5b2408.jpg_EXIT_84",
+        "image": "KakaoTalk_20240330_153803899_14_jpg.rf.dced5cc79c1c2740117164e6cf5b2408.jpg",
+        "type": "EXIT",
+        "passed_checks": [],
+        "failed_checks": [
+            "Exit OCR MISSING"
+        ]
+    },
+    {
+        "id": "KakaoTalk_20240330_153803899_14_jpg.rf.f2ba07bbbf00dc8dc432d847f424f787.jpg_EXIT_85",
+        "image": "KakaoTalk_20240330_153803899_14_jpg.rf.f2ba07bbbf00dc8dc432d847f424f787.jpg",
+        "type": "EXIT",
+        "passed_checks": [],
+        "failed_checks": [
+            "Exit OCR MISSING"
+        ]
+    },
+    {
+        "id": "KakaoTalk_20240330_153803899_14_jpg.rf.f2ba07bbbf00dc8dc432d847f424f787.jpg",
+        "image": "",
+        "type": "unknown",
+        "passed_checks": [],
+        "failed_checks": []
+    },
+    {
+        "id": "KakaoTalk_20240330_153803899_14_jpg.rf.f2ba07bbbf00dc8dc432d847f424f787.jpg_EXIT_86",
+        "image": "KakaoTalk_20240330_153803899_14_jpg.rf.f2ba07bbbf00dc8dc432d847f424f787.jpg",
+        "type": "EXIT",
+        "passed_checks": [],
+        "failed_checks": [
+            "Exit OCR MISSING"
+        ]
+    },
+    {
+        "id": "KakaoTalk_20240330_153803899_14_jpg.rf.f2ba07bbbf00dc8dc432d847f424f787.jpg_EXIT_87",
+        "image": "KakaoTalk_20240330_153803899_14_jpg.rf.f2ba07bbbf00dc8dc432d847f424f787.jpg",
+        "type": "EXIT",
+        "passed_checks": [],
+        "failed_checks": [
+            "Exit OCR MISSING"
+        ]
+    },
+    {
+        "id": "KakaoTalk_20240330_153803899_14_jpg.rf.f7e87cef1806b996a86644ede7d94263.jpg_EXIT_88",
+        "image": "KakaoTalk_20240330_153803899_14_jpg.rf.f7e87cef1806b996a86644ede7d94263.jpg",
+        "type": "EXIT",
+        "passed_checks": [],
+        "failed_checks": [
+            "Exit OCR MISSING"
+        ]
+    },
+    {
+        "id": "KakaoTalk_20240330_153803899_14_jpg.rf.f7e87cef1806b996a86644ede7d94263.jpg",
+        "image": "",
+        "type": "unknown",
+        "passed_checks": [],
+        "failed_checks": []
+    },
+    {
+        "id": "KakaoTalk_20240330_153803899_14_jpg.rf.f7e87cef1806b996a86644ede7d94263.jpg_EXIT_89",
+        "image": "KakaoTalk_20240330_153803899_14_jpg.rf.f7e87cef1806b996a86644ede7d94263.jpg",
+        "type": "EXIT",
+        "passed_checks": [],
+        "failed_checks": [
+            "Exit OCR MISSING"
+        ]
+    },
+    {
+        "id": "KakaoTalk_20240330_153803899_14_jpg.rf.f7e87cef1806b996a86644ede7d94263.jpg_EXIT_90",
+        "image": "KakaoTalk_20240330_153803899_14_jpg.rf.f7e87cef1806b996a86644ede7d94263.jpg",
+        "type": "EXIT",
+        "passed_checks": [],
+        "failed_checks": [
+            "Exit OCR MISSING"
+        ]
+    },
+    {
+        "id": "KakaoTalk_20240330_153803899_14_jpg.rf.f7e87cef1806b996a86644ede7d94263.jpg_EXIT_91",
+        "image": "KakaoTalk_20240330_153803899_14_jpg.rf.f7e87cef1806b996a86644ede7d94263.jpg",
+        "type": "EXIT",
+        "passed_checks": [],
+        "failed_checks": [
+            "Exit OCR MISSING"
+        ]
+    },
+    {
+        "id": "KakaoTalk_20240330_153803899_jpg.rf.f32b1c686b1fc90ca16000564ee9a567.jpg_EXIT_92",
+        "image": "KakaoTalk_20240330_153803899_jpg.rf.f32b1c686b1fc90ca16000564ee9a567.jpg",
+        "type": "EXIT",
+        "passed_checks": [],
+        "failed_checks": [
+            "Exit OCR MISSING"
+        ]
+    },
+    {
+        "id": "KakaoTalk_20240330_153803899_jpg.rf.f32b1c686b1fc90ca16000564ee9a567.jpg",
+        "image": "",
+        "type": "unknown",
+        "passed_checks": [],
+        "failed_checks": []
+    },
+    {
+        "id": "KakaoTalk_20240405_160640520_01_jpg.rf.a37c1cd6e45e32b7aa72a4612625e040.jpg_EXIT_93",
+        "image": "KakaoTalk_20240405_160640520_01_jpg.rf.a37c1cd6e45e32b7aa72a4612625e040.jpg",
+        "type": "EXIT",
+        "passed_checks": [],
+        "failed_checks": [
+            "Exit OCR MISSING"
+        ]
+    },
+    {
+        "id": "KakaoTalk_20240405_160640520_01_jpg.rf.a37c1cd6e45e32b7aa72a4612625e040.jpg",
+        "image": "",
+        "type": "unknown",
+        "passed_checks": [],
+        "failed_checks": []
+    },
+    {
+        "id": "KakaoTalk_20240405_160640520_03_jpg.rf.31ec73feed4a354cc72b095862dc43e7.jpg_FIREEXTINGUISHER_2",
+        "image": "KakaoTalk_20240405_160640520_03_jpg.rf.31ec73feed4a354cc72b095862dc43e7.jpg",
+        "type": "FIREEXTINGUISHER",
+        "passed_checks": [
+            "FireExtinguisher Confidence OK"
+        ],
+        "failed_checks": []
+    },
+    {
+        "id": "KakaoTalk_20240405_160640520_03_jpg.rf.31ec73feed4a354cc72b095862dc43e7.jpg",
+        "image": "",
+        "type": "unknown",
+        "passed_checks": [],
+        "failed_checks": []
+    },
+    {
+        "id": "KakaoTalk_20240405_160640520_03_jpg.rf.c05806bd430541712a7bfa72e9b5935b.jpg_FIREEXTINGUISHER_3",
+        "image": "KakaoTalk_20240405_160640520_03_jpg.rf.c05806bd430541712a7bfa72e9b5935b.jpg",
+        "type": "FIREEXTINGUISHER",
+        "passed_checks": [
+            "FireExtinguisher Confidence OK"
+        ],
+        "failed_checks": []
+    },
+    {
+        "id": "KakaoTalk_20240405_160640520_03_jpg.rf.c05806bd430541712a7bfa72e9b5935b.jpg",
+        "image": "",
+        "type": "unknown",
+        "passed_checks": [],
+        "failed_checks": []
+    },
+    {
+        "id": "KakaoTalk_20240405_160640520_04_jpg.rf.57c55652206889ee41dfc92ae61c5b15.jpg_EXIT_94",
+        "image": "KakaoTalk_20240405_160640520_04_jpg.rf.57c55652206889ee41dfc92ae61c5b15.jpg",
+        "type": "EXIT",
+        "passed_checks": [],
+        "failed_checks": [
+            "Exit OCR MISSING"
+        ]
+    },
+    {
+        "id": "KakaoTalk_20240405_160640520_04_jpg.rf.57c55652206889ee41dfc92ae61c5b15.jpg",
+        "image": "",
+        "type": "unknown",
+        "passed_checks": [],
+        "failed_checks": []
+    },
+    {
+        "id": "KakaoTalk_20240405_160721726_jpg.rf.b64c0beb55ea3000735d97e2250383f8.jpg_FIREEXTINGUISHER_4",
+        "image": "KakaoTalk_20240405_160721726_jpg.rf.b64c0beb55ea3000735d97e2250383f8.jpg",
+        "type": "FIREEXTINGUISHER",
+        "passed_checks": [],
+        "failed_checks": [
+            "FireExtinguisher Confidence TOO LOW"
+        ]
+    },
+    {
+        "id": "KakaoTalk_20240405_160721726_jpg.rf.b64c0beb55ea3000735d97e2250383f8.jpg",
+        "image": "",
+        "type": "unknown",
+        "passed_checks": [],
+        "failed_checks": []
+    },
+    {
+        "id": "KakaoTalk_20240405_160721726_jpg.rf.e1cb6e191c891ac5005d7ef696ef4a85.jpg_EXIT_95",
+        "image": "KakaoTalk_20240405_160721726_jpg.rf.e1cb6e191c891ac5005d7ef696ef4a85.jpg",
+        "type": "EXIT",
+        "passed_checks": [],
+        "failed_checks": [
+            "Exit OCR MISSING"
+        ]
+    },
+    {
+        "id": "KakaoTalk_20240405_160721726_jpg.rf.e1cb6e191c891ac5005d7ef696ef4a85.jpg",
+        "image": "",
+        "type": "unknown",
+        "passed_checks": [],
+        "failed_checks": []
+    },
+    {
+        "id": "evctmap-113_jpg.rf.f76cd30d85c3ad106d586307507ee3e8.jpg_FIREEXTINGUISHER_5",
+        "image": "evctmap-113_jpg.rf.f76cd30d85c3ad106d586307507ee3e8.jpg",
+        "type": "FIREEXTINGUISHER",
+        "passed_checks": [
+            "FireExtinguisher Confidence OK"
+        ],
+        "failed_checks": []
+    },
+    {
+        "id": "evctmap-113_jpg.rf.f76cd30d85c3ad106d586307507ee3e8.jpg",
+        "image": "",
+        "type": "unknown",
+        "passed_checks": [],
+        "failed_checks": []
+    },
+    {
+        "id": "evctmap-11_jpg.rf.7700bb2bbc23e7c7f11008513367026c.jpg_FIREEXTINGUISHER_6",
+        "image": "evctmap-11_jpg.rf.7700bb2bbc23e7c7f11008513367026c.jpg",
+        "type": "FIREEXTINGUISHER",
+        "passed_checks": [
+            "FireExtinguisher Confidence OK"
+        ],
+        "failed_checks": []
+    },
+    {
+        "id": "evctmap-11_jpg.rf.7700bb2bbc23e7c7f11008513367026c.jpg",
+        "image": "",
+        "type": "unknown",
+        "passed_checks": [],
+        "failed_checks": []
+    },
+    {
+        "id": "evctmap-11_jpg.rf.7700bb2bbc23e7c7f11008513367026c.jpg_EXIT_96",
+        "image": "evctmap-11_jpg.rf.7700bb2bbc23e7c7f11008513367026c.jpg",
+        "type": "EXIT",
+        "passed_checks": [],
+        "failed_checks": [
+            "Exit OCR MISSING"
+        ]
+    },
+    {
+        "id": "evctmap-142_jpg.rf.b4169453cd806377e4ef7172e21b8d8f.jpg_FIREEXTINGUISHER_7",
+        "image": "evctmap-142_jpg.rf.b4169453cd806377e4ef7172e21b8d8f.jpg",
+        "type": "FIREEXTINGUISHER",
+        "passed_checks": [
+            "FireExtinguisher Confidence OK"
+        ],
+        "failed_checks": []
+    },
+    {
+        "id": "evctmap-142_jpg.rf.b4169453cd806377e4ef7172e21b8d8f.jpg",
+        "image": "",
+        "type": "unknown",
+        "passed_checks": [],
+        "failed_checks": []
+    },
+    {
+        "id": "evctmap-142_jpg.rf.b4169453cd806377e4ef7172e21b8d8f.jpg_EXIT_97",
+        "image": "evctmap-142_jpg.rf.b4169453cd806377e4ef7172e21b8d8f.jpg",
+        "type": "EXIT",
+        "passed_checks": [],
+        "failed_checks": [
+            "Exit OCR MISSING"
+        ]
+    },
+    {
+        "id": "evctmap-14_jpg.rf.113a0b99d0cd1e92140777dc927d5b5b.jpg_FIREEXTINGUISHER_8",
+        "image": "evctmap-14_jpg.rf.113a0b99d0cd1e92140777dc927d5b5b.jpg",
+        "type": "FIREEXTINGUISHER",
+        "passed_checks": [],
+        "failed_checks": [
+            "FireExtinguisher Confidence TOO LOW"
+        ]
+    },
+    {
+        "id": "evctmap-14_jpg.rf.113a0b99d0cd1e92140777dc927d5b5b.jpg",
+        "image": "",
+        "type": "unknown",
+        "passed_checks": [],
+        "failed_checks": []
+    },
+    {
+        "id": "evctmap-14_jpg.rf.f116d5b86a30dfa7f25589b656083295.jpg_FIREEXTINGUISHER_9",
+        "image": "evctmap-14_jpg.rf.f116d5b86a30dfa7f25589b656083295.jpg",
+        "type": "FIREEXTINGUISHER",
+        "passed_checks": [
+            "FireExtinguisher Confidence OK"
+        ],
+        "failed_checks": []
+    },
+    {
+        "id": "evctmap-14_jpg.rf.f116d5b86a30dfa7f25589b656083295.jpg",
+        "image": "",
+        "type": "unknown",
+        "passed_checks": [],
+        "failed_checks": []
+    },
+    {
+        "id": "evctmap-157_jpg.rf.03f51ff95e04e047ccacbff3e9bf1e43.jpg_EXIT_98",
+        "image": "evctmap-157_jpg.rf.03f51ff95e04e047ccacbff3e9bf1e43.jpg",
+        "type": "EXIT",
+        "passed_checks": [],
+        "failed_checks": [
+            "Exit OCR MISSING"
+        ]
+    },
+    {
+        "id": "evctmap-157_jpg.rf.03f51ff95e04e047ccacbff3e9bf1e43.jpg",
+        "image": "",
+        "type": "unknown",
+        "passed_checks": [],
+        "failed_checks": []
+    },
+    {
+        "id": "evctmap-16_jpg.rf.2dda181a63d3718eec8256f7d7bd7f52.jpg_EXIT_99",
+        "image": "evctmap-16_jpg.rf.2dda181a63d3718eec8256f7d7bd7f52.jpg",
+        "type": "EXIT",
+        "passed_checks": [],
+        "failed_checks": [
+            "Exit OCR MISSING"
+        ]
+    },
+    {
+        "id": "evctmap-16_jpg.rf.2dda181a63d3718eec8256f7d7bd7f52.jpg",
+        "image": "",
+        "type": "unknown",
+        "passed_checks": [],
+        "failed_checks": []
+    },
+    {
+        "id": "evctmap-25_jpg.rf.202c8a4aa513099f57bcc8ad2e621873.jpg_EXIT_100",
+        "image": "evctmap-25_jpg.rf.202c8a4aa513099f57bcc8ad2e621873.jpg",
+        "type": "EXIT",
+        "passed_checks": [],
+        "failed_checks": [
+            "Exit OCR MISSING"
+        ]
+    },
+    {
+        "id": "evctmap-25_jpg.rf.202c8a4aa513099f57bcc8ad2e621873.jpg",
+        "image": "",
+        "type": "unknown",
+        "passed_checks": [],
+        "failed_checks": []
+    },
+    {
+        "id": "evctmap-27_jpg.rf.3011761f91d44dc5bf4f0ac0b5c3e8d7.jpg_FIREEXTINGUISHER_10",
+        "image": "evctmap-27_jpg.rf.3011761f91d44dc5bf4f0ac0b5c3e8d7.jpg",
+        "type": "FIREEXTINGUISHER",
+        "passed_checks": [],
+        "failed_checks": [
+            "FireExtinguisher Confidence TOO LOW"
+        ]
+    },
+    {
+        "id": "evctmap-27_jpg.rf.3011761f91d44dc5bf4f0ac0b5c3e8d7.jpg",
+        "image": "",
+        "type": "unknown",
+        "passed_checks": [],
+        "failed_checks": []
+    },
+    {
+        "id": "evctmap-27_jpg.rf.9280c209a69d983e4722e4c3e457cbdf.jpg_FIREEXTINGUISHER_11",
+        "image": "evctmap-27_jpg.rf.9280c209a69d983e4722e4c3e457cbdf.jpg",
+        "type": "FIREEXTINGUISHER",
+        "passed_checks": [],
+        "failed_checks": [
+            "FireExtinguisher Confidence TOO LOW"
+        ]
+    },
+    {
+        "id": "evctmap-27_jpg.rf.9280c209a69d983e4722e4c3e457cbdf.jpg",
+        "image": "",
+        "type": "unknown",
+        "passed_checks": [],
+        "failed_checks": []
+    },
+    {
+        "id": "evctmap-28_jpg.rf.3d08d9da016cd721a28b8332d1701581.jpg_FIREEXTINGUISHER_12",
+        "image": "evctmap-28_jpg.rf.3d08d9da016cd721a28b8332d1701581.jpg",
+        "type": "FIREEXTINGUISHER",
+        "passed_checks": [],
+        "failed_checks": [
+            "FireExtinguisher Confidence TOO LOW"
+        ]
+    },
+    {
+        "id": "evctmap-28_jpg.rf.3d08d9da016cd721a28b8332d1701581.jpg",
+        "image": "",
+        "type": "unknown",
+        "passed_checks": [],
+        "failed_checks": []
+    },
+    {
+        "id": "evctmap-29_jpg.rf.7f3764a18266ed3c52dbbac686328260.jpg_EXIT_101",
+        "image": "evctmap-29_jpg.rf.7f3764a18266ed3c52dbbac686328260.jpg",
+        "type": "EXIT",
+        "passed_checks": [],
+        "failed_checks": [
+            "Exit OCR MISSING"
+        ]
+    },
+    {
+        "id": "evctmap-29_jpg.rf.7f3764a18266ed3c52dbbac686328260.jpg",
+        "image": "",
+        "type": "unknown",
+        "passed_checks": [],
+        "failed_checks": []
+    },
+    {
+        "id": "evctmap-2_jpg.rf.3bbe941251de4ae0427239392dd937f4.jpg_EXIT_102",
+        "image": "evctmap-2_jpg.rf.3bbe941251de4ae0427239392dd937f4.jpg",
+        "type": "EXIT",
+        "passed_checks": [],
+        "failed_checks": [
+            "Exit OCR MISSING"
+        ]
+    },
+    {
+        "id": "evctmap-2_jpg.rf.3bbe941251de4ae0427239392dd937f4.jpg",
+        "image": "",
+        "type": "unknown",
+        "passed_checks": [],
+        "failed_checks": []
+    },
+    {
+        "id": "evctmap-320_jpg.rf.9c24cb5cbf3734467bdf77475971ad59.jpg_FIREEXTINGUISHER_13",
+        "image": "evctmap-320_jpg.rf.9c24cb5cbf3734467bdf77475971ad59.jpg",
+        "type": "FIREEXTINGUISHER",
+        "passed_checks": [],
+        "failed_checks": [
+            "FireExtinguisher Confidence TOO LOW"
+        ]
+    },
+    {
+        "id": "evctmap-320_jpg.rf.9c24cb5cbf3734467bdf77475971ad59.jpg",
+        "image": "",
+        "type": "unknown",
+        "passed_checks": [],
+        "failed_checks": []
+    },
+    {
+        "id": "evctmap-39_jpg.rf.86238fb254695116d93fbacbb7f50e51.jpg_FIREEXTINGUISHER_14",
+        "image": "evctmap-39_jpg.rf.86238fb254695116d93fbacbb7f50e51.jpg",
+        "type": "FIREEXTINGUISHER",
+        "passed_checks": [],
+        "failed_checks": [
+            "FireExtinguisher Confidence TOO LOW"
+        ]
+    },
+    {
+        "id": "evctmap-39_jpg.rf.86238fb254695116d93fbacbb7f50e51.jpg",
+        "image": "",
+        "type": "unknown",
+        "passed_checks": [],
+        "failed_checks": []
+    },
+    {
+        "id": "evctmap-3_jpg.rf.d44e8932007bfe3dc7b910589a46b270.jpg_EXIT_103",
+        "image": "evctmap-3_jpg.rf.d44e8932007bfe3dc7b910589a46b270.jpg",
+        "type": "EXIT",
+        "passed_checks": [],
+        "failed_checks": [
+            "Exit OCR MISSING"
+        ]
+    },
+    {
+        "id": "evctmap-3_jpg.rf.d44e8932007bfe3dc7b910589a46b270.jpg",
+        "image": "",
+        "type": "unknown",
+        "passed_checks": [],
+        "failed_checks": []
+    },
+    {
+        "id": "evctmap-402_jpg.rf.de94aab5a98098ecabb9ac057f5df533.jpg_EXIT_104",
+        "image": "evctmap-402_jpg.rf.de94aab5a98098ecabb9ac057f5df533.jpg",
+        "type": "EXIT",
+        "passed_checks": [],
+        "failed_checks": [
+            "Exit OCR MISSING"
+        ]
+    },
+    {
+        "id": "evctmap-402_jpg.rf.de94aab5a98098ecabb9ac057f5df533.jpg",
+        "image": "",
+        "type": "unknown",
+        "passed_checks": [],
+        "failed_checks": []
+    },
+    {
+        "id": "evctmap-470_jpg.rf.87aca37c93dde49b88d1dca58834dad5.jpg_EXIT_105",
+        "image": "evctmap-470_jpg.rf.87aca37c93dde49b88d1dca58834dad5.jpg",
+        "type": "EXIT",
+        "passed_checks": [],
+        "failed_checks": [
+            "Exit OCR MISSING"
+        ]
+    },
+    {
+        "id": "evctmap-470_jpg.rf.87aca37c93dde49b88d1dca58834dad5.jpg",
+        "image": "",
+        "type": "unknown",
+        "passed_checks": [],
+        "failed_checks": []
+    },
+    {
+        "id": "evctmap-470_jpg.rf.9600e644e80fdebefc0d5851ad5523a3.jpg_EXIT_106",
+        "image": "evctmap-470_jpg.rf.9600e644e80fdebefc0d5851ad5523a3.jpg",
+        "type": "EXIT",
+        "passed_checks": [],
+        "failed_checks": [
+            "Exit OCR MISSING"
+        ]
+    },
+    {
+        "id": "evctmap-470_jpg.rf.9600e644e80fdebefc0d5851ad5523a3.jpg",
+        "image": "",
+        "type": "unknown",
+        "passed_checks": [],
+        "failed_checks": []
+    },
+    {
+        "id": "evctmap-481_jpg.rf.b62638f944ff9f91132379c4f9e50a5e.jpg_FIREEXTINGUISHER_15",
+        "image": "evctmap-481_jpg.rf.b62638f944ff9f91132379c4f9e50a5e.jpg",
+        "type": "FIREEXTINGUISHER",
+        "passed_checks": [],
+        "failed_checks": [
+            "FireExtinguisher Confidence TOO LOW"
+        ]
+    },
+    {
+        "id": "evctmap-481_jpg.rf.b62638f944ff9f91132379c4f9e50a5e.jpg",
+        "image": "",
+        "type": "unknown",
+        "passed_checks": [],
+        "failed_checks": []
+    },
+    {
+        "id": "evctmap-4_jpg.rf.fb43a8b9e3a67a76e8095fe70a5b529f.jpg_FIREEXTINGUISHER_16",
+        "image": "evctmap-4_jpg.rf.fb43a8b9e3a67a76e8095fe70a5b529f.jpg",
+        "type": "FIREEXTINGUISHER",
+        "passed_checks": [],
+        "failed_checks": [
+            "FireExtinguisher Confidence TOO LOW"
+        ]
+    },
+    {
+        "id": "evctmap-4_jpg.rf.fb43a8b9e3a67a76e8095fe70a5b529f.jpg",
+        "image": "",
+        "type": "unknown",
+        "passed_checks": [],
+        "failed_checks": []
+    },
+    {
+        "id": "evctmap-503_jpg.rf.e268bde21a62bb2629b7c9902e420d98.jpg_EXIT_107",
+        "image": "evctmap-503_jpg.rf.e268bde21a62bb2629b7c9902e420d98.jpg",
+        "type": "EXIT",
+        "passed_checks": [],
+        "failed_checks": [
+            "Exit OCR MISSING"
+        ]
+    },
+    {
+        "id": "evctmap-503_jpg.rf.e268bde21a62bb2629b7c9902e420d98.jpg",
+        "image": "",
+        "type": "unknown",
+        "passed_checks": [],
+        "failed_checks": []
+    },
+    {
+        "id": "evctmap-503_jpg.rf.e268bde21a62bb2629b7c9902e420d98.jpg_FIREEXTINGUISHER_17",
+        "image": "evctmap-503_jpg.rf.e268bde21a62bb2629b7c9902e420d98.jpg",
+        "type": "FIREEXTINGUISHER",
+        "passed_checks": [],
+        "failed_checks": [
+            "FireExtinguisher Confidence TOO LOW"
+        ]
+    },
+    {
+        "id": "evctmap-509_jpg.rf.f4df436d8d4935d33025661a3c0397c6.jpg_EXIT_108",
+        "image": "evctmap-509_jpg.rf.f4df436d8d4935d33025661a3c0397c6.jpg",
+        "type": "EXIT",
+        "passed_checks": [],
+        "failed_checks": [
+            "Exit OCR MISSING"
+        ]
+    },
+    {
+        "id": "evctmap-509_jpg.rf.f4df436d8d4935d33025661a3c0397c6.jpg",
+        "image": "",
+        "type": "unknown",
+        "passed_checks": [],
+        "failed_checks": []
+    },
+    {
+        "id": "evctmap-512_jpg.rf.73efff70214262019a7266ab3046fb1a.jpg_FIREEXTINGUISHER_18",
+        "image": "evctmap-512_jpg.rf.73efff70214262019a7266ab3046fb1a.jpg",
+        "type": "FIREEXTINGUISHER",
+        "passed_checks": [],
+        "failed_checks": [
+            "FireExtinguisher Confidence TOO LOW"
+        ]
+    },
+    {
+        "id": "evctmap-512_jpg.rf.73efff70214262019a7266ab3046fb1a.jpg",
+        "image": "",
+        "type": "unknown",
+        "passed_checks": [],
+        "failed_checks": []
+    },
+    {
+        "id": "evctmap-512_jpg.rf.a6f50c790032992a374173962b2d9234.jpg_FIREEXTINGUISHER_19",
+        "image": "evctmap-512_jpg.rf.a6f50c790032992a374173962b2d9234.jpg",
+        "type": "FIREEXTINGUISHER",
+        "passed_checks": [],
+        "failed_checks": [
+            "FireExtinguisher Confidence TOO LOW"
+        ]
+    },
+    {
+        "id": "evctmap-512_jpg.rf.a6f50c790032992a374173962b2d9234.jpg",
+        "image": "",
+        "type": "unknown",
+        "passed_checks": [],
+        "failed_checks": []
+    },
+    {
+        "id": "evctmap-512_jpg.rf.a6f50c790032992a374173962b2d9234.jpg_FIREEXTINGUISHER_20",
+        "image": "evctmap-512_jpg.rf.a6f50c790032992a374173962b2d9234.jpg",
+        "type": "FIREEXTINGUISHER",
+        "passed_checks": [],
+        "failed_checks": [
+            "FireExtinguisher Confidence TOO LOW"
+        ]
+    },
+    {
+        "id": "evctmap-512_jpg.rf.ecc6832d314f7cfb1c1f0de6738a77a5.jpg_FIREEXTINGUISHER_21",
+        "image": "evctmap-512_jpg.rf.ecc6832d314f7cfb1c1f0de6738a77a5.jpg",
+        "type": "FIREEXTINGUISHER",
+        "passed_checks": [],
+        "failed_checks": [
+            "FireExtinguisher Confidence TOO LOW"
+        ]
+    },
+    {
+        "id": "evctmap-512_jpg.rf.ecc6832d314f7cfb1c1f0de6738a77a5.jpg",
+        "image": "",
+        "type": "unknown",
+        "passed_checks": [],
+        "failed_checks": []
+    },
+    {
+        "id": "evctmap-512_jpg.rf.ecc6832d314f7cfb1c1f0de6738a77a5.jpg_FIREEXTINGUISHER_22",
+        "image": "evctmap-512_jpg.rf.ecc6832d314f7cfb1c1f0de6738a77a5.jpg",
+        "type": "FIREEXTINGUISHER",
+        "passed_checks": [],
+        "failed_checks": [
+            "FireExtinguisher Confidence TOO LOW"
+        ]
+    },
+    {
+        "id": "evctmap-512_jpg.rf.ecc6832d314f7cfb1c1f0de6738a77a5.jpg_FIREEXTINGUISHER_23",
+        "image": "evctmap-512_jpg.rf.ecc6832d314f7cfb1c1f0de6738a77a5.jpg",
+        "type": "FIREEXTINGUISHER",
+        "passed_checks": [],
+        "failed_checks": [
+            "FireExtinguisher Confidence TOO LOW"
+        ]
+    },
+    {
+        "id": "evctmap-519_jpg.rf.118193b5ae11414a344e77f902b30a3f.jpg_FIREEXTINGUISHER_24",
+        "image": "evctmap-519_jpg.rf.118193b5ae11414a344e77f902b30a3f.jpg",
+        "type": "FIREEXTINGUISHER",
+        "passed_checks": [],
+        "failed_checks": [
+            "FireExtinguisher Confidence TOO LOW"
+        ]
+    },
+    {
+        "id": "evctmap-519_jpg.rf.118193b5ae11414a344e77f902b30a3f.jpg",
+        "image": "",
+        "type": "unknown",
+        "passed_checks": [],
+        "failed_checks": []
+    },
+    {
+        "id": "evctmap-519_jpg.rf.5298370bb16bb1fd007a8354760c47f4.jpg_FIREEXTINGUISHER_25",
+        "image": "evctmap-519_jpg.rf.5298370bb16bb1fd007a8354760c47f4.jpg",
+        "type": "FIREEXTINGUISHER",
+        "passed_checks": [],
+        "failed_checks": [
+            "FireExtinguisher Confidence TOO LOW"
+        ]
+    },
+    {
+        "id": "evctmap-519_jpg.rf.5298370bb16bb1fd007a8354760c47f4.jpg",
+        "image": "",
+        "type": "unknown",
+        "passed_checks": [],
+        "failed_checks": []
+    },
+    {
+        "id": "evctmap-525_jpg.rf.ea75485c9f8d9fdd254ef31ea8ff1376.jpg_FIREEXTINGUISHER_26",
+        "image": "evctmap-525_jpg.rf.ea75485c9f8d9fdd254ef31ea8ff1376.jpg",
+        "type": "FIREEXTINGUISHER",
+        "passed_checks": [],
+        "failed_checks": [
+            "FireExtinguisher Confidence TOO LOW"
+        ]
+    },
+    {
+        "id": "evctmap-525_jpg.rf.ea75485c9f8d9fdd254ef31ea8ff1376.jpg",
+        "image": "",
+        "type": "unknown",
+        "passed_checks": [],
+        "failed_checks": []
+    },
+    {
+        "id": "evctmap-525_jpg.rf.f7367f1b8c23a35a1f9d86d03614d956.jpg_FIREEXTINGUISHER_27",
+        "image": "evctmap-525_jpg.rf.f7367f1b8c23a35a1f9d86d03614d956.jpg",
+        "type": "FIREEXTINGUISHER",
+        "passed_checks": [],
+        "failed_checks": [
+            "FireExtinguisher Confidence TOO LOW"
+        ]
+    },
+    {
+        "id": "evctmap-525_jpg.rf.f7367f1b8c23a35a1f9d86d03614d956.jpg",
+        "image": "",
+        "type": "unknown",
+        "passed_checks": [],
+        "failed_checks": []
+    },
+    {
+        "id": "evctmap-540_jpg.rf.3ee814bbfd642cd3dc0545e3abb91d68.jpg_FIREEXTINGUISHER_28",
+        "image": "evctmap-540_jpg.rf.3ee814bbfd642cd3dc0545e3abb91d68.jpg",
+        "type": "FIREEXTINGUISHER",
+        "passed_checks": [],
+        "failed_checks": [
+            "FireExtinguisher Confidence TOO LOW"
+        ]
+    },
+    {
+        "id": "evctmap-540_jpg.rf.3ee814bbfd642cd3dc0545e3abb91d68.jpg",
+        "image": "",
+        "type": "unknown",
+        "passed_checks": [],
+        "failed_checks": []
+    },
+    {
+        "id": "evctmap-540_jpg.rf.935f47ad5eb61dc1ee21cc77eba3136a.jpg_FIREEXTINGUISHER_29",
+        "image": "evctmap-540_jpg.rf.935f47ad5eb61dc1ee21cc77eba3136a.jpg",
+        "type": "FIREEXTINGUISHER",
+        "passed_checks": [],
+        "failed_checks": [
+            "FireExtinguisher Confidence TOO LOW"
+        ]
+    },
+    {
+        "id": "evctmap-540_jpg.rf.935f47ad5eb61dc1ee21cc77eba3136a.jpg",
+        "image": "",
+        "type": "unknown",
+        "passed_checks": [],
+        "failed_checks": []
+    },
+    {
+        "id": "evctmap-540_jpg.rf.d304e454f268182a1de59bd73dd41a6a.jpg_EXIT_109",
+        "image": "evctmap-540_jpg.rf.d304e454f268182a1de59bd73dd41a6a.jpg",
+        "type": "EXIT",
+        "passed_checks": [],
+        "failed_checks": [
+            "Exit OCR MISSING"
+        ]
+    },
+    {
+        "id": "evctmap-540_jpg.rf.d304e454f268182a1de59bd73dd41a6a.jpg",
+        "image": "",
+        "type": "unknown",
+        "passed_checks": [],
+        "failed_checks": []
+    },
+    {
+        "id": "evctmap-570_jpg.rf.76d7692942bf73a842d6e67735742dbd.jpg_EXIT_110",
+        "image": "evctmap-570_jpg.rf.76d7692942bf73a842d6e67735742dbd.jpg",
+        "type": "EXIT",
+        "passed_checks": [],
+        "failed_checks": [
+            "Exit OCR MISSING"
+        ]
+    },
+    {
+        "id": "evctmap-570_jpg.rf.76d7692942bf73a842d6e67735742dbd.jpg",
+        "image": "",
+        "type": "unknown",
+        "passed_checks": [],
+        "failed_checks": []
+    },
+    {
+        "id": "evctmap-579_jpg.rf.4b3147974d1151c1576e4d2a844e86ab.jpg_FIREEXTINGUISHER_30",
+        "image": "evctmap-579_jpg.rf.4b3147974d1151c1576e4d2a844e86ab.jpg",
+        "type": "FIREEXTINGUISHER",
+        "passed_checks": [
+            "FireExtinguisher Confidence OK"
+        ],
+        "failed_checks": []
+    },
+    {
+        "id": "evctmap-579_jpg.rf.4b3147974d1151c1576e4d2a844e86ab.jpg",
+        "image": "",
+        "type": "unknown",
+        "passed_checks": [],
+        "failed_checks": []
+    },
+    {
+        "id": "evctmap-579_jpg.rf.4b3147974d1151c1576e4d2a844e86ab.jpg_FIREEXTINGUISHER_31",
+        "image": "evctmap-579_jpg.rf.4b3147974d1151c1576e4d2a844e86ab.jpg",
+        "type": "FIREEXTINGUISHER",
+        "passed_checks": [],
+        "failed_checks": [
+            "FireExtinguisher Confidence TOO LOW"
+        ]
+    },
+    {
+        "id": "evctmap-579_jpg.rf.56a697be3a8739a4114121b3fb18fcf6.jpg_FIREEXTINGUISHER_32",
+        "image": "evctmap-579_jpg.rf.56a697be3a8739a4114121b3fb18fcf6.jpg",
+        "type": "FIREEXTINGUISHER",
+        "passed_checks": [],
+        "failed_checks": [
+            "FireExtinguisher Confidence TOO LOW"
+        ]
+    },
+    {
+        "id": "evctmap-579_jpg.rf.56a697be3a8739a4114121b3fb18fcf6.jpg",
+        "image": "",
+        "type": "unknown",
+        "passed_checks": [],
+        "failed_checks": []
+    },
+    {
+        "id": "evctmap-579_jpg.rf.56a697be3a8739a4114121b3fb18fcf6.jpg_FIREEXTINGUISHER_33",
+        "image": "evctmap-579_jpg.rf.56a697be3a8739a4114121b3fb18fcf6.jpg",
+        "type": "FIREEXTINGUISHER",
+        "passed_checks": [],
+        "failed_checks": [
+            "FireExtinguisher Confidence TOO LOW"
+        ]
+    },
+    {
+        "id": "evctmap-579_jpg.rf.579025750392a6eac7cb4239975486be.jpg_FIREEXTINGUISHER_34",
+        "image": "evctmap-579_jpg.rf.579025750392a6eac7cb4239975486be.jpg",
+        "type": "FIREEXTINGUISHER",
+        "passed_checks": [
+            "FireExtinguisher Confidence OK"
+        ],
+        "failed_checks": []
+    },
+    {
+        "id": "evctmap-579_jpg.rf.579025750392a6eac7cb4239975486be.jpg",
+        "image": "",
+        "type": "unknown",
+        "passed_checks": [],
+        "failed_checks": []
+    },
+    {
+        "id": "evctmap-579_jpg.rf.579025750392a6eac7cb4239975486be.jpg_FIREEXTINGUISHER_35",
+        "image": "evctmap-579_jpg.rf.579025750392a6eac7cb4239975486be.jpg",
+        "type": "FIREEXTINGUISHER",
+        "passed_checks": [],
+        "failed_checks": [
+            "FireExtinguisher Confidence TOO LOW"
+        ]
+    },
+    {
+        "id": "evctmap-579_jpg.rf.579025750392a6eac7cb4239975486be.jpg_FIREEXTINGUISHER_36",
+        "image": "evctmap-579_jpg.rf.579025750392a6eac7cb4239975486be.jpg",
+        "type": "FIREEXTINGUISHER",
+        "passed_checks": [],
+        "failed_checks": [
+            "FireExtinguisher Confidence TOO LOW"
+        ]
+    },
+    {
+        "id": "evctmap-590_jpg.rf.95a3c6ce0600e07ef619aaf82dec69b4.jpg_FIREEXTINGUISHER_37",
+        "image": "evctmap-590_jpg.rf.95a3c6ce0600e07ef619aaf82dec69b4.jpg",
+        "type": "FIREEXTINGUISHER",
+        "passed_checks": [],
+        "failed_checks": [
+            "FireExtinguisher Confidence TOO LOW"
+        ]
+    },
+    {
+        "id": "evctmap-590_jpg.rf.95a3c6ce0600e07ef619aaf82dec69b4.jpg",
+        "image": "",
+        "type": "unknown",
+        "passed_checks": [],
+        "failed_checks": []
+    },
+    {
+        "id": "evctmap-5_jpg.rf.122331c53d6917bf9d4b0f9ef1ac062f.jpg_EXIT_111",
+        "image": "evctmap-5_jpg.rf.122331c53d6917bf9d4b0f9ef1ac062f.jpg",
+        "type": "EXIT",
+        "passed_checks": [],
+        "failed_checks": [
+            "Exit OCR MISSING"
+        ]
+    },
+    {
+        "id": "evctmap-5_jpg.rf.122331c53d6917bf9d4b0f9ef1ac062f.jpg",
+        "image": "",
+        "type": "unknown",
+        "passed_checks": [],
+        "failed_checks": []
+    },
+    {
+        "id": "evctmap-608_jpg.rf.4d7e2f528fad364576cda4dc7fad41fc.jpg_FIREEXTINGUISHER_38",
+        "image": "evctmap-608_jpg.rf.4d7e2f528fad364576cda4dc7fad41fc.jpg",
+        "type": "FIREEXTINGUISHER",
+        "passed_checks": [],
+        "failed_checks": [
+            "FireExtinguisher Confidence TOO LOW"
+        ]
+    },
+    {
+        "id": "evctmap-608_jpg.rf.4d7e2f528fad364576cda4dc7fad41fc.jpg",
+        "image": "",
+        "type": "unknown",
+        "passed_checks": [],
+        "failed_checks": []
+    },
+    {
+        "id": "evctmap-608_jpg.rf.98bf42e4968628dd734015a4e73f147e.jpg_FIREEXTINGUISHER_39",
+        "image": "evctmap-608_jpg.rf.98bf42e4968628dd734015a4e73f147e.jpg",
+        "type": "FIREEXTINGUISHER",
+        "passed_checks": [
+            "FireExtinguisher Confidence OK"
+        ],
+        "failed_checks": []
+    },
+    {
+        "id": "evctmap-608_jpg.rf.98bf42e4968628dd734015a4e73f147e.jpg",
+        "image": "",
+        "type": "unknown",
+        "passed_checks": [],
+        "failed_checks": []
+    },
+    {
+        "id": "evctmap-608_jpg.rf.98bf42e4968628dd734015a4e73f147e.jpg_FIREEXTINGUISHER_40",
+        "image": "evctmap-608_jpg.rf.98bf42e4968628dd734015a4e73f147e.jpg",
+        "type": "FIREEXTINGUISHER",
+        "passed_checks": [],
+        "failed_checks": [
+            "FireExtinguisher Confidence TOO LOW"
+        ]
+    },
+    {
+        "id": "evctmap-608_jpg.rf.98bf42e4968628dd734015a4e73f147e.jpg_FIREEXTINGUISHER_41",
+        "image": "evctmap-608_jpg.rf.98bf42e4968628dd734015a4e73f147e.jpg",
+        "type": "FIREEXTINGUISHER",
+        "passed_checks": [],
+        "failed_checks": [
+            "FireExtinguisher Confidence TOO LOW"
+        ]
+    },
+    {
+        "id": "evctmap-608_jpg.rf.c01c5b1ba87ad4443ae382bf54ae0726.jpg_FIREEXTINGUISHER_42",
+        "image": "evctmap-608_jpg.rf.c01c5b1ba87ad4443ae382bf54ae0726.jpg",
+        "type": "FIREEXTINGUISHER",
+        "passed_checks": [
+            "FireExtinguisher Confidence OK"
+        ],
+        "failed_checks": []
+    },
+    {
+        "id": "evctmap-608_jpg.rf.c01c5b1ba87ad4443ae382bf54ae0726.jpg",
+        "image": "",
+        "type": "unknown",
+        "passed_checks": [],
+        "failed_checks": []
+    },
+    {
+        "id": "evctmap-608_jpg.rf.c01c5b1ba87ad4443ae382bf54ae0726.jpg_FIREEXTINGUISHER_43",
+        "image": "evctmap-608_jpg.rf.c01c5b1ba87ad4443ae382bf54ae0726.jpg",
+        "type": "FIREEXTINGUISHER",
+        "passed_checks": [
+            "FireExtinguisher Confidence OK"
+        ],
+        "failed_checks": []
+    },
+    {
+        "id": "evctmap-608_jpg.rf.c01c5b1ba87ad4443ae382bf54ae0726.jpg_FIREEXTINGUISHER_44",
+        "image": "evctmap-608_jpg.rf.c01c5b1ba87ad4443ae382bf54ae0726.jpg",
+        "type": "FIREEXTINGUISHER",
+        "passed_checks": [],
+        "failed_checks": [
+            "FireExtinguisher Confidence TOO LOW"
+        ]
+    },
+    {
+        "id": "evctmap-641_jpg.rf.6895a6145b74389546e249ae27733074.jpg_FIREEXTINGUISHER_45",
+        "image": "evctmap-641_jpg.rf.6895a6145b74389546e249ae27733074.jpg",
+        "type": "FIREEXTINGUISHER",
+        "passed_checks": [
+            "FireExtinguisher Confidence OK"
+        ],
+        "failed_checks": []
+    },
+    {
+        "id": "evctmap-641_jpg.rf.6895a6145b74389546e249ae27733074.jpg",
+        "image": "",
+        "type": "unknown",
+        "passed_checks": [],
+        "failed_checks": []
+    },
+    {
+        "id": "evctmap-641_jpg.rf.6895a6145b74389546e249ae27733074.jpg_FIREEXTINGUISHER_46",
+        "image": "evctmap-641_jpg.rf.6895a6145b74389546e249ae27733074.jpg",
+        "type": "FIREEXTINGUISHER",
+        "passed_checks": [],
+        "failed_checks": [
+            "FireExtinguisher Confidence TOO LOW"
+        ]
+    },
+    {
+        "id": "evctmap-643_jpg.rf.fcc771821a5e35b9bd02f8c6a8b95d4a.jpg_EXIT_112",
+        "image": "evctmap-643_jpg.rf.fcc771821a5e35b9bd02f8c6a8b95d4a.jpg",
+        "type": "EXIT",
+        "passed_checks": [],
+        "failed_checks": [
+            "Exit OCR MISSING"
+        ]
+    },
+    {
+        "id": "evctmap-643_jpg.rf.fcc771821a5e35b9bd02f8c6a8b95d4a.jpg",
+        "image": "",
+        "type": "unknown",
+        "passed_checks": [],
+        "failed_checks": []
+    },
+    {
+        "id": "evctmap-683_jpg.rf.f544c077e361373da32374b9486ac71d.jpg_EXIT_113",
+        "image": "evctmap-683_jpg.rf.f544c077e361373da32374b9486ac71d.jpg",
+        "type": "EXIT",
+        "passed_checks": [],
+        "failed_checks": [
+            "Exit OCR MISSING"
+        ]
+    },
+    {
+        "id": "evctmap-683_jpg.rf.f544c077e361373da32374b9486ac71d.jpg",
+        "image": "",
+        "type": "unknown",
+        "passed_checks": [],
+        "failed_checks": []
+    },
+    {
+        "id": "evctmap-9_jpg.rf.ca2538e7d97e772eca459310d3abeaae.jpg_FIREEXTINGUISHER_47",
+        "image": "evctmap-9_jpg.rf.ca2538e7d97e772eca459310d3abeaae.jpg",
+        "type": "FIREEXTINGUISHER",
+        "passed_checks": [],
+        "failed_checks": [
+            "FireExtinguisher Confidence TOO LOW"
+        ]
+    },
+    {
+        "id": "evctmap-9_jpg.rf.ca2538e7d97e772eca459310d3abeaae.jpg",
+        "image": "",
+        "type": "unknown",
+        "passed_checks": [],
+        "failed_checks": []
+    },
+    {
+        "id": "evctmappevacuation-floor-plan110_jpg.rf.5ef9fee218634a9744244d5054effc81.jpg_EXIT_114",
+        "image": "evctmappevacuation-floor-plan110_jpg.rf.5ef9fee218634a9744244d5054effc81.jpg",
+        "type": "EXIT",
+        "passed_checks": [],
+        "failed_checks": [
+            "Exit OCR MISSING"
+        ]
+    },
+    {
+        "id": "evctmappevacuation-floor-plan110_jpg.rf.5ef9fee218634a9744244d5054effc81.jpg",
+        "image": "",
+        "type": "unknown",
+        "passed_checks": [],
+        "failed_checks": []
+    },
+    {
+        "id": "evctmappevacuation-floor-plan22_jpg.rf.3aba50b5ff0d0013ef977bedb6069d7f.jpg_FIREEXTINGUISHER_48",
+        "image": "evctmappevacuation-floor-plan22_jpg.rf.3aba50b5ff0d0013ef977bedb6069d7f.jpg",
+        "type": "FIREEXTINGUISHER",
+        "passed_checks": [
+            "FireExtinguisher Confidence OK"
+        ],
+        "failed_checks": []
+    },
+    {
+        "id": "evctmappevacuation-floor-plan22_jpg.rf.3aba50b5ff0d0013ef977bedb6069d7f.jpg",
+        "image": "",
+        "type": "unknown",
+        "passed_checks": [],
+        "failed_checks": []
+    },
+    {
+        "id": "evctmappevacuation-floor-plan22_jpg.rf.3aba50b5ff0d0013ef977bedb6069d7f.jpg_FIREEXTINGUISHER_49",
+        "image": "evctmappevacuation-floor-plan22_jpg.rf.3aba50b5ff0d0013ef977bedb6069d7f.jpg",
+        "type": "FIREEXTINGUISHER",
+        "passed_checks": [],
+        "failed_checks": [
+            "FireExtinguisher Confidence TOO LOW"
+        ]
+    },
+    {
+        "id": "evctmappevacuation-floor-plan270_jpg.rf.6446a44c1e5b0f6f90a3d789b1ebcbfa.jpg_FIREEXTINGUISHER_50",
+        "image": "evctmappevacuation-floor-plan270_jpg.rf.6446a44c1e5b0f6f90a3d789b1ebcbfa.jpg",
+        "type": "FIREEXTINGUISHER",
+        "passed_checks": [],
+        "failed_checks": [
+            "FireExtinguisher Confidence TOO LOW"
+        ]
+    },
+    {
+        "id": "evctmappevacuation-floor-plan270_jpg.rf.6446a44c1e5b0f6f90a3d789b1ebcbfa.jpg",
+        "image": "",
+        "type": "unknown",
+        "passed_checks": [],
+        "failed_checks": []
+    },
+    {
+        "id": "evctmappevacuation-floor-plan336_jpg.rf.2f5e59f46f4ad53f0d5785a32fa28bc3.jpg_FIREEXTINGUISHER_51",
+        "image": "evctmappevacuation-floor-plan336_jpg.rf.2f5e59f46f4ad53f0d5785a32fa28bc3.jpg",
+        "type": "FIREEXTINGUISHER",
+        "passed_checks": [
+            "FireExtinguisher Confidence OK"
+        ],
+        "failed_checks": []
+    },
+    {
+        "id": "evctmappevacuation-floor-plan336_jpg.rf.2f5e59f46f4ad53f0d5785a32fa28bc3.jpg",
+        "image": "",
+        "type": "unknown",
+        "passed_checks": [],
+        "failed_checks": []
+    },
+    {
+        "id": "evctmappevacuation-floor-plan336_jpg.rf.a82d11b7e41e55e512d6d1310218db36.jpg_FIREEXTINGUISHER_52",
+        "image": "evctmappevacuation-floor-plan336_jpg.rf.a82d11b7e41e55e512d6d1310218db36.jpg",
+        "type": "FIREEXTINGUISHER",
+        "passed_checks": [
+            "FireExtinguisher Confidence OK"
+        ],
+        "failed_checks": []
+    },
+    {
+        "id": "evctmappevacuation-floor-plan336_jpg.rf.a82d11b7e41e55e512d6d1310218db36.jpg",
+        "image": "",
+        "type": "unknown",
+        "passed_checks": [],
+        "failed_checks": []
+    },
+    {
+        "id": "evctmappevacuation-floor-plan336_jpg.rf.c2bce66c0a0162b3b48c826f7fb63042.jpg_FIREEXTINGUISHER_53",
+        "image": "evctmappevacuation-floor-plan336_jpg.rf.c2bce66c0a0162b3b48c826f7fb63042.jpg",
+        "type": "FIREEXTINGUISHER",
+        "passed_checks": [
+            "FireExtinguisher Confidence OK"
+        ],
+        "failed_checks": []
+    },
+    {
+        "id": "evctmappevacuation-floor-plan336_jpg.rf.c2bce66c0a0162b3b48c826f7fb63042.jpg",
+        "image": "",
+        "type": "unknown",
+        "passed_checks": [],
+        "failed_checks": []
+    },
+    {
+        "id": "evctmappevacuation-floor-plan336_jpg.rf.c2bce66c0a0162b3b48c826f7fb63042.jpg_FIREEXTINGUISHER_54",
+        "image": "evctmappevacuation-floor-plan336_jpg.rf.c2bce66c0a0162b3b48c826f7fb63042.jpg",
+        "type": "FIREEXTINGUISHER",
+        "passed_checks": [],
+        "failed_checks": [
+            "FireExtinguisher Confidence TOO LOW"
+        ]
+    },
+    {
+        "id": "evctmappevacuation-floor-plan345_jpg.rf.22238b334ca8908a366986f0c2652dd7.jpg_FIREEXTINGUISHER_55",
+        "image": "evctmappevacuation-floor-plan345_jpg.rf.22238b334ca8908a366986f0c2652dd7.jpg",
+        "type": "FIREEXTINGUISHER",
+        "passed_checks": [
+            "FireExtinguisher Confidence OK"
+        ],
+        "failed_checks": []
+    },
+    {
+        "id": "evctmappevacuation-floor-plan345_jpg.rf.22238b334ca8908a366986f0c2652dd7.jpg",
+        "image": "",
+        "type": "unknown",
+        "passed_checks": [],
+        "failed_checks": []
+    },
+    {
+        "id": "evctmappevacuation-floor-plan345_jpg.rf.22238b334ca8908a366986f0c2652dd7.jpg_FIREEXTINGUISHER_56",
+        "image": "evctmappevacuation-floor-plan345_jpg.rf.22238b334ca8908a366986f0c2652dd7.jpg",
+        "type": "FIREEXTINGUISHER",
+        "passed_checks": [],
+        "failed_checks": [
+            "FireExtinguisher Confidence TOO LOW"
+        ]
+    },
+    {
+        "id": "evctmappevacuation-floor-plan345_jpg.rf.5b6e6bba6143fd1f4dc4f6da4c5cb727.jpg_FIREEXTINGUISHER_57",
+        "image": "evctmappevacuation-floor-plan345_jpg.rf.5b6e6bba6143fd1f4dc4f6da4c5cb727.jpg",
+        "type": "FIREEXTINGUISHER",
+        "passed_checks": [],
+        "failed_checks": [
+            "FireExtinguisher Confidence TOO LOW"
+        ]
+    },
+    {
+        "id": "evctmappevacuation-floor-plan345_jpg.rf.5b6e6bba6143fd1f4dc4f6da4c5cb727.jpg",
+        "image": "",
+        "type": "unknown",
+        "passed_checks": [],
+        "failed_checks": []
+    },
+    {
+        "id": "evctmappevacuation-floor-plan345_jpg.rf.f4b12bcabad18ef493311c8c31614622.jpg_FIREEXTINGUISHER_58",
+        "image": "evctmappevacuation-floor-plan345_jpg.rf.f4b12bcabad18ef493311c8c31614622.jpg",
+        "type": "FIREEXTINGUISHER",
+        "passed_checks": [
+            "FireExtinguisher Confidence OK"
+        ],
+        "failed_checks": []
+    },
+    {
+        "id": "evctmappevacuation-floor-plan345_jpg.rf.f4b12bcabad18ef493311c8c31614622.jpg",
+        "image": "",
+        "type": "unknown",
+        "passed_checks": [],
+        "failed_checks": []
+    },
+    {
+        "id": "evctmappevacuation-floor-plan397_jpg.rf.15c11a63abce739da4675cd43f3c8241.jpg_EXIT_115",
+        "image": "evctmappevacuation-floor-plan397_jpg.rf.15c11a63abce739da4675cd43f3c8241.jpg",
+        "type": "EXIT",
+        "passed_checks": [],
+        "failed_checks": [
+            "Exit OCR MISSING"
+        ]
+    },
+    {
+        "id": "evctmappevacuation-floor-plan397_jpg.rf.15c11a63abce739da4675cd43f3c8241.jpg",
+        "image": "",
+        "type": "unknown",
+        "passed_checks": [],
+        "failed_checks": []
+    },
+    {
+        "id": "evctmappevacuation-floor-plan397_jpg.rf.6772ab0a86eb41dbff44b7b6872a50b6.jpg_EXIT_116",
+        "image": "evctmappevacuation-floor-plan397_jpg.rf.6772ab0a86eb41dbff44b7b6872a50b6.jpg",
+        "type": "EXIT",
+        "passed_checks": [],
+        "failed_checks": [
+            "Exit OCR MISSING"
+        ]
+    },
+    {
+        "id": "evctmappevacuation-floor-plan397_jpg.rf.6772ab0a86eb41dbff44b7b6872a50b6.jpg",
+        "image": "",
+        "type": "unknown",
+        "passed_checks": [],
+        "failed_checks": []
+    },
+    {
+        "id": "evctmappevacuation-floor-plan474_jpg.rf.a4635bd70339f910e4bd951fe0829f90.jpg_EXIT_117",
+        "image": "evctmappevacuation-floor-plan474_jpg.rf.a4635bd70339f910e4bd951fe0829f90.jpg",
+        "type": "EXIT",
+        "passed_checks": [],
+        "failed_checks": [
+            "Exit OCR MISSING"
+        ]
+    },
+    {
+        "id": "evctmappevacuation-floor-plan474_jpg.rf.a4635bd70339f910e4bd951fe0829f90.jpg",
+        "image": "",
+        "type": "unknown",
+        "passed_checks": [],
+        "failed_checks": []
+    },
+    {
+        "id": "evctmappevacuation-floor-plan474_jpg.rf.d78f8f7536fae1287a9bd33d6d749c0c.jpg_EXIT_118",
+        "image": "evctmappevacuation-floor-plan474_jpg.rf.d78f8f7536fae1287a9bd33d6d749c0c.jpg",
+        "type": "EXIT",
+        "passed_checks": [],
+        "failed_checks": [
+            "Exit OCR MISSING"
+        ]
+    },
+    {
+        "id": "evctmappevacuation-floor-plan474_jpg.rf.d78f8f7536fae1287a9bd33d6d749c0c.jpg",
+        "image": "",
+        "type": "unknown",
+        "passed_checks": [],
+        "failed_checks": []
+    },
+    {
+        "id": "evctmappevacuation-floor-plan500_jpg.rf.7be3f8068405fe2dcb5215baa1ac09aa.jpg_FIREEXTINGUISHER_59",
+        "image": "evctmappevacuation-floor-plan500_jpg.rf.7be3f8068405fe2dcb5215baa1ac09aa.jpg",
+        "type": "FIREEXTINGUISHER",
+        "passed_checks": [],
+        "failed_checks": [
+            "FireExtinguisher Confidence TOO LOW"
+        ]
+    },
+    {
+        "id": "evctmappevacuation-floor-plan500_jpg.rf.7be3f8068405fe2dcb5215baa1ac09aa.jpg",
+        "image": "",
+        "type": "unknown",
+        "passed_checks": [],
+        "failed_checks": []
+    },
+    {
+        "id": "evctmappevacuation-floor-plan502_jpg.rf.8e5c503fe0217472329c60b1732b108b.jpg_FIREEXTINGUISHER_60",
+        "image": "evctmappevacuation-floor-plan502_jpg.rf.8e5c503fe0217472329c60b1732b108b.jpg",
+        "type": "FIREEXTINGUISHER",
+        "passed_checks": [
+            "FireExtinguisher Confidence OK"
+        ],
+        "failed_checks": []
+    },
+    {
+        "id": "evctmappevacuation-floor-plan502_jpg.rf.8e5c503fe0217472329c60b1732b108b.jpg",
+        "image": "",
+        "type": "unknown",
+        "passed_checks": [],
+        "failed_checks": []
+    },
+    {
+        "id": "evctmappevacuation-floor-plan502_jpg.rf.8e5c503fe0217472329c60b1732b108b.jpg_FIREEXTINGUISHER_61",
+        "image": "evctmappevacuation-floor-plan502_jpg.rf.8e5c503fe0217472329c60b1732b108b.jpg",
+        "type": "FIREEXTINGUISHER",
+        "passed_checks": [
+            "FireExtinguisher Confidence OK"
+        ],
+        "failed_checks": []
+    },
+    {
+        "id": "evctmappevacuation-floor-plan502_jpg.rf.8e5c503fe0217472329c60b1732b108b.jpg_FIREEXTINGUISHER_62",
+        "image": "evctmappevacuation-floor-plan502_jpg.rf.8e5c503fe0217472329c60b1732b108b.jpg",
+        "type": "FIREEXTINGUISHER",
+        "passed_checks": [
+            "FireExtinguisher Confidence OK"
+        ],
+        "failed_checks": []
+    },
+    {
+        "id": "evctmappevacuation-floor-plan502_jpg.rf.8e5c503fe0217472329c60b1732b108b.jpg_EXIT_119",
+        "image": "evctmappevacuation-floor-plan502_jpg.rf.8e5c503fe0217472329c60b1732b108b.jpg",
+        "type": "EXIT",
+        "passed_checks": [],
+        "failed_checks": [
+            "Exit OCR MISSING"
+        ]
+    },
+    {
+        "id": "evctmappevacuation-floor-plan502_jpg.rf.8e5c503fe0217472329c60b1732b108b.jpg_FIREEXTINGUISHER_63",
+        "image": "evctmappevacuation-floor-plan502_jpg.rf.8e5c503fe0217472329c60b1732b108b.jpg",
+        "type": "FIREEXTINGUISHER",
+        "passed_checks": [
+            "FireExtinguisher Confidence OK"
+        ],
+        "failed_checks": []
+    },
+    {
+        "id": "evctmappevacuation-floor-plan502_jpg.rf.9cd83a131ab55baf58e4c857cdb8c62c.jpg_EXIT_120",
+        "image": "evctmappevacuation-floor-plan502_jpg.rf.9cd83a131ab55baf58e4c857cdb8c62c.jpg",
+        "type": "EXIT",
+        "passed_checks": [],
+        "failed_checks": [
+            "Exit OCR MISSING"
+        ]
+    },
+    {
+        "id": "evctmappevacuation-floor-plan502_jpg.rf.9cd83a131ab55baf58e4c857cdb8c62c.jpg",
+        "image": "",
+        "type": "unknown",
+        "passed_checks": [],
+        "failed_checks": []
+    },
+    {
+        "id": "evctmappevacuation-floor-plan51_jpg.rf.dfbab3d2fb166d0e1982aa561141bfcb.jpg_EXIT_121",
+        "image": "evctmappevacuation-floor-plan51_jpg.rf.dfbab3d2fb166d0e1982aa561141bfcb.jpg",
+        "type": "EXIT",
+        "passed_checks": [],
+        "failed_checks": [
+            "Exit OCR MISSING"
+        ]
+    },
+    {
+        "id": "evctmappevacuation-floor-plan51_jpg.rf.dfbab3d2fb166d0e1982aa561141bfcb.jpg",
+        "image": "",
+        "type": "unknown",
+        "passed_checks": [],
+        "failed_checks": []
+    },
+    {
+        "id": "evctmappevacuation-floor-plan558_jpg.rf.4eaac485477f64d5e035d2101c1eb792.jpg_FIREEXTINGUISHER_64",
+        "image": "evctmappevacuation-floor-plan558_jpg.rf.4eaac485477f64d5e035d2101c1eb792.jpg",
+        "type": "FIREEXTINGUISHER",
+        "passed_checks": [],
+        "failed_checks": [
+            "FireExtinguisher Confidence TOO LOW"
+        ]
+    },
+    {
+        "id": "evctmappevacuation-floor-plan558_jpg.rf.4eaac485477f64d5e035d2101c1eb792.jpg",
+        "image": "",
+        "type": "unknown",
+        "passed_checks": [],
+        "failed_checks": []
+    },
+    {
+        "id": "evctmappevacuation-floor-plan610_jpg.rf.44fb697ba918f002035765d99354e582.jpg_FIREEXTINGUISHER_65",
+        "image": "evctmappevacuation-floor-plan610_jpg.rf.44fb697ba918f002035765d99354e582.jpg",
+        "type": "FIREEXTINGUISHER",
+        "passed_checks": [
+            "FireExtinguisher Confidence OK"
+        ],
+        "failed_checks": []
+    },
+    {
+        "id": "evctmappevacuation-floor-plan610_jpg.rf.44fb697ba918f002035765d99354e582.jpg",
+        "image": "",
+        "type": "unknown",
+        "passed_checks": [],
+        "failed_checks": []
+    },
+    {
+        "id": "evctmappevacuation-floor-plan610_jpg.rf.44fb697ba918f002035765d99354e582.jpg_FIREEXTINGUISHER_66",
+        "image": "evctmappevacuation-floor-plan610_jpg.rf.44fb697ba918f002035765d99354e582.jpg",
+        "type": "FIREEXTINGUISHER",
+        "passed_checks": [],
+        "failed_checks": [
+            "FireExtinguisher Confidence TOO LOW"
+        ]
+    },
+    {
+        "id": "evctmappevacuation-floor-plan615_jpg.rf.573869ab419318a0ccb29c952cbe1cf8.jpg_EXIT_122",
+        "image": "evctmappevacuation-floor-plan615_jpg.rf.573869ab419318a0ccb29c952cbe1cf8.jpg",
+        "type": "EXIT",
+        "passed_checks": [],
+        "failed_checks": [
+            "Exit OCR MISSING"
+        ]
+    },
+    {
+        "id": "evctmappevacuation-floor-plan615_jpg.rf.573869ab419318a0ccb29c952cbe1cf8.jpg",
+        "image": "",
+        "type": "unknown",
+        "passed_checks": [],
+        "failed_checks": []
+    },
+    {
+        "id": "evctmappevacuation-floor-plan615_jpg.rf.b5f242649717a479789d2245b0f987d2.jpg_FIREEXTINGUISHER_67",
+        "image": "evctmappevacuation-floor-plan615_jpg.rf.b5f242649717a479789d2245b0f987d2.jpg",
+        "type": "FIREEXTINGUISHER",
+        "passed_checks": [],
+        "failed_checks": [
+            "FireExtinguisher Confidence TOO LOW"
+        ]
+    },
+    {
+        "id": "evctmappevacuation-floor-plan615_jpg.rf.b5f242649717a479789d2245b0f987d2.jpg",
+        "image": "",
+        "type": "unknown",
+        "passed_checks": [],
+        "failed_checks": []
+    },
+    {
+        "id": "evctmappevacuation-floor-plan640_jpg.rf.b76eb0e1308c50e4e63e3e8d98387a72.jpg_FIREEXTINGUISHER_68",
+        "image": "evctmappevacuation-floor-plan640_jpg.rf.b76eb0e1308c50e4e63e3e8d98387a72.jpg",
+        "type": "FIREEXTINGUISHER",
+        "passed_checks": [],
+        "failed_checks": [
+            "FireExtinguisher Confidence TOO LOW"
+        ]
+    },
+    {
+        "id": "evctmappevacuation-floor-plan640_jpg.rf.b76eb0e1308c50e4e63e3e8d98387a72.jpg",
+        "image": "",
+        "type": "unknown",
+        "passed_checks": [],
+        "failed_checks": []
+    },
+    {
+        "id": "evctmappevacuation-floor-plan643_jpg.rf.e5fbd50175089c0b52993f47af73356e.jpg_EXIT_123",
+        "image": "evctmappevacuation-floor-plan643_jpg.rf.e5fbd50175089c0b52993f47af73356e.jpg",
+        "type": "EXIT",
+        "passed_checks": [],
+        "failed_checks": [
+            "Exit OCR MISSING"
+        ]
+    },
+    {
+        "id": "evctmappevacuation-floor-plan643_jpg.rf.e5fbd50175089c0b52993f47af73356e.jpg",
+        "image": "",
+        "type": "unknown",
+        "passed_checks": [],
+        "failed_checks": []
+    },
+    {
+        "id": "evctmappevacuation-floor-plan683_jpg.rf.7d5142630961f88a236f0512767fa94e.jpg_FIREEXTINGUISHER_69",
+        "image": "evctmappevacuation-floor-plan683_jpg.rf.7d5142630961f88a236f0512767fa94e.jpg",
+        "type": "FIREEXTINGUISHER",
+        "passed_checks": [],
+        "failed_checks": [
+            "FireExtinguisher Confidence TOO LOW"
+        ]
+    },
+    {
+        "id": "evctmappevacuation-floor-plan683_jpg.rf.7d5142630961f88a236f0512767fa94e.jpg",
+        "image": "",
+        "type": "unknown",
+        "passed_checks": [],
+        "failed_checks": []
+    },
+    {
+        "id": "evctmappevacuation-floor-plan686_jpg.rf.3b74d1397ee7c3152bf40ab8e3ef11b4.jpg_EXIT_124",
+        "image": "evctmappevacuation-floor-plan686_jpg.rf.3b74d1397ee7c3152bf40ab8e3ef11b4.jpg",
+        "type": "EXIT",
+        "passed_checks": [],
+        "failed_checks": [
+            "Exit OCR MISSING"
+        ]
+    },
+    {
+        "id": "evctmappevacuation-floor-plan686_jpg.rf.3b74d1397ee7c3152bf40ab8e3ef11b4.jpg",
+        "image": "",
+        "type": "unknown",
+        "passed_checks": [],
+        "failed_checks": []
+    },
+    {
+        "id": "evctmappevacuation-floor-plan686_jpg.rf.c7f0ba82b482daf2391ab494baa09588.jpg_FIREEXTINGUISHER_70",
+        "image": "evctmappevacuation-floor-plan686_jpg.rf.c7f0ba82b482daf2391ab494baa09588.jpg",
+        "type": "FIREEXTINGUISHER",
+        "passed_checks": [
+            "FireExtinguisher Confidence OK"
+        ],
+        "failed_checks": []
+    },
+    {
+        "id": "evctmappevacuation-floor-plan686_jpg.rf.c7f0ba82b482daf2391ab494baa09588.jpg",
+        "image": "",
+        "type": "unknown",
+        "passed_checks": [],
+        "failed_checks": []
+    },
+    {
+        "id": "evctmappevacuation-floor-plan686_jpg.rf.c7f0ba82b482daf2391ab494baa09588.jpg_EXIT_125",
+        "image": "evctmappevacuation-floor-plan686_jpg.rf.c7f0ba82b482daf2391ab494baa09588.jpg",
+        "type": "EXIT",
+        "passed_checks": [],
+        "failed_checks": [
+            "Exit OCR MISSING"
+        ]
+    },
+    {
+        "id": "evctmappevacuation-floor-plan686_jpg.rf.d4c1d8949d942b20aff1f3a22900835b.jpg_EXIT_126",
+        "image": "evctmappevacuation-floor-plan686_jpg.rf.d4c1d8949d942b20aff1f3a22900835b.jpg",
+        "type": "EXIT",
+        "passed_checks": [],
+        "failed_checks": [
+            "Exit OCR MISSING"
+        ]
+    },
+    {
+        "id": "evctmappevacuation-floor-plan686_jpg.rf.d4c1d8949d942b20aff1f3a22900835b.jpg",
+        "image": "",
+        "type": "unknown",
+        "passed_checks": [],
+        "failed_checks": []
+    },
+    {
+        "id": "evctmappevacuation-floor-plan6_jpg.rf.0a6ac2012bc60acb0c7915f8e508e0b4.jpg_EXIT_127",
+        "image": "evctmappevacuation-floor-plan6_jpg.rf.0a6ac2012bc60acb0c7915f8e508e0b4.jpg",
+        "type": "EXIT",
+        "passed_checks": [],
+        "failed_checks": [
+            "Exit OCR MISSING"
+        ]
+    },
+    {
+        "id": "evctmappevacuation-floor-plan6_jpg.rf.0a6ac2012bc60acb0c7915f8e508e0b4.jpg",
+        "image": "",
+        "type": "unknown",
+        "passed_checks": [],
+        "failed_checks": []
+    },
+    {
+        "id": "evctmappevacuation-floor-plan6_jpg.rf.0a6ac2012bc60acb0c7915f8e508e0b4.jpg_FIREEXTINGUISHER_71",
+        "image": "evctmappevacuation-floor-plan6_jpg.rf.0a6ac2012bc60acb0c7915f8e508e0b4.jpg",
+        "type": "FIREEXTINGUISHER",
+        "passed_checks": [],
+        "failed_checks": [
+            "FireExtinguisher Confidence TOO LOW"
+        ]
+    },
+    {
+        "id": "evctmapppevacuation-diagram132_jpg.rf.7691774454a9317560278bab6f98d3ed.jpg_EXIT_128",
+        "image": "evctmapppevacuation-diagram132_jpg.rf.7691774454a9317560278bab6f98d3ed.jpg",
+        "type": "EXIT",
+        "passed_checks": [],
+        "failed_checks": [
+            "Exit OCR MISSING"
+        ]
+    },
+    {
+        "id": "evctmapppevacuation-diagram132_jpg.rf.7691774454a9317560278bab6f98d3ed.jpg",
+        "image": "",
+        "type": "unknown",
+        "passed_checks": [],
+        "failed_checks": []
+    },
+    {
+        "id": "evctmapppevacuation-diagram132_jpg.rf.997f3d4c1e235f32292e386109aff797.jpg_EXIT_129",
+        "image": "evctmapppevacuation-diagram132_jpg.rf.997f3d4c1e235f32292e386109aff797.jpg",
+        "type": "EXIT",
+        "passed_checks": [],
+        "failed_checks": [
+            "Exit OCR MISSING"
+        ]
+    },
+    {
+        "id": "evctmapppevacuation-diagram132_jpg.rf.997f3d4c1e235f32292e386109aff797.jpg",
+        "image": "",
+        "type": "unknown",
+        "passed_checks": [],
+        "failed_checks": []
+    },
+    {
+        "id": "evctmapppevacuation-diagram210_jpg.rf.56c7ff3f5b4dec0b48a786b039047b2f.jpg_FIREEXTINGUISHER_72",
+        "image": "evctmapppevacuation-diagram210_jpg.rf.56c7ff3f5b4dec0b48a786b039047b2f.jpg",
+        "type": "FIREEXTINGUISHER",
+        "passed_checks": [],
+        "failed_checks": [
+            "FireExtinguisher Confidence TOO LOW"
+        ]
+    },
+    {
+        "id": "evctmapppevacuation-diagram210_jpg.rf.56c7ff3f5b4dec0b48a786b039047b2f.jpg",
+        "image": "",
+        "type": "unknown",
+        "passed_checks": [],
+        "failed_checks": []
+    },
+    {
+        "id": "evctmapppevacuation-diagram310_jpg.rf.0046d577779c4ac33869fffebfb7da99.jpg_FIREEXTINGUISHER_73",
+        "image": "evctmapppevacuation-diagram310_jpg.rf.0046d577779c4ac33869fffebfb7da99.jpg",
+        "type": "FIREEXTINGUISHER",
+        "passed_checks": [
+            "FireExtinguisher Confidence OK"
+        ],
+        "failed_checks": []
+    },
+    {
+        "id": "evctmapppevacuation-diagram310_jpg.rf.0046d577779c4ac33869fffebfb7da99.jpg",
+        "image": "",
+        "type": "unknown",
+        "passed_checks": [],
+        "failed_checks": []
+    },
+    {
+        "id": "evctmapppevacuation-diagram356_jpg.rf.cfbe43beec5190de0aec2304a119c9a4.jpg_EXIT_130",
+        "image": "evctmapppevacuation-diagram356_jpg.rf.cfbe43beec5190de0aec2304a119c9a4.jpg",
+        "type": "EXIT",
+        "passed_checks": [],
+        "failed_checks": [
+            "Exit OCR MISSING"
+        ]
+    },
+    {
+        "id": "evctmapppevacuation-diagram356_jpg.rf.cfbe43beec5190de0aec2304a119c9a4.jpg",
+        "image": "",
+        "type": "unknown",
+        "passed_checks": [],
+        "failed_checks": []
+    },
+    {
+        "id": "evctmapppevacuation-diagram362_jpg.rf.454bad1f958adc3c2e4ab281ac24812b.jpg_FIREEXTINGUISHER_74",
+        "image": "evctmapppevacuation-diagram362_jpg.rf.454bad1f958adc3c2e4ab281ac24812b.jpg",
+        "type": "FIREEXTINGUISHER",
+        "passed_checks": [],
+        "failed_checks": [
+            "FireExtinguisher Confidence TOO LOW"
+        ]
+    },
+    {
+        "id": "evctmapppevacuation-diagram362_jpg.rf.454bad1f958adc3c2e4ab281ac24812b.jpg",
+        "image": "",
+        "type": "unknown",
+        "passed_checks": [],
+        "failed_checks": []
+    },
+    {
+        "id": "evctmapppevacuation-diagram373_jpg.rf.9fb08b6ca2da709f0122d38d101e9da4.jpg_EXIT_131",
+        "image": "evctmapppevacuation-diagram373_jpg.rf.9fb08b6ca2da709f0122d38d101e9da4.jpg",
+        "type": "EXIT",
+        "passed_checks": [],
+        "failed_checks": [
+            "Exit OCR MISSING"
+        ]
+    },
+    {
+        "id": "evctmapppevacuation-diagram373_jpg.rf.9fb08b6ca2da709f0122d38d101e9da4.jpg",
+        "image": "",
+        "type": "unknown",
+        "passed_checks": [],
+        "failed_checks": []
+    },
+    {
+        "id": "evctmapppevacuation-diagram389_jpg.rf.68a41a587c8857f148980ff7df90458c.jpg_FIREEXTINGUISHER_75",
+        "image": "evctmapppevacuation-diagram389_jpg.rf.68a41a587c8857f148980ff7df90458c.jpg",
+        "type": "FIREEXTINGUISHER",
+        "passed_checks": [],
+        "failed_checks": [
+            "FireExtinguisher Confidence TOO LOW"
+        ]
+    },
+    {
+        "id": "evctmapppevacuation-diagram389_jpg.rf.68a41a587c8857f148980ff7df90458c.jpg",
+        "image": "",
+        "type": "unknown",
+        "passed_checks": [],
+        "failed_checks": []
+    },
+    {
+        "id": "evctmapppevacuation-diagram389_jpg.rf.ac8e536a5f5d28a8e508de5e3b120778.jpg_FIREEXTINGUISHER_76",
+        "image": "evctmapppevacuation-diagram389_jpg.rf.ac8e536a5f5d28a8e508de5e3b120778.jpg",
+        "type": "FIREEXTINGUISHER",
+        "passed_checks": [],
+        "failed_checks": [
+            "FireExtinguisher Confidence TOO LOW"
+        ]
+    },
+    {
+        "id": "evctmapppevacuation-diagram389_jpg.rf.ac8e536a5f5d28a8e508de5e3b120778.jpg",
+        "image": "",
+        "type": "unknown",
+        "passed_checks": [],
+        "failed_checks": []
+    },
+    {
+        "id": "evctmapppevacuation-diagram412_jpg.rf.43afa981d829d1e067666236ad25fbcb.jpg_FIREEXTINGUISHER_77",
+        "image": "evctmapppevacuation-diagram412_jpg.rf.43afa981d829d1e067666236ad25fbcb.jpg",
+        "type": "FIREEXTINGUISHER",
+        "passed_checks": [
+            "FireExtinguisher Confidence OK"
+        ],
+        "failed_checks": []
+    },
+    {
+        "id": "evctmapppevacuation-diagram412_jpg.rf.43afa981d829d1e067666236ad25fbcb.jpg",
+        "image": "",
+        "type": "unknown",
+        "passed_checks": [],
+        "failed_checks": []
+    },
+    {
+        "id": "evctmapppevacuation-diagram416_jpg.rf.864c97b3337b787b56a80d66c0a8a4a2.jpg_FIREEXTINGUISHER_78",
+        "image": "evctmapppevacuation-diagram416_jpg.rf.864c97b3337b787b56a80d66c0a8a4a2.jpg",
+        "type": "FIREEXTINGUISHER",
+        "passed_checks": [
+            "FireExtinguisher Confidence OK"
+        ],
+        "failed_checks": []
+    },
+    {
+        "id": "evctmapppevacuation-diagram416_jpg.rf.864c97b3337b787b56a80d66c0a8a4a2.jpg",
+        "image": "",
+        "type": "unknown",
+        "passed_checks": [],
+        "failed_checks": []
+    },
+    {
+        "id": "evctmapppevacuation-diagram447_jpg.rf.c564b980454f6606da8ca302dec021a1.jpg_FIREEXTINGUISHER_79",
+        "image": "evctmapppevacuation-diagram447_jpg.rf.c564b980454f6606da8ca302dec021a1.jpg",
+        "type": "FIREEXTINGUISHER",
+        "passed_checks": [],
+        "failed_checks": [
+            "FireExtinguisher Confidence TOO LOW"
+        ]
+    },
+    {
+        "id": "evctmapppevacuation-diagram447_jpg.rf.c564b980454f6606da8ca302dec021a1.jpg",
+        "image": "",
+        "type": "unknown",
+        "passed_checks": [],
+        "failed_checks": []
+    },
+    {
+        "id": "evctmapppevacuation-diagram447_jpg.rf.f48d5e7f31c9c4bc2667e67c69b1a090.jpg_EXIT_132",
+        "image": "evctmapppevacuation-diagram447_jpg.rf.f48d5e7f31c9c4bc2667e67c69b1a090.jpg",
+        "type": "EXIT",
+        "passed_checks": [],
+        "failed_checks": [
+            "Exit OCR MISSING"
+        ]
+    },
+    {
+        "id": "evctmapppevacuation-diagram447_jpg.rf.f48d5e7f31c9c4bc2667e67c69b1a090.jpg",
+        "image": "",
+        "type": "unknown",
+        "passed_checks": [],
+        "failed_checks": []
+    },
+    {
+        "id": "evctmapppevacuation-diagram48_jpg.rf.2bffad77e3e7ca00ac4b6b9f994a3e88.jpg_FIREEXTINGUISHER_80",
+        "image": "evctmapppevacuation-diagram48_jpg.rf.2bffad77e3e7ca00ac4b6b9f994a3e88.jpg",
+        "type": "FIREEXTINGUISHER",
+        "passed_checks": [],
+        "failed_checks": [
+            "FireExtinguisher Confidence TOO LOW"
+        ]
+    },
+    {
+        "id": "evctmapppevacuation-diagram48_jpg.rf.2bffad77e3e7ca00ac4b6b9f994a3e88.jpg",
+        "image": "",
+        "type": "unknown",
+        "passed_checks": [],
+        "failed_checks": []
+    },
+    {
+        "id": "evctmapppevacuation-diagram48_jpg.rf.f31a811e9170c2c865dc294838691db0.jpg_FIREEXTINGUISHER_81",
+        "image": "evctmapppevacuation-diagram48_jpg.rf.f31a811e9170c2c865dc294838691db0.jpg",
+        "type": "FIREEXTINGUISHER",
+        "passed_checks": [
+            "FireExtinguisher Confidence OK"
+        ],
+        "failed_checks": []
+    },
+    {
+        "id": "evctmapppevacuation-diagram48_jpg.rf.f31a811e9170c2c865dc294838691db0.jpg",
+        "image": "",
+        "type": "unknown",
+        "passed_checks": [],
+        "failed_checks": []
+    },
+    {
+        "id": "evctmapppevacuation-diagram56_jpg.rf.269cb4703292f628bd812e7ef0590971.jpg_FIREEXTINGUISHER_82",
+        "image": "evctmapppevacuation-diagram56_jpg.rf.269cb4703292f628bd812e7ef0590971.jpg",
+        "type": "FIREEXTINGUISHER",
+        "passed_checks": [
+            "FireExtinguisher Confidence OK"
+        ],
+        "failed_checks": []
+    },
+    {
+        "id": "evctmapppevacuation-diagram56_jpg.rf.269cb4703292f628bd812e7ef0590971.jpg",
+        "image": "",
+        "type": "unknown",
+        "passed_checks": [],
+        "failed_checks": []
+    },
+    {
+        "id": "evctmapppevacuation-diagram56_jpg.rf.269cb4703292f628bd812e7ef0590971.jpg_FIREEXTINGUISHER_83",
+        "image": "evctmapppevacuation-diagram56_jpg.rf.269cb4703292f628bd812e7ef0590971.jpg",
+        "type": "FIREEXTINGUISHER",
+        "passed_checks": [],
+        "failed_checks": [
+            "FireExtinguisher Confidence TOO LOW"
+        ]
+    },
+    {
+        "id": "evctmapppevacuation-diagram56_jpg.rf.a9047490a9c906a8bac58072df6321db.jpg_FIREEXTINGUISHER_84",
+        "image": "evctmapppevacuation-diagram56_jpg.rf.a9047490a9c906a8bac58072df6321db.jpg",
+        "type": "FIREEXTINGUISHER",
+        "passed_checks": [
+            "FireExtinguisher Confidence OK"
+        ],
+        "failed_checks": []
+    },
+    {
+        "id": "evctmapppevacuation-diagram56_jpg.rf.a9047490a9c906a8bac58072df6321db.jpg",
+        "image": "",
+        "type": "unknown",
+        "passed_checks": [],
+        "failed_checks": []
+    },
+    {
+        "id": "evctmapppevacuation-diagram56_jpg.rf.d373245ec4100cb7027c360b1cd26389.jpg_FIREEXTINGUISHER_85",
+        "image": "evctmapppevacuation-diagram56_jpg.rf.d373245ec4100cb7027c360b1cd26389.jpg",
+        "type": "FIREEXTINGUISHER",
+        "passed_checks": [
+            "FireExtinguisher Confidence OK"
+        ],
+        "failed_checks": []
+    },
+    {
+        "id": "evctmapppevacuation-diagram56_jpg.rf.d373245ec4100cb7027c360b1cd26389.jpg",
+        "image": "",
+        "type": "unknown",
+        "passed_checks": [],
+        "failed_checks": []
+    },
+    {
+        "id": "evctmapppevacuation-diagram611_jpg.rf.91f9dec628b81ade54d55d4d277cfc5e.jpg_FIREEXTINGUISHER_86",
+        "image": "evctmapppevacuation-diagram611_jpg.rf.91f9dec628b81ade54d55d4d277cfc5e.jpg",
+        "type": "FIREEXTINGUISHER",
+        "passed_checks": [],
+        "failed_checks": [
+            "FireExtinguisher Confidence TOO LOW"
+        ]
+    },
+    {
+        "id": "evctmapppevacuation-diagram611_jpg.rf.91f9dec628b81ade54d55d4d277cfc5e.jpg",
+        "image": "",
+        "type": "unknown",
+        "passed_checks": [],
+        "failed_checks": []
+    },
+    {
+        "id": "evctmapppevacuation-diagram693_jpg.rf.49e7543021764a57f51f9b3a7e9ab9b5.jpg_EXIT_133",
+        "image": "evctmapppevacuation-diagram693_jpg.rf.49e7543021764a57f51f9b3a7e9ab9b5.jpg",
+        "type": "EXIT",
+        "passed_checks": [],
+        "failed_checks": [
+            "Exit OCR MISSING"
+        ]
+    },
+    {
+        "id": "evctmapppevacuation-diagram693_jpg.rf.49e7543021764a57f51f9b3a7e9ab9b5.jpg",
+        "image": "",
+        "type": "unknown",
+        "passed_checks": [],
+        "failed_checks": []
+    },
+    {
+        "id": "evctmapppevacuation-diagram693_jpg.rf.49e7543021764a57f51f9b3a7e9ab9b5.jpg_FIREEXTINGUISHER_87",
+        "image": "evctmapppevacuation-diagram693_jpg.rf.49e7543021764a57f51f9b3a7e9ab9b5.jpg",
+        "type": "FIREEXTINGUISHER",
+        "passed_checks": [],
+        "failed_checks": [
+            "FireExtinguisher Confidence TOO LOW"
+        ]
+    },
+    {
+        "id": "evctmapppevacuation-diagram72_jpg.rf.82686074d85e441a3c162c24557e8f9d.jpg_FIREEXTINGUISHER_88",
+        "image": "evctmapppevacuation-diagram72_jpg.rf.82686074d85e441a3c162c24557e8f9d.jpg",
+        "type": "FIREEXTINGUISHER",
+        "passed_checks": [],
+        "failed_checks": [
+            "FireExtinguisher Confidence TOO LOW"
+        ]
+    },
+    {
+        "id": "evctmapppevacuation-diagram72_jpg.rf.82686074d85e441a3c162c24557e8f9d.jpg",
+        "image": "",
+        "type": "unknown",
+        "passed_checks": [],
+        "failed_checks": []
+    }
+]

@@ -1,0 +1,3 @@
+det_class,detections,with_ocr,coverage_pct,avg_det_conf,avg_ocr_conf
+exit,143,143,100.0,0.6798797202797202,0.39547132867132867
+fire_extinguisher,90,90,100.0,0.44044666666666665,0.25441222222222226

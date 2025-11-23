@@ -1,0 +1,4196 @@
+[
+  {
+    "image_path": "/home/coder/thesis-yolo/runs_gpu/evac_v12_pred_with_labels/KakaoTalk_20240319_133126275_jpg.rf.b10b770156fad18531f735afa211f6b6.jpg",
+    "ifc_class": "IfcFireSuppressionTerminal",
+    "ifc_type": "FIREEXTINGUISHER",
+    "confidence": 0.332,
+    "bbox_xywh": [
+      425,
+      93,
+      17,
+      39
+    ],
+    "det_class": "fire_extinguisher",
+    "det_conf": 0.332,
+    "ocr_text": "ITc",
+    "ocr_conf": 0.1234,
+    "ocr_norm": "",
+    "conflict": false
+  },
+  {
+    "image_path": "/home/coder/thesis-yolo/runs_gpu/evac_v12_pred_with_labels/KakaoTalk_20240325_162133706_04_jpg.rf.470f2fd4b0e4d6a203d659c3ac2ff49b.jpg",
+    "ifc_class": "IfcFireSuppressionTerminal",
+    "ifc_type": "FIREEXTINGUISHER",
+    "confidence": 0.127,
+    "bbox_xywh": [
+      342,
+      558,
+      11,
+      10
+    ],
+    "det_class": "fire_extinguisher",
+    "det_conf": 0.2774,
+    "ocr_text": "Ga",
+    "ocr_conf": 0.0023,
+    "ocr_norm": "",
+    "conflict": false
+  },
+  {
+    "image_path": "/home/coder/thesis-yolo/runs_gpu/evac_v12_pred_with_labels/KakaoTalk_20240325_162133706_06_jpg.rf.6ab13f86d2b307e02c69f678f1ab4042.jpg",
+    "ifc_class": "IfcDoor",
+    "ifc_type": "EXIT",
+    "confidence": 0.303,
+    "bbox_xywh": [
+      168,
+      299,
+      16,
+      21
+    ],
+    "det_class": "exit",
+    "det_conf": 0.3033,
+    "ocr_text": "1",
+    "ocr_conf": 0.9674,
+    "ocr_norm": "",
+    "conflict": false
+  },
+  {
+    "image_path": "/home/coder/thesis-yolo/runs_gpu/evac_v12_pred_with_labels/KakaoTalk_20240325_162133706_07_jpg.rf.01e7a87e0d6bcc1aa3bb7d940d5b9bd9.jpg",
+    "ifc_class": "IfcDoor",
+    "ifc_type": "EXIT",
+    "confidence": 0.813,
+    "bbox_xywh": [
+      249,
+      537,
+      31,
+      52
+    ],
+    "det_class": "exit",
+    "det_conf": 0.8128,
+    "ocr_text": "R4",
+    "ocr_conf": 0.0819,
+    "ocr_norm": "",
+    "conflict": false
+  },
+  {
+    "image_path": "/home/coder/thesis-yolo/runs_gpu/evac_v12_pred_with_labels/KakaoTalk_20240325_162133706_07_jpg.rf.5591e80f61f9e87b51c0e285b55ba7f5.jpg",
+    "ifc_class": "IfcDoor",
+    "ifc_type": "EXIT",
+    "confidence": 0.674,
+    "bbox_xywh": [
+      382,
+      535,
+      31,
+      49
+    ],
+    "det_class": "exit",
+    "det_conf": 0.6744,
+    "ocr_text": "R",
+    "ocr_conf": 0.2768,
+    "ocr_norm": "",
+    "conflict": false
+  },
+  {
+    "image_path": "/home/coder/thesis-yolo/runs_gpu/evac_v12_pred_with_labels/KakaoTalk_20240325_162133706_07_jpg.rf.f1cf771e1a92454ebd5fa2139e81de47.jpg",
+    "ifc_class": "IfcDoor",
+    "ifc_type": "EXIT",
+    "confidence": 0.817,
+    "bbox_xywh": [
+      339,
+      543,
+      34,
+      50
+    ],
+    "det_class": "exit",
+    "det_conf": 0.8174,
+    "ocr_text": "74",
+    "ocr_conf": 0.67,
+    "ocr_norm": "",
+    "conflict": false
+  },
+  {
+    "image_path": "/home/coder/thesis-yolo/runs_gpu/evac_v12_pred_with_labels/KakaoTalk_20240330_153803899_01_jpg.rf.959cf5de93d52bfddbda353d8418c921.jpg",
+    "ifc_class": "IfcDoor",
+    "ifc_type": "EXIT",
+    "confidence": 0.846,
+    "bbox_xywh": [
+      362,
+      477,
+      42,
+      56
+    ],
+    "det_class": "exit",
+    "det_conf": 0.8458,
+    "ocr_text": "78",
+    "ocr_conf": 0.1097,
+    "ocr_norm": "",
+    "conflict": false
+  },
+  {
+    "image_path": "/home/coder/thesis-yolo/runs_gpu/evac_v12_pred_with_labels/KakaoTalk_20240330_153803899_01_jpg.rf.ae64b8a21d67a0f70c62d50e92ec626e.jpg",
+    "ifc_class": "IfcDoor",
+    "ifc_type": "EXIT",
+    "confidence": 0.888,
+    "bbox_xywh": [
+      152,
+      420,
+      40,
+      54
+    ],
+    "det_class": "exit",
+    "det_conf": 0.8877,
+    "ocr_text": "9/",
+    "ocr_conf": 0.1202,
+    "ocr_norm": "",
+    "conflict": false
+  },
+  {
+    "image_path": "/home/coder/thesis-yolo/runs_gpu/evac_v12_pred_with_labels/KakaoTalk_20240330_153803899_01_jpg.rf.ae64b8a21d67a0f70c62d50e92ec626e.jpg",
+    "ifc_class": "IfcDoor",
+    "ifc_type": "EXIT",
+    "confidence": 0.3,
+    "bbox_xywh": [
+      117,
+      320,
+      66,
+      89
+    ],
+    "det_class": "exit",
+    "det_conf": 0.2996,
+    "ocr_text": "1",
+    "ocr_conf": 0.6318,
+    "ocr_norm": "",
+    "conflict": false
+  },
+  {
+    "image_path": "/home/coder/thesis-yolo/runs_gpu/evac_v12_pred_with_labels/KakaoTalk_20240330_153803899_02_jpg.rf.6b0204ee81d0a1c3bb8f5ececea71058.jpg",
+    "ifc_class": "IfcDoor",
+    "ifc_type": "EXIT",
+    "confidence": 0.853,
+    "bbox_xywh": [
+      106,
+      313,
+      37,
+      48
+    ],
+    "det_class": "exit",
+    "det_conf": 0.8526,
+    "ocr_text": "R",
+    "ocr_conf": 0.0601,
+    "ocr_norm": "",
+    "conflict": false
+  },
+  {
+    "image_path": "/home/coder/thesis-yolo/runs_gpu/evac_v12_pred_with_labels/KakaoTalk_20240330_153803899_02_jpg.rf.6b0204ee81d0a1c3bb8f5ececea71058.jpg",
+    "ifc_class": "IfcDoor",
+    "ifc_type": "EXIT",
+    "confidence": 0.756,
+    "bbox_xywh": [
+      197,
+      431,
+      35,
+      50
+    ],
+    "det_class": "exit",
+    "det_conf": 0.7563,
+    "ocr_text": "4",
+    "ocr_conf": 0.2766,
+    "ocr_norm": "",
+    "conflict": false
+  },
+  {
+    "image_path": "/home/coder/thesis-yolo/runs_gpu/evac_v12_pred_with_labels/KakaoTalk_20240330_153803899_02_jpg.rf.6b0204ee81d0a1c3bb8f5ececea71058.jpg",
+    "ifc_class": "IfcDoor",
+    "ifc_type": "EXIT",
+    "confidence": 0.512,
+    "bbox_xywh": [
+      396,
+      452,
+      37,
+      50
+    ],
+    "det_class": "exit",
+    "det_conf": 0.5125,
+    "ocr_text": "1",
+    "ocr_conf": 0.7772,
+    "ocr_norm": "",
+    "conflict": false
+  },
+  {
+    "image_path": "/home/coder/thesis-yolo/runs_gpu/evac_v12_pred_with_labels/KakaoTalk_20240330_153803899_02_jpg.rf.939a102bc7119b3636730fa7a78711c3.jpg",
+    "ifc_class": "IfcDoor",
+    "ifc_type": "EXIT",
+    "confidence": 0.717,
+    "bbox_xywh": [
+      492,
+      326,
+      38,
+      50
+    ],
+    "det_class": "exit",
+    "det_conf": 0.7167,
+    "ocr_text": "1",
+    "ocr_conf": 0.3108,
+    "ocr_norm": "",
+    "conflict": false
+  },
+  {
+    "image_path": "/home/coder/thesis-yolo/runs_gpu/evac_v12_pred_with_labels/KakaoTalk_20240330_153803899_02_jpg.rf.939a102bc7119b3636730fa7a78711c3.jpg",
+    "ifc_class": "IfcDoor",
+    "ifc_type": "EXIT",
+    "confidence": 0.515,
+    "bbox_xywh": [
+      190,
+      444,
+      46,
+      54
+    ],
+    "det_class": "exit",
+    "det_conf": 0.5146,
+    "ocr_text": "'1i",
+    "ocr_conf": 0.4088,
+    "ocr_norm": "",
+    "conflict": false
+  },
+  {
+    "image_path": "/home/coder/thesis-yolo/runs_gpu/evac_v12_pred_with_labels/KakaoTalk_20240330_153803899_02_jpg.rf.939a102bc7119b3636730fa7a78711c3.jpg",
+    "ifc_class": "IfcDoor",
+    "ifc_type": "EXIT",
+    "confidence": 0.489,
+    "bbox_xywh": [
+      394,
+      438,
+      41,
+      53
+    ],
+    "det_class": "exit",
+    "det_conf": 0.489,
+    "ocr_text": "71",
+    "ocr_conf": 0.1994,
+    "ocr_norm": "",
+    "conflict": false
+  },
+  {
+    "image_path": "/home/coder/thesis-yolo/runs_gpu/evac_v12_pred_with_labels/KakaoTalk_20240330_153803899_03_jpg.rf.b1d221f32f89ed2f577301a6d24d86df.jpg",
+    "ifc_class": "IfcDoor",
+    "ifc_type": "EXIT",
+    "confidence": 0.757,
+    "bbox_xywh": [
+      392,
+      433,
+      37,
+      52
+    ],
+    "det_class": "exit",
+    "det_conf": 0.7571,
+    "ocr_text": "14",
+    "ocr_conf": 0.6945,
+    "ocr_norm": "",
+    "conflict": false
+  },
+  {
+    "image_path": "/home/coder/thesis-yolo/runs_gpu/evac_v12_pred_with_labels/KakaoTalk_20240330_153803899_03_jpg.rf.c367c568d1ebe367e7d4f8c604b6920a.jpg",
+    "ifc_class": "IfcDoor",
+    "ifc_type": "EXIT",
+    "confidence": 0.821,
+    "bbox_xywh": [
+      139,
+      375,
+      49,
+      47
+    ],
+    "det_class": "exit",
+    "det_conf": 0.8207,
+    "ocr_text": "2e",
+    "ocr_conf": 0.0023,
+    "ocr_norm": "",
+    "conflict": false
+  },
+  {
+    "image_path": "/home/coder/thesis-yolo/runs_gpu/evac_v12_pred_with_labels/KakaoTalk_20240330_153803899_03_jpg.rf.c367c568d1ebe367e7d4f8c604b6920a.jpg",
+    "ifc_class": "IfcDoor",
+    "ifc_type": "EXIT",
+    "confidence": 0.728,
+    "bbox_xywh": [
+      196,
+      432,
+      44,
+      46
+    ],
+    "det_class": "exit",
+    "det_conf": 0.728,
+    "ocr_text": "1",
+    "ocr_conf": 0.3893,
+    "ocr_norm": "",
+    "conflict": false
+  },
+  {
+    "image_path": "/home/coder/thesis-yolo/runs_gpu/evac_v12_pred_with_labels/KakaoTalk_20240330_153803899_03_jpg.rf.c367c568d1ebe367e7d4f8c604b6920a.jpg",
+    "ifc_class": "IfcDoor",
+    "ifc_type": "EXIT",
+    "confidence": 0.344,
+    "bbox_xywh": [
+      134,
+      350,
+      56,
+      76
+    ],
+    "det_class": "exit",
+    "det_conf": 0.3437,
+    "ocr_text": "4i",
+    "ocr_conf": 0.7388,
+    "ocr_norm": "",
+    "conflict": false
+  },
+  {
+    "image_path": "/home/coder/thesis-yolo/runs_gpu/evac_v12_pred_with_labels/KakaoTalk_20240330_153803899_03_jpg.rf.c367c568d1ebe367e7d4f8c604b6920a.jpg",
+    "ifc_class": "IfcDoor",
+    "ifc_type": "EXIT",
+    "confidence": 0.338,
+    "bbox_xywh": [
+      150,
+      374,
+      33,
+      48
+    ],
+    "det_class": "exit",
+    "det_conf": 0.3376,
+    "ocr_text": ";",
+    "ocr_conf": 0.1132,
+    "ocr_norm": "",
+    "conflict": false
+  },
+  {
+    "image_path": "/home/coder/thesis-yolo/runs_gpu/evac_v12_pred_with_labels/KakaoTalk_20240330_153803899_03_jpg.rf.f8819cfdc033ec7c6ef20d493312869d.jpg",
+    "ifc_class": "IfcDoor",
+    "ifc_type": "EXIT",
+    "confidence": 0.763,
+    "bbox_xywh": [
+      362,
+      447,
+      45,
+      53
+    ],
+    "det_class": "exit",
+    "det_conf": 0.7632,
+    "ocr_text": "9",
+    "ocr_conf": 0.0818,
+    "ocr_norm": "",
+    "conflict": false
+  },
+  {
+    "image_path": "/home/coder/thesis-yolo/runs_gpu/evac_v12_pred_with_labels/KakaoTalk_20240330_153803899_03_jpg.rf.f8819cfdc033ec7c6ef20d493312869d.jpg",
+    "ifc_class": "IfcDoor",
+    "ifc_type": "EXIT",
+    "confidence": 0.679,
+    "bbox_xywh": [
+      354,
+      423,
+      55,
+      78
+    ],
+    "det_class": "exit",
+    "det_conf": 0.6794,
+    "ocr_text": "2",
+    "ocr_conf": 0.7867,
+    "ocr_norm": "",
+    "conflict": false
+  },
+  {
+    "image_path": "/home/coder/thesis-yolo/runs_gpu/evac_v12_pred_with_labels/KakaoTalk_20240330_153803899_04_jpg.rf.0da9e56a974d8d355a93f9133fbcbbd1.jpg",
+    "ifc_class": "IfcDoor",
+    "ifc_type": "EXIT",
+    "confidence": 0.878,
+    "bbox_xywh": [
+      243,
+      370,
+      53,
+      67
+    ],
+    "det_class": "exit",
+    "det_conf": 0.878,
+    "ocr_text": "{e",
+    "ocr_conf": 0.0088,
+    "ocr_norm": "",
+    "conflict": false
+  },
+  {
+    "image_path": "/home/coder/thesis-yolo/runs_gpu/evac_v12_pred_with_labels/KakaoTalk_20240330_153803899_04_jpg.rf.0da9e56a974d8d355a93f9133fbcbbd1.jpg",
+    "ifc_class": "IfcDoor",
+    "ifc_type": "EXIT",
+    "confidence": 0.826,
+    "bbox_xywh": [
+      239,
+      345,
+      58,
+      96
+    ],
+    "det_class": "exit",
+    "det_conf": 0.8255,
+    "ocr_text": "1",
+    "ocr_conf": 0.8869,
+    "ocr_norm": "",
+    "conflict": false
+  },
+  {
+    "image_path": "/home/coder/thesis-yolo/runs_gpu/evac_v12_pred_with_labels/KakaoTalk_20240330_153803899_04_jpg.rf.579a9f7345ee4d5f9dcbebde299d7544.jpg",
+    "ifc_class": "IfcDoor",
+    "ifc_type": "EXIT",
+    "confidence": 0.896,
+    "bbox_xywh": [
+      318,
+      378,
+      57,
+      72
+    ],
+    "det_class": "exit",
+    "det_conf": 0.8956,
+    "ocr_text": "41",
+    "ocr_conf": 0.2803,
+    "ocr_norm": "",
+    "conflict": false
+  },
+  {
+    "image_path": "/home/coder/thesis-yolo/runs_gpu/evac_v12_pred_with_labels/KakaoTalk_20240330_153803899_04_jpg.rf.f218ad87d6cd4b8d44e4a1aa168901c4.jpg",
+    "ifc_class": "IfcDoor",
+    "ifc_type": "EXIT",
+    "confidence": 0.895,
+    "bbox_xywh": [
+      341,
+      372,
+      47,
+      65
+    ],
+    "det_class": "exit",
+    "det_conf": 0.8953,
+    "ocr_text": "20",
+    "ocr_conf": 0.0197,
+    "ocr_norm": "",
+    "conflict": false
+  },
+  {
+    "image_path": "/home/coder/thesis-yolo/runs_gpu/evac_v12_pred_with_labels/KakaoTalk_20240330_153803899_05_jpg.rf.0c119ec54703160bc8c474f60c8d1895.jpg",
+    "ifc_class": "IfcDoor",
+    "ifc_type": "EXIT",
+    "confidence": 0.873,
+    "bbox_xywh": [
+      377,
+      283,
+      34,
+      46
+    ],
+    "det_class": "exit",
+    "det_conf": 0.8731,
+    "ocr_text": "4",
+    "ocr_conf": 0.6916,
+    "ocr_norm": "",
+    "conflict": false
+  },
+  {
+    "image_path": "/home/coder/thesis-yolo/runs_gpu/evac_v12_pred_with_labels/KakaoTalk_20240330_153803899_05_jpg.rf.e4776cd62813e41ccc5e51aa97203213.jpg",
+    "ifc_class": "IfcDoor",
+    "ifc_type": "EXIT",
+    "confidence": 0.827,
+    "bbox_xywh": [
+      359,
+      274,
+      60,
+      82
+    ],
+    "det_class": "exit",
+    "det_conf": 0.8272,
+    "ocr_text": "P:",
+    "ocr_conf": 0.6868,
+    "ocr_norm": "",
+    "conflict": false
+  },
+  {
+    "image_path": "/home/coder/thesis-yolo/runs_gpu/evac_v12_pred_with_labels/KakaoTalk_20240330_153803899_05_jpg.rf.e4776cd62813e41ccc5e51aa97203213.jpg",
+    "ifc_class": "IfcDoor",
+    "ifc_type": "EXIT",
+    "confidence": 0.791,
+    "bbox_xywh": [
+      373,
+      299,
+      46,
+      55
+    ],
+    "det_class": "exit",
+    "det_conf": 0.791,
+    "ocr_text": "28aa",
+    "ocr_conf": 0.0015,
+    "ocr_norm": "",
+    "conflict": false
+  },
+  {
+    "image_path": "/home/coder/thesis-yolo/runs_gpu/evac_v12_pred_with_labels/KakaoTalk_20240330_153803899_05_jpg.rf.f7c28aec03afdbd8c35406043df8dcec.jpg",
+    "ifc_class": "IfcDoor",
+    "ifc_type": "EXIT",
+    "confidence": 0.853,
+    "bbox_xywh": [
+      224,
+      281,
+      40,
+      51
+    ],
+    "det_class": "exit",
+    "det_conf": 0.8529,
+    "ocr_text": "#",
+    "ocr_conf": 0.5239,
+    "ocr_norm": "",
+    "conflict": false
+  },
+  {
+    "image_path": "/home/coder/thesis-yolo/runs_gpu/evac_v12_pred_with_labels/KakaoTalk_20240330_153803899_06_jpg.rf.2f23a961108e87e820e2ae586f99a692.jpg",
+    "ifc_class": "IfcDoor",
+    "ifc_type": "EXIT",
+    "confidence": 0.889,
+    "bbox_xywh": [
+      366,
+      405,
+      42,
+      62
+    ],
+    "det_class": "exit",
+    "det_conf": 0.8891,
+    "ocr_text": "Ss",
+    "ocr_conf": 0.0107,
+    "ocr_norm": "",
+    "conflict": false
+  },
+  {
+    "image_path": "/home/coder/thesis-yolo/runs_gpu/evac_v12_pred_with_labels/KakaoTalk_20240330_153803899_06_jpg.rf.2f23a961108e87e820e2ae586f99a692.jpg",
+    "ifc_class": "IfcDoor",
+    "ifc_type": "EXIT",
+    "confidence": 0.858,
+    "bbox_xywh": [
+      401,
+      335,
+      41,
+      55
+    ],
+    "det_class": "exit",
+    "det_conf": 0.858,
+    "ocr_text": "1",
+    "ocr_conf": 0.1115,
+    "ocr_norm": "",
+    "conflict": false
+  },
+  {
+    "image_path": "/home/coder/thesis-yolo/runs_gpu/evac_v12_pred_with_labels/KakaoTalk_20240330_153803899_06_jpg.rf.2f23a961108e87e820e2ae586f99a692.jpg",
+    "ifc_class": "IfcDoor",
+    "ifc_type": "EXIT",
+    "confidence": 0.808,
+    "bbox_xywh": [
+      398,
+      308,
+      46,
+      85
+    ],
+    "det_class": "exit",
+    "det_conf": 0.8076,
+    "ocr_text": "14",
+    "ocr_conf": 0.3589,
+    "ocr_norm": "",
+    "conflict": false
+  },
+  {
+    "image_path": "/home/coder/thesis-yolo/runs_gpu/evac_v12_pred_with_labels/KakaoTalk_20240330_153803899_06_jpg.rf.dee67d32adad3fab8009044bdeb0c15b.jpg",
+    "ifc_class": "IfcDoor",
+    "ifc_type": "EXIT",
+    "confidence": 0.889,
+    "bbox_xywh": [
+      366,
+      409,
+      40,
+      59
+    ],
+    "det_class": "exit",
+    "det_conf": 0.889,
+    "ocr_text": "1",
+    "ocr_conf": 0.9916,
+    "ocr_norm": "",
+    "conflict": false
+  },
+  {
+    "image_path": "/home/coder/thesis-yolo/runs_gpu/evac_v12_pred_with_labels/KakaoTalk_20240330_153803899_06_jpg.rf.dee67d32adad3fab8009044bdeb0c15b.jpg",
+    "ifc_class": "IfcDoor",
+    "ifc_type": "EXIT",
+    "confidence": 0.884,
+    "bbox_xywh": [
+      401,
+      339,
+      43,
+      52
+    ],
+    "det_class": "exit",
+    "det_conf": 0.8842,
+    "ocr_text": "14",
+    "ocr_conf": 0.3363,
+    "ocr_norm": "",
+    "conflict": false
+  },
+  {
+    "image_path": "/home/coder/thesis-yolo/runs_gpu/evac_v12_pred_with_labels/KakaoTalk_20240330_153803899_06_jpg.rf.fabefdeef536a091d8a7ddd45b5be7e5.jpg",
+    "ifc_class": "IfcDoor",
+    "ifc_type": "EXIT",
+    "confidence": 0.889,
+    "bbox_xywh": [
+      207,
+      391,
+      50,
+      63
+    ],
+    "det_class": "exit",
+    "det_conf": 0.8889,
+    "ocr_text": "45",
+    "ocr_conf": 0.0392,
+    "ocr_norm": "",
+    "conflict": false
+  },
+  {
+    "image_path": "/home/coder/thesis-yolo/runs_gpu/evac_v12_pred_with_labels/KakaoTalk_20240330_153803899_06_jpg.rf.fabefdeef536a091d8a7ddd45b5be7e5.jpg",
+    "ifc_class": "IfcDoor",
+    "ifc_type": "EXIT",
+    "confidence": 0.867,
+    "bbox_xywh": [
+      181,
+      315,
+      54,
+      60
+    ],
+    "det_class": "exit",
+    "det_conf": 0.8672,
+    "ocr_text": "i",
+    "ocr_conf": 0.0276,
+    "ocr_norm": "",
+    "conflict": false
+  },
+  {
+    "image_path": "/home/coder/thesis-yolo/runs_gpu/evac_v12_pred_with_labels/KakaoTalk_20240330_153803899_06_jpg.rf.fabefdeef536a091d8a7ddd45b5be7e5.jpg",
+    "ifc_class": "IfcDoor",
+    "ifc_type": "EXIT",
+    "confidence": 0.851,
+    "bbox_xywh": [
+      173,
+      290,
+      63,
+      89
+    ],
+    "det_class": "exit",
+    "det_conf": 0.8508,
+    "ocr_text": "2.",
+    "ocr_conf": 0.1185,
+    "ocr_norm": "",
+    "conflict": false
+  },
+  {
+    "image_path": "/home/coder/thesis-yolo/runs_gpu/evac_v12_pred_with_labels/KakaoTalk_20240330_153803899_07_jpg.rf.6ef2d245f567fdf7844e8575739f6e5c.jpg",
+    "ifc_class": "IfcDoor",
+    "ifc_type": "EXIT",
+    "confidence": 0.852,
+    "bbox_xywh": [
+      377,
+      459,
+      40,
+      53
+    ],
+    "det_class": "exit",
+    "det_conf": 0.8515,
+    "ocr_text": "{e",
+    "ocr_conf": 0.0069,
+    "ocr_norm": "",
+    "conflict": false
+  },
+  {
+    "image_path": "/home/coder/thesis-yolo/runs_gpu/evac_v12_pred_with_labels/KakaoTalk_20240330_153803899_07_jpg.rf.ace706353d428209c8978a79e7877db4.jpg",
+    "ifc_class": "IfcDoor",
+    "ifc_type": "EXIT",
+    "confidence": 0.865,
+    "bbox_xywh": [
+      410,
+      440,
+      46,
+      53
+    ],
+    "det_class": "exit",
+    "det_conf": 0.8648,
+    "ocr_text": "14",
+    "ocr_conf": 0.3227,
+    "ocr_norm": "",
+    "conflict": false
+  },
+  {
+    "image_path": "/home/coder/thesis-yolo/runs_gpu/evac_v12_pred_with_labels/KakaoTalk_20240330_153803899_07_jpg.rf.ace706353d428209c8978a79e7877db4.jpg",
+    "ifc_class": "IfcDoor",
+    "ifc_type": "EXIT",
+    "confidence": 0.679,
+    "bbox_xywh": [
+      452,
+      372,
+      48,
+      50
+    ],
+    "det_class": "exit",
+    "det_conf": 0.6795,
+    "ocr_text": "0",
+    "ocr_conf": 0.2758,
+    "ocr_norm": "",
+    "conflict": false
+  },
+  {
+    "image_path": "/home/coder/thesis-yolo/runs_gpu/evac_v12_pred_with_labels/KakaoTalk_20240330_153803899_07_jpg.rf.ace706353d428209c8978a79e7877db4.jpg",
+    "ifc_class": "IfcDoor",
+    "ifc_type": "EXIT",
+    "confidence": 0.309,
+    "bbox_xywh": [
+      449,
+      346,
+      51,
+      77
+    ],
+    "det_class": "exit",
+    "det_conf": 0.3088,
+    "ocr_text": "Ge",
+    "ocr_conf": 0.0255,
+    "ocr_norm": "",
+    "conflict": false
+  },
+  {
+    "image_path": "/home/coder/thesis-yolo/runs_gpu/evac_v12_pred_with_labels/KakaoTalk_20240330_153803899_07_jpg.rf.d722b66dc5a5a727ccda2082d62a3644.jpg",
+    "ifc_class": "IfcDoor",
+    "ifc_type": "EXIT",
+    "confidence": 0.875,
+    "bbox_xywh": [
+      410,
+      437,
+      48,
+      57
+    ],
+    "det_class": "exit",
+    "det_conf": 0.8748,
+    "ocr_text": "\"",
+    "ocr_conf": 0.6188,
+    "ocr_norm": "",
+    "conflict": false
+  },
+  {
+    "image_path": "/home/coder/thesis-yolo/runs_gpu/evac_v12_pred_with_labels/KakaoTalk_20240330_153803899_07_jpg.rf.d722b66dc5a5a727ccda2082d62a3644.jpg",
+    "ifc_class": "IfcDoor",
+    "ifc_type": "EXIT",
+    "confidence": 0.812,
+    "bbox_xywh": [
+      453,
+      370,
+      49,
+      53
+    ],
+    "det_class": "exit",
+    "det_conf": 0.8116,
+    "ocr_text": "1",
+    "ocr_conf": 0.7788,
+    "ocr_norm": "",
+    "conflict": false
+  },
+  {
+    "image_path": "/home/coder/thesis-yolo/runs_gpu/evac_v12_pred_with_labels/KakaoTalk_20240330_153803899_07_jpg.rf.d722b66dc5a5a727ccda2082d62a3644.jpg",
+    "ifc_class": "IfcDoor",
+    "ifc_type": "EXIT",
+    "confidence": 0.678,
+    "bbox_xywh": [
+      451,
+      341,
+      52,
+      80
+    ],
+    "det_class": "exit",
+    "det_conf": 0.6777,
+    "ocr_text": "4",
+    "ocr_conf": 0.2318,
+    "ocr_norm": "",
+    "conflict": false
+  },
+  {
+    "image_path": "/home/coder/thesis-yolo/runs_gpu/evac_v12_pred_with_labels/KakaoTalk_20240330_153803899_08_jpg.rf.5b0d8da7b6c4118f11352f2174c133c7.jpg",
+    "ifc_class": "IfcDoor",
+    "ifc_type": "EXIT",
+    "confidence": 0.874,
+    "bbox_xywh": [
+      421,
+      177,
+      64,
+      97
+    ],
+    "det_class": "exit",
+    "det_conf": 0.8738,
+    "ocr_text": "8",
+    "ocr_conf": 0.7947,
+    "ocr_norm": "",
+    "conflict": false
+  },
+  {
+    "image_path": "/home/coder/thesis-yolo/runs_gpu/evac_v12_pred_with_labels/KakaoTalk_20240330_153803899_08_jpg.rf.5b0d8da7b6c4118f11352f2174c133c7.jpg",
+    "ifc_class": "IfcDoor",
+    "ifc_type": "EXIT",
+    "confidence": 0.867,
+    "bbox_xywh": [
+      129,
+      311,
+      63,
+      77
+    ],
+    "det_class": "exit",
+    "det_conf": 0.8668,
+    "ocr_text": "7",
+    "ocr_conf": 0.0195,
+    "ocr_norm": "",
+    "conflict": false
+  },
+  {
+    "image_path": "/home/coder/thesis-yolo/runs_gpu/evac_v12_pred_with_labels/KakaoTalk_20240330_153803899_08_jpg.rf.5b0d8da7b6c4118f11352f2174c133c7.jpg",
+    "ifc_class": "IfcDoor",
+    "ifc_type": "EXIT",
+    "confidence": 0.841,
+    "bbox_xywh": [
+      424,
+      207,
+      59,
+      65
+    ],
+    "det_class": "exit",
+    "det_conf": 0.8414,
+    "ocr_text": "4",
+    "ocr_conf": 0.9946,
+    "ocr_norm": "",
+    "conflict": false
+  },
+  {
+    "image_path": "/home/coder/thesis-yolo/runs_gpu/evac_v12_pred_with_labels/KakaoTalk_20240330_153803899_08_jpg.rf.5b0d8da7b6c4118f11352f2174c133c7.jpg",
+    "ifc_class": "IfcDoor",
+    "ifc_type": "EXIT",
+    "confidence": 0.466,
+    "bbox_xywh": [
+      125,
+      286,
+      68,
+      102
+    ],
+    "det_class": "exit",
+    "det_conf": 0.4659,
+    "ocr_text": "2",
+    "ocr_conf": 0.0049,
+    "ocr_norm": "",
+    "conflict": false
+  },
+  {
+    "image_path": "/home/coder/thesis-yolo/runs_gpu/evac_v12_pred_with_labels/KakaoTalk_20240330_153803899_08_jpg.rf.9a71078ff8c3d1361bcad5f1ec704f7b.jpg",
+    "ifc_class": "IfcDoor",
+    "ifc_type": "EXIT",
+    "confidence": 0.894,
+    "bbox_xywh": [
+      441,
+      349,
+      52,
+      65
+    ],
+    "det_class": "exit",
+    "det_conf": 0.8941,
+    "ocr_text": "44n{",
+    "ocr_conf": 0.0051,
+    "ocr_norm": "",
+    "conflict": false
+  },
+  {
+    "image_path": "/home/coder/thesis-yolo/runs_gpu/evac_v12_pred_with_labels/KakaoTalk_20240330_153803899_08_jpg.rf.9a71078ff8c3d1361bcad5f1ec704f7b.jpg",
+    "ifc_class": "IfcDoor",
+    "ifc_type": "EXIT",
+    "confidence": 0.878,
+    "bbox_xywh": [
+      180,
+      172,
+      48,
+      69
+    ],
+    "det_class": "exit",
+    "det_conf": 0.8776,
+    "ocr_text": "}",
+    "ocr_conf": 0.9163,
+    "ocr_norm": "",
+    "conflict": false
+  },
+  {
+    "image_path": "/home/coder/thesis-yolo/runs_gpu/evac_v12_pred_with_labels/KakaoTalk_20240330_153803899_08_jpg.rf.d92d77cb566af8b00d5246070cad898d.jpg",
+    "ifc_class": "IfcDoor",
+    "ifc_type": "EXIT",
+    "confidence": 0.879,
+    "bbox_xywh": [
+      149,
+      353,
+      44,
+      65
+    ],
+    "det_class": "exit",
+    "det_conf": 0.879,
+    "ocr_text": "e",
+    "ocr_conf": 0.0449,
+    "ocr_norm": "",
+    "conflict": false
+  },
+  {
+    "image_path": "/home/coder/thesis-yolo/runs_gpu/evac_v12_pred_with_labels/KakaoTalk_20240330_153803899_08_jpg.rf.d92d77cb566af8b00d5246070cad898d.jpg",
+    "ifc_class": "IfcDoor",
+    "ifc_type": "EXIT",
+    "confidence": 0.861,
+    "bbox_xywh": [
+      405,
+      176,
+      45,
+      61
+    ],
+    "det_class": "exit",
+    "det_conf": 0.8606,
+    "ocr_text": "4",
+    "ocr_conf": 0.845,
+    "ocr_norm": "",
+    "conflict": false
+  },
+  {
+    "image_path": "/home/coder/thesis-yolo/runs_gpu/evac_v12_pred_with_labels/KakaoTalk_20240330_153803899_09_jpg.rf.5a533f68147ae474e32a79b0c4f18a9e.jpg",
+    "ifc_class": "IfcDoor",
+    "ifc_type": "EXIT",
+    "confidence": 0.481,
+    "bbox_xywh": [
+      278,
+      390,
+      23,
+      32
+    ],
+    "det_class": "exit",
+    "det_conf": 0.4811,
+    "ocr_text": "4",
+    "ocr_conf": 0.8109,
+    "ocr_norm": "",
+    "conflict": false
+  },
+  {
+    "image_path": "/home/coder/thesis-yolo/runs_gpu/evac_v12_pred_with_labels/KakaoTalk_20240330_153803899_10_jpg.rf.68aa21cf56f333ea5ada533d0e0e8ecd.jpg",
+    "ifc_class": "IfcDoor",
+    "ifc_type": "EXIT",
+    "confidence": 0.894,
+    "bbox_xywh": [
+      334,
+      427,
+      54,
+      71
+    ],
+    "det_class": "exit",
+    "det_conf": 0.8936,
+    "ocr_text": "4",
+    "ocr_conf": 0.4916,
+    "ocr_norm": "",
+    "conflict": false
+  },
+  {
+    "image_path": "/home/coder/thesis-yolo/runs_gpu/evac_v12_pred_with_labels/KakaoTalk_20240330_153803899_10_jpg.rf.68aa21cf56f333ea5ada533d0e0e8ecd.jpg",
+    "ifc_class": "IfcDoor",
+    "ifc_type": "EXIT",
+    "confidence": 0.886,
+    "bbox_xywh": [
+      444,
+      301,
+      53,
+      65
+    ],
+    "det_class": "exit",
+    "det_conf": 0.8864,
+    "ocr_text": "1R",
+    "ocr_conf": 0.3299,
+    "ocr_norm": "",
+    "conflict": false
+  },
+  {
+    "image_path": "/home/coder/thesis-yolo/runs_gpu/evac_v12_pred_with_labels/KakaoTalk_20240330_153803899_10_jpg.rf.68aa21cf56f333ea5ada533d0e0e8ecd.jpg",
+    "ifc_class": "IfcDoor",
+    "ifc_type": "EXIT",
+    "confidence": 0.884,
+    "bbox_xywh": [
+      129,
+      400,
+      59,
+      99
+    ],
+    "det_class": "exit",
+    "det_conf": 0.8841,
+    "ocr_text": "1",
+    "ocr_conf": 0.9971,
+    "ocr_norm": "",
+    "conflict": false
+  },
+  {
+    "image_path": "/home/coder/thesis-yolo/runs_gpu/evac_v12_pred_with_labels/KakaoTalk_20240330_153803899_10_jpg.rf.68aa21cf56f333ea5ada533d0e0e8ecd.jpg",
+    "ifc_class": "IfcDoor",
+    "ifc_type": "EXIT",
+    "confidence": 0.848,
+    "bbox_xywh": [
+      133,
+      423,
+      54,
+      76
+    ],
+    "det_class": "exit",
+    "det_conf": 0.8476,
+    "ocr_text": "4",
+    "ocr_conf": 0.982,
+    "ocr_norm": "",
+    "conflict": false
+  },
+  {
+    "image_path": "/home/coder/thesis-yolo/runs_gpu/evac_v12_pred_with_labels/KakaoTalk_20240330_153803899_10_jpg.rf.68aa21cf56f333ea5ada533d0e0e8ecd.jpg",
+    "ifc_class": "IfcDoor",
+    "ifc_type": "EXIT",
+    "confidence": 0.786,
+    "bbox_xywh": [
+      439,
+      276,
+      59,
+      92
+    ],
+    "det_class": "exit",
+    "det_conf": 0.786,
+    "ocr_text": "4",
+    "ocr_conf": 0.765,
+    "ocr_norm": "",
+    "conflict": false
+  },
+  {
+    "image_path": "/home/coder/thesis-yolo/runs_gpu/evac_v12_pred_with_labels/KakaoTalk_20240330_153803899_10_jpg.rf.82d9275f6e4ea197a222f3e74ac74ec8.jpg",
+    "ifc_class": "IfcDoor",
+    "ifc_type": "EXIT",
+    "confidence": 0.869,
+    "bbox_xywh": [
+      454,
+      273,
+      38,
+      61
+    ],
+    "det_class": "exit",
+    "det_conf": 0.8691,
+    "ocr_text": "4",
+    "ocr_conf": 0.5549,
+    "ocr_norm": "",
+    "conflict": false
+  },
+  {
+    "image_path": "/home/coder/thesis-yolo/runs_gpu/evac_v12_pred_with_labels/KakaoTalk_20240330_153803899_10_jpg.rf.82d9275f6e4ea197a222f3e74ac74ec8.jpg",
+    "ifc_class": "IfcDoor",
+    "ifc_type": "EXIT",
+    "confidence": 0.794,
+    "bbox_xywh": [
+      370,
+      419,
+      39,
+      63
+    ],
+    "det_class": "exit",
+    "det_conf": 0.7937,
+    "ocr_text": "1",
+    "ocr_conf": 0.5577,
+    "ocr_norm": "",
+    "conflict": false
+  },
+  {
+    "image_path": "/home/coder/thesis-yolo/runs_gpu/evac_v12_pred_with_labels/KakaoTalk_20240330_153803899_10_jpg.rf.82d9275f6e4ea197a222f3e74ac74ec8.jpg",
+    "ifc_class": "IfcDoor",
+    "ifc_type": "EXIT",
+    "confidence": 0.609,
+    "bbox_xywh": [
+      171,
+      456,
+      42,
+      66
+    ],
+    "det_class": "exit",
+    "det_conf": 0.6087,
+    "ocr_text": "4",
+    "ocr_conf": 0.285,
+    "ocr_norm": "",
+    "conflict": false
+  },
+  {
+    "image_path": "/home/coder/thesis-yolo/runs_gpu/evac_v12_pred_with_labels/KakaoTalk_20240330_153803899_10_jpg.rf.82d9275f6e4ea197a222f3e74ac74ec8.jpg",
+    "ifc_class": "IfcDoor",
+    "ifc_type": "EXIT",
+    "confidence": 0.58,
+    "bbox_xywh": [
+      367,
+      393,
+      46,
+      91
+    ],
+    "det_class": "exit",
+    "det_conf": 0.5795,
+    "ocr_text": "Ss",
+    "ocr_conf": 0.0083,
+    "ocr_norm": "",
+    "conflict": false
+  },
+  {
+    "image_path": "/home/coder/thesis-yolo/runs_gpu/evac_v12_pred_with_labels/KakaoTalk_20240330_153803899_10_jpg.rf.82d9275f6e4ea197a222f3e74ac74ec8.jpg",
+    "ifc_class": "IfcDoor",
+    "ifc_type": "EXIT",
+    "confidence": 0.429,
+    "bbox_xywh": [
+      158,
+      437,
+      56,
+      87
+    ],
+    "det_class": "exit",
+    "det_conf": 0.429,
+    "ocr_text": "2",
+    "ocr_conf": 0.838,
+    "ocr_norm": "",
+    "conflict": false
+  },
+  {
+    "image_path": "/home/coder/thesis-yolo/runs_gpu/evac_v12_pred_with_labels/KakaoTalk_20240330_153803899_10_jpg.rf.c336157ba3a1837095f499b61fc3157c.jpg",
+    "ifc_class": "IfcDoor",
+    "ifc_type": "EXIT",
+    "confidence": 0.894,
+    "bbox_xywh": [
+      342,
+      430,
+      46,
+      63
+    ],
+    "det_class": "exit",
+    "det_conf": 0.8941,
+    "ocr_text": "11",
+    "ocr_conf": 0.359,
+    "ocr_norm": "",
+    "conflict": false
+  },
+  {
+    "image_path": "/home/coder/thesis-yolo/runs_gpu/evac_v12_pred_with_labels/KakaoTalk_20240330_153803899_10_jpg.rf.c336157ba3a1837095f499b61fc3157c.jpg",
+    "ifc_class": "IfcDoor",
+    "ifc_type": "EXIT",
+    "confidence": 0.889,
+    "bbox_xywh": [
+      451,
+      299,
+      48,
+      64
+    ],
+    "det_class": "exit",
+    "det_conf": 0.8889,
+    "ocr_text": "72",
+    "ocr_conf": 0.0274,
+    "ocr_norm": "",
+    "conflict": false
+  },
+  {
+    "image_path": "/home/coder/thesis-yolo/runs_gpu/evac_v12_pred_with_labels/KakaoTalk_20240330_153803899_10_jpg.rf.c336157ba3a1837095f499b61fc3157c.jpg",
+    "ifc_class": "IfcDoor",
+    "ifc_type": "EXIT",
+    "confidence": 0.866,
+    "bbox_xywh": [
+      141,
+      435,
+      47,
+      66
+    ],
+    "det_class": "exit",
+    "det_conf": 0.866,
+    "ocr_text": "1C",
+    "ocr_conf": 0.0312,
+    "ocr_norm": "",
+    "conflict": false
+  },
+  {
+    "image_path": "/home/coder/thesis-yolo/runs_gpu/evac_v12_pred_with_labels/KakaoTalk_20240330_153803899_10_jpg.rf.c336157ba3a1837095f499b61fc3157c.jpg",
+    "ifc_class": "IfcDoor",
+    "ifc_type": "EXIT",
+    "confidence": 0.853,
+    "bbox_xywh": [
+      131,
+      416,
+      57,
+      85
+    ],
+    "det_class": "exit",
+    "det_conf": 0.8527,
+    "ocr_text": "1 (",
+    "ocr_conf": 0.0266,
+    "ocr_norm": "",
+    "conflict": false
+  },
+  {
+    "image_path": "/home/coder/thesis-yolo/runs_gpu/evac_v12_pred_with_labels/KakaoTalk_20240330_153803899_10_jpg.rf.c336157ba3a1837095f499b61fc3157c.jpg",
+    "ifc_class": "IfcDoor",
+    "ifc_type": "EXIT",
+    "confidence": 0.314,
+    "bbox_xywh": [
+      116,
+      404,
+      75,
+      99
+    ],
+    "det_class": "exit",
+    "det_conf": 0.3137,
+    "ocr_text": "2",
+    "ocr_conf": 0.9077,
+    "ocr_norm": "",
+    "conflict": false
+  },
+  {
+    "image_path": "/home/coder/thesis-yolo/runs_gpu/evac_v12_pred_with_labels/KakaoTalk_20240330_153803899_11_jpg.rf.2190b199b7aa354ea4c8887dda605c53.jpg",
+    "ifc_class": "IfcDoor",
+    "ifc_type": "EXIT",
+    "confidence": 0.887,
+    "bbox_xywh": [
+      261,
+      474,
+      54,
+      71
+    ],
+    "det_class": "exit",
+    "det_conf": 0.8866,
+    "ocr_text": "4",
+    "ocr_conf": 0.3153,
+    "ocr_norm": "",
+    "conflict": false
+  },
+  {
+    "image_path": "/home/coder/thesis-yolo/runs_gpu/evac_v12_pred_with_labels/KakaoTalk_20240330_153803899_11_jpg.rf.499524f6602ac0c83e7acca083361254.jpg",
+    "ifc_class": "IfcDoor",
+    "ifc_type": "EXIT",
+    "confidence": 0.896,
+    "bbox_xywh": [
+      353,
+      467,
+      58,
+      71
+    ],
+    "det_class": "exit",
+    "det_conf": 0.8956,
+    "ocr_text": "0",
+    "ocr_conf": 0.1893,
+    "ocr_norm": "",
+    "conflict": false
+  },
+  {
+    "image_path": "/home/coder/thesis-yolo/runs_gpu/evac_v12_pred_with_labels/KakaoTalk_20240330_153803899_11_jpg.rf.77f208f10d79fbca21dfbc29e9ae6b18.jpg",
+    "ifc_class": "IfcDoor",
+    "ifc_type": "EXIT",
+    "confidence": 0.89,
+    "bbox_xywh": [
+      278,
+      475,
+      45,
+      70
+    ],
+    "det_class": "exit",
+    "det_conf": 0.8905,
+    "ocr_text": "1",
+    "ocr_conf": 0.8483,
+    "ocr_norm": "",
+    "conflict": false
+  },
+  {
+    "image_path": "/home/coder/thesis-yolo/runs_gpu/evac_v12_pred_with_labels/KakaoTalk_20240330_153803899_12_jpg.rf.4099e028dee5a4fe3d99bd848a68c06f.jpg",
+    "ifc_class": "IfcDoor",
+    "ifc_type": "EXIT",
+    "confidence": 0.901,
+    "bbox_xywh": [
+      566,
+      324,
+      50,
+      70
+    ],
+    "det_class": "exit",
+    "det_conf": 0.9012,
+    "ocr_text": "1",
+    "ocr_conf": 0.9913,
+    "ocr_norm": "",
+    "conflict": false
+  },
+  {
+    "image_path": "/home/coder/thesis-yolo/runs_gpu/evac_v12_pred_with_labels/KakaoTalk_20240330_153803899_12_jpg.rf.4099e028dee5a4fe3d99bd848a68c06f.jpg",
+    "ifc_class": "IfcDoor",
+    "ifc_type": "EXIT",
+    "confidence": 0.853,
+    "bbox_xywh": [
+      240,
+      93,
+      56,
+      92
+    ],
+    "det_class": "exit",
+    "det_conf": 0.8528,
+    "ocr_text": "4",
+    "ocr_conf": 0.8968,
+    "ocr_norm": "",
+    "conflict": false
+  },
+  {
+    "image_path": "/home/coder/thesis-yolo/runs_gpu/evac_v12_pred_with_labels/KakaoTalk_20240330_153803899_12_jpg.rf.4099e028dee5a4fe3d99bd848a68c06f.jpg",
+    "ifc_class": "IfcDoor",
+    "ifc_type": "EXIT",
+    "confidence": 0.771,
+    "bbox_xywh": [
+      249,
+      114,
+      46,
+      67
+    ],
+    "det_class": "exit",
+    "det_conf": 0.7713,
+    "ocr_text": "8i",
+    "ocr_conf": 0.0021,
+    "ocr_norm": "",
+    "conflict": false
+  },
+  {
+    "image_path": "/home/coder/thesis-yolo/runs_gpu/evac_v12_pred_with_labels/KakaoTalk_20240330_153803899_12_jpg.rf.43429a4fb07053da63f9365464c34c3b.jpg",
+    "ifc_class": "IfcDoor",
+    "ifc_type": "EXIT",
+    "confidence": 0.854,
+    "bbox_xywh": [
+      549,
+      343,
+      56,
+      88
+    ],
+    "det_class": "exit",
+    "det_conf": 0.8541,
+    "ocr_text": "91",
+    "ocr_conf": 0.5724,
+    "ocr_norm": "",
+    "conflict": false
+  },
+  {
+    "image_path": "/home/coder/thesis-yolo/runs_gpu/evac_v12_pred_with_labels/KakaoTalk_20240330_153803899_12_jpg.rf.43429a4fb07053da63f9365464c34c3b.jpg",
+    "ifc_class": "IfcDoor",
+    "ifc_type": "EXIT",
+    "confidence": 0.84,
+    "bbox_xywh": [
+      270,
+      100,
+      50,
+      79
+    ],
+    "det_class": "exit",
+    "det_conf": 0.8404,
+    "ocr_text": "en",
+    "ocr_conf": 0.0136,
+    "ocr_norm": "",
+    "conflict": false
+  },
+  {
+    "image_path": "/home/coder/thesis-yolo/runs_gpu/evac_v12_pred_with_labels/KakaoTalk_20240330_153803899_12_jpg.rf.43429a4fb07053da63f9365464c34c3b.jpg",
+    "ifc_class": "IfcDoor",
+    "ifc_type": "EXIT",
+    "confidence": 0.835,
+    "bbox_xywh": [
+      275,
+      113,
+      44,
+      64
+    ],
+    "det_class": "exit",
+    "det_conf": 0.8353,
+    "ocr_text": "Ln",
+    "ocr_conf": 0.015,
+    "ocr_norm": "",
+    "conflict": false
+  },
+  {
+    "image_path": "/home/coder/thesis-yolo/runs_gpu/evac_v12_pred_with_labels/KakaoTalk_20240330_153803899_12_jpg.rf.43429a4fb07053da63f9365464c34c3b.jpg",
+    "ifc_class": "IfcDoor",
+    "ifc_type": "EXIT",
+    "confidence": 0.821,
+    "bbox_xywh": [
+      560,
+      360,
+      44,
+      70
+    ],
+    "det_class": "exit",
+    "det_conf": 0.8214,
+    "ocr_text": "1",
+    "ocr_conf": 0.0894,
+    "ocr_norm": "",
+    "conflict": false
+  },
+  {
+    "image_path": "/home/coder/thesis-yolo/runs_gpu/evac_v12_pred_with_labels/KakaoTalk_20240330_153803899_12_jpg.rf.9cf146d82ae7e6cee61058863e0360c5.jpg",
+    "ifc_class": "IfcDoor",
+    "ifc_type": "EXIT",
+    "confidence": 0.881,
+    "bbox_xywh": [
+      330,
+      115,
+      43,
+      64
+    ],
+    "det_class": "exit",
+    "det_conf": 0.8806,
+    "ocr_text": "1",
+    "ocr_conf": 0.9581,
+    "ocr_norm": "",
+    "conflict": false
+  },
+  {
+    "image_path": "/home/coder/thesis-yolo/runs_gpu/evac_v12_pred_with_labels/KakaoTalk_20240330_153803899_12_jpg.rf.9cf146d82ae7e6cee61058863e0360c5.jpg",
+    "ifc_class": "IfcDoor",
+    "ifc_type": "EXIT",
+    "confidence": 0.88,
+    "bbox_xywh": [
+      327,
+      90,
+      49,
+      91
+    ],
+    "det_class": "exit",
+    "det_conf": 0.8802,
+    "ocr_text": "4",
+    "ocr_conf": 0.8641,
+    "ocr_norm": "",
+    "conflict": false
+  },
+  {
+    "image_path": "/home/coder/thesis-yolo/runs_gpu/evac_v12_pred_with_labels/KakaoTalk_20240330_153803899_12_jpg.rf.9cf146d82ae7e6cee61058863e0360c5.jpg",
+    "ifc_class": "IfcDoor",
+    "ifc_type": "EXIT",
+    "confidence": 0.878,
+    "bbox_xywh": [
+      28,
+      344,
+      48,
+      73
+    ],
+    "det_class": "exit",
+    "det_conf": 0.8784,
+    "ocr_text": "1L",
+    "ocr_conf": 0.339,
+    "ocr_norm": "",
+    "conflict": false
+  },
+  {
+    "image_path": "/home/coder/thesis-yolo/runs_gpu/evac_v12_pred_with_labels/KakaoTalk_20240330_153803899_13_jpg.rf.1ab5cf0d9800c92ab735b820d2bb15b0.jpg",
+    "ifc_class": "IfcDoor",
+    "ifc_type": "EXIT",
+    "confidence": 0.905,
+    "bbox_xywh": [
+      62,
+      326,
+      42,
+      58
+    ],
+    "det_class": "exit",
+    "det_conf": 0.9046,
+    "ocr_text": "(= _",
+    "ocr_conf": 0.0354,
+    "ocr_norm": "",
+    "conflict": false
+  },
+  {
+    "image_path": "/home/coder/thesis-yolo/runs_gpu/evac_v12_pred_with_labels/KakaoTalk_20240330_153803899_13_jpg.rf.1ab5cf0d9800c92ab735b820d2bb15b0.jpg",
+    "ifc_class": "IfcDoor",
+    "ifc_type": "EXIT",
+    "confidence": 0.771,
+    "bbox_xywh": [
+      457,
+      113,
+      46,
+      56
+    ],
+    "det_class": "exit",
+    "det_conf": 0.7714,
+    "ocr_text": "1",
+    "ocr_conf": 0.8564,
+    "ocr_norm": "",
+    "conflict": false
+  },
+  {
+    "image_path": "/home/coder/thesis-yolo/runs_gpu/evac_v12_pred_with_labels/KakaoTalk_20240330_153803899_13_jpg.rf.60fa36f6e8ef0c6703357534bb6d80e7.jpg",
+    "ifc_class": "IfcDoor",
+    "ifc_type": "EXIT",
+    "confidence": 0.885,
+    "bbox_xywh": [
+      535,
+      327,
+      40,
+      57
+    ],
+    "det_class": "exit",
+    "det_conf": 0.8853,
+    "ocr_text": "4",
+    "ocr_conf": 0.2109,
+    "ocr_norm": "",
+    "conflict": false
+  },
+  {
+    "image_path": "/home/coder/thesis-yolo/runs_gpu/evac_v12_pred_with_labels/KakaoTalk_20240330_153803899_13_jpg.rf.60fa36f6e8ef0c6703357534bb6d80e7.jpg",
+    "ifc_class": "IfcDoor",
+    "ifc_type": "EXIT",
+    "confidence": 0.882,
+    "bbox_xywh": [
+      131,
+      88,
+      50,
+      80
+    ],
+    "det_class": "exit",
+    "det_conf": 0.8822,
+    "ocr_text": "4",
+    "ocr_conf": 0.3091,
+    "ocr_norm": "",
+    "conflict": false
+  },
+  {
+    "image_path": "/home/coder/thesis-yolo/runs_gpu/evac_v12_pred_with_labels/KakaoTalk_20240330_153803899_13_jpg.rf.60fa36f6e8ef0c6703357534bb6d80e7.jpg",
+    "ifc_class": "IfcDoor",
+    "ifc_type": "EXIT",
+    "confidence": 0.873,
+    "bbox_xywh": [
+      133,
+      114,
+      46,
+      53
+    ],
+    "det_class": "exit",
+    "det_conf": 0.8733,
+    "ocr_text": "4",
+    "ocr_conf": 0.9462,
+    "ocr_norm": "",
+    "conflict": false
+  },
+  {
+    "image_path": "/home/coder/thesis-yolo/runs_gpu/evac_v12_pred_with_labels/KakaoTalk_20240330_153803899_13_jpg.rf.e9f6b5cbd6eb07cf65acef498f15156d.jpg",
+    "ifc_class": "IfcDoor",
+    "ifc_type": "EXIT",
+    "confidence": 0.889,
+    "bbox_xywh": [
+      53,
+      282,
+      53,
+      64
+    ],
+    "det_class": "exit",
+    "det_conf": 0.889,
+    "ocr_text": "74n",
+    "ocr_conf": 0.0144,
+    "ocr_norm": "",
+    "conflict": false
+  },
+  {
+    "image_path": "/home/coder/thesis-yolo/runs_gpu/evac_v12_pred_with_labels/KakaoTalk_20240330_153803899_13_jpg.rf.e9f6b5cbd6eb07cf65acef498f15156d.jpg",
+    "ifc_class": "IfcDoor",
+    "ifc_type": "EXIT",
+    "confidence": 0.878,
+    "bbox_xywh": [
+      485,
+      140,
+      52,
+      63
+    ],
+    "det_class": "exit",
+    "det_conf": 0.8777,
+    "ocr_text": "2",
+    "ocr_conf": 0.842,
+    "ocr_norm": "",
+    "conflict": false
+  },
+  {
+    "image_path": "/home/coder/thesis-yolo/runs_gpu/evac_v12_pred_with_labels/KakaoTalk_20240330_153803899_13_jpg.rf.e9f6b5cbd6eb07cf65acef498f15156d.jpg",
+    "ifc_class": "IfcDoor",
+    "ifc_type": "EXIT",
+    "confidence": 0.724,
+    "bbox_xywh": [
+      478,
+      112,
+      63,
+      95
+    ],
+    "det_class": "exit",
+    "det_conf": 0.7238,
+    "ocr_text": "Auan(",
+    "ocr_conf": 0.0011,
+    "ocr_norm": "",
+    "conflict": false
+  },
+  {
+    "image_path": "/home/coder/thesis-yolo/runs_gpu/evac_v12_pred_with_labels/KakaoTalk_20240330_153803899_13_jpg.rf.e9f6b5cbd6eb07cf65acef498f15156d.jpg",
+    "ifc_class": "IfcDoor",
+    "ifc_type": "EXIT",
+    "confidence": 0.495,
+    "bbox_xywh": [
+      43,
+      263,
+      65,
+      85
+    ],
+    "det_class": "exit",
+    "det_conf": 0.4954,
+    "ocr_text": "eut",
+    "ocr_conf": 0.483,
+    "ocr_norm": "",
+    "conflict": false
+  },
+  {
+    "image_path": "/home/coder/thesis-yolo/runs_gpu/evac_v12_pred_with_labels/KakaoTalk_20240330_153803899_14_jpg.rf.dced5cc79c1c2740117164e6cf5b2408.jpg",
+    "ifc_class": "IfcDoor",
+    "ifc_type": "EXIT",
+    "confidence": 0.882,
+    "bbox_xywh": [
+      508,
+      378,
+      53,
+      67
+    ],
+    "det_class": "exit",
+    "det_conf": 0.8824,
+    "ocr_text": "1s",
+    "ocr_conf": 0.006,
+    "ocr_norm": "",
+    "conflict": false
+  },
+  {
+    "image_path": "/home/coder/thesis-yolo/runs_gpu/evac_v12_pred_with_labels/KakaoTalk_20240330_153803899_14_jpg.rf.dced5cc79c1c2740117164e6cf5b2408.jpg",
+    "ifc_class": "IfcDoor",
+    "ifc_type": "EXIT",
+    "confidence": 0.836,
+    "bbox_xywh": [
+      163,
+      59,
+      56,
+      66
+    ],
+    "det_class": "exit",
+    "det_conf": 0.8356,
+    "ocr_text": "s",
+    "ocr_conf": 0.0673,
+    "ocr_norm": "",
+    "conflict": false
+  },
+  {
+    "image_path": "/home/coder/thesis-yolo/runs_gpu/evac_v12_pred_with_labels/KakaoTalk_20240330_153803899_14_jpg.rf.dced5cc79c1c2740117164e6cf5b2408.jpg",
+    "ifc_class": "IfcDoor",
+    "ifc_type": "EXIT",
+    "confidence": 0.81,
+    "bbox_xywh": [
+      500,
+      349,
+      64,
+      101
+    ],
+    "det_class": "exit",
+    "det_conf": 0.8104,
+    "ocr_text": "1",
+    "ocr_conf": 0.8176,
+    "ocr_norm": "",
+    "conflict": false
+  },
+  {
+    "image_path": "/home/coder/thesis-yolo/runs_gpu/evac_v12_pred_with_labels/KakaoTalk_20240330_153803899_14_jpg.rf.dced5cc79c1c2740117164e6cf5b2408.jpg",
+    "ifc_class": "IfcDoor",
+    "ifc_type": "EXIT",
+    "confidence": 0.581,
+    "bbox_xywh": [
+      152,
+      33,
+      71,
+      98
+    ],
+    "det_class": "exit",
+    "det_conf": 0.5811,
+    "ocr_text": "1",
+    "ocr_conf": 0.3052,
+    "ocr_norm": "",
+    "conflict": false
+  },
+  {
+    "image_path": "/home/coder/thesis-yolo/runs_gpu/evac_v12_pred_with_labels/KakaoTalk_20240330_153803899_14_jpg.rf.f2ba07bbbf00dc8dc432d847f424f787.jpg",
+    "ifc_class": "IfcDoor",
+    "ifc_type": "EXIT",
+    "confidence": 0.881,
+    "bbox_xywh": [
+      63,
+      325,
+      48,
+      67
+    ],
+    "det_class": "exit",
+    "det_conf": 0.8814,
+    "ocr_text": "1L =",
+    "ocr_conf": 0.2091,
+    "ocr_norm": "",
+    "conflict": false
+  },
+  {
+    "image_path": "/home/coder/thesis-yolo/runs_gpu/evac_v12_pred_with_labels/KakaoTalk_20240330_153803899_14_jpg.rf.f2ba07bbbf00dc8dc432d847f424f787.jpg",
+    "ifc_class": "IfcDoor",
+    "ifc_type": "EXIT",
+    "confidence": 0.751,
+    "bbox_xywh": [
+      472,
+      70,
+      49,
+      88
+    ],
+    "det_class": "exit",
+    "det_conf": 0.7509,
+    "ocr_text": "14",
+    "ocr_conf": 0.1479,
+    "ocr_norm": "",
+    "conflict": false
+  },
+  {
+    "image_path": "/home/coder/thesis-yolo/runs_gpu/evac_v12_pred_with_labels/KakaoTalk_20240330_153803899_14_jpg.rf.f2ba07bbbf00dc8dc432d847f424f787.jpg",
+    "ifc_class": "IfcDoor",
+    "ifc_type": "EXIT",
+    "confidence": 0.338,
+    "bbox_xywh": [
+      474,
+      98,
+      44,
+      59
+    ],
+    "det_class": "exit",
+    "det_conf": 0.3383,
+    "ocr_text": "1",
+    "ocr_conf": 0.9658,
+    "ocr_norm": "",
+    "conflict": false
+  },
+  {
+    "image_path": "/home/coder/thesis-yolo/runs_gpu/evac_v12_pred_with_labels/KakaoTalk_20240330_153803899_14_jpg.rf.f7e87cef1806b996a86644ede7d94263.jpg",
+    "ifc_class": "IfcDoor",
+    "ifc_type": "EXIT",
+    "confidence": 0.866,
+    "bbox_xywh": [
+      59,
+      299,
+      51,
+      66
+    ],
+    "det_class": "exit",
+    "det_conf": 0.8659,
+    "ocr_text": "2!",
+    "ocr_conf": 0.2472,
+    "ocr_norm": "",
+    "conflict": false
+  },
+  {
+    "image_path": "/home/coder/thesis-yolo/runs_gpu/evac_v12_pred_with_labels/KakaoTalk_20240330_153803899_14_jpg.rf.f7e87cef1806b996a86644ede7d94263.jpg",
+    "ifc_class": "IfcDoor",
+    "ifc_type": "EXIT",
+    "confidence": 0.826,
+    "bbox_xywh": [
+      494,
+      114,
+      50,
+      68
+    ],
+    "det_class": "exit",
+    "det_conf": 0.8264,
+    "ocr_text": "11",
+    "ocr_conf": 0.0722,
+    "ocr_norm": "",
+    "conflict": false
+  },
+  {
+    "image_path": "/home/coder/thesis-yolo/runs_gpu/evac_v12_pred_with_labels/KakaoTalk_20240330_153803899_14_jpg.rf.f7e87cef1806b996a86644ede7d94263.jpg",
+    "ifc_class": "IfcDoor",
+    "ifc_type": "EXIT",
+    "confidence": 0.758,
+    "bbox_xywh": [
+      487,
+      85,
+      61,
+      99
+    ],
+    "det_class": "exit",
+    "det_conf": 0.7577,
+    "ocr_text": "{0",
+    "ocr_conf": 0.5269,
+    "ocr_norm": "",
+    "conflict": false
+  },
+  {
+    "image_path": "/home/coder/thesis-yolo/runs_gpu/evac_v12_pred_with_labels/KakaoTalk_20240330_153803899_14_jpg.rf.f7e87cef1806b996a86644ede7d94263.jpg",
+    "ifc_class": "IfcDoor",
+    "ifc_type": "EXIT",
+    "confidence": 0.732,
+    "bbox_xywh": [
+      49,
+      270,
+      61,
+      100
+    ],
+    "det_class": "exit",
+    "det_conf": 0.7319,
+    "ocr_text": "1",
+    "ocr_conf": 0.7229,
+    "ocr_norm": "",
+    "conflict": false
+  },
+  {
+    "image_path": "/home/coder/thesis-yolo/runs_gpu/evac_v12_pred_with_labels/KakaoTalk_20240330_153803899_jpg.rf.f32b1c686b1fc90ca16000564ee9a567.jpg",
+    "ifc_class": "IfcDoor",
+    "ifc_type": "EXIT",
+    "confidence": 0.399,
+    "bbox_xywh": [
+      410,
+      306,
+      30,
+      36
+    ],
+    "det_class": "exit",
+    "det_conf": 0.3989,
+    "ocr_text": "Yu",
+    "ocr_conf": 0.0827,
+    "ocr_norm": "",
+    "conflict": false
+  },
+  {
+    "image_path": "/home/coder/thesis-yolo/runs_gpu/evac_v12_pred_with_labels/KakaoTalk_20240405_160640520_01_jpg.rf.a37c1cd6e45e32b7aa72a4612625e040.jpg",
+    "ifc_class": "IfcDoor",
+    "ifc_type": "EXIT",
+    "confidence": 0.109,
+    "bbox_xywh": [
+      136,
+      547,
+      10,
+      10
+    ],
+    "det_class": "exit",
+    "det_conf": 0.2593,
+    "ocr_text": "15",
+    "ocr_conf": 0.0603,
+    "ocr_norm": "",
+    "conflict": false
+  },
+  {
+    "image_path": "/home/coder/thesis-yolo/runs_gpu/evac_v12_pred_with_labels/KakaoTalk_20240405_160640520_03_jpg.rf.31ec73feed4a354cc72b095862dc43e7.jpg",
+    "ifc_class": "IfcFireSuppressionTerminal",
+    "ifc_type": "FIREEXTINGUISHER",
+    "confidence": 0.545,
+    "bbox_xywh": [
+      377,
+      464,
+      13,
+      17
+    ],
+    "det_class": "fire_extinguisher",
+    "det_conf": 0.6953,
+    "ocr_text": "Ky",
+    "ocr_conf": 0.0882,
+    "ocr_norm": "",
+    "conflict": false
+  },
+  {
+    "image_path": "/home/coder/thesis-yolo/runs_gpu/evac_v12_pred_with_labels/KakaoTalk_20240405_160640520_03_jpg.rf.c05806bd430541712a7bfa72e9b5935b.jpg",
+    "ifc_class": "IfcFireSuppressionTerminal",
+    "ifc_type": "FIREEXTINGUISHER",
+    "confidence": 0.585,
+    "bbox_xywh": [
+      355,
+      474,
+      9,
+      14
+    ],
+    "det_class": "fire_extinguisher",
+    "det_conf": 0.7346,
+    "ocr_text": "#G}",
+    "ocr_conf": 0.1534,
+    "ocr_norm": "",
+    "conflict": false
+  },
+  {
+    "image_path": "/home/coder/thesis-yolo/runs_gpu/evac_v12_pred_with_labels/KakaoTalk_20240405_160640520_04_jpg.rf.57c55652206889ee41dfc92ae61c5b15.jpg",
+    "ifc_class": "IfcDoor",
+    "ifc_type": "EXIT",
+    "confidence": 0.162,
+    "bbox_xywh": [
+      72,
+      223,
+      9,
+      15
+    ],
+    "det_class": "exit",
+    "det_conf": 0.3121,
+    "ocr_text": ";",
+    "ocr_conf": 0.6696,
+    "ocr_norm": "",
+    "conflict": false
+  },
+  {
+    "image_path": "/home/coder/thesis-yolo/runs_gpu/evac_v12_pred_with_labels/KakaoTalk_20240405_160721726_jpg.rf.b64c0beb55ea3000735d97e2250383f8.jpg",
+    "ifc_class": "IfcFireSuppressionTerminal",
+    "ifc_type": "FIREEXTINGUISHER",
+    "confidence": 0.106,
+    "bbox_xywh": [
+      89,
+      203,
+      8,
+      10
+    ],
+    "det_class": "fire_extinguisher",
+    "det_conf": 0.2564,
+    "ocr_text": "1",
+    "ocr_conf": 0.1547,
+    "ocr_norm": "",
+    "conflict": false
+  },
+  {
+    "image_path": "/home/coder/thesis-yolo/runs_gpu/evac_v12_pred_with_labels/KakaoTalk_20240405_160721726_jpg.rf.e1cb6e191c891ac5005d7ef696ef4a85.jpg",
+    "ifc_class": "IfcDoor",
+    "ifc_type": "EXIT",
+    "confidence": 0.167,
+    "bbox_xywh": [
+      324,
+      143,
+      9,
+      14
+    ],
+    "det_class": "exit",
+    "det_conf": 0.3169,
+    "ocr_text": "24",
+    "ocr_conf": 0.1823,
+    "ocr_norm": "",
+    "conflict": false
+  },
+  {
+    "image_path": "/home/coder/thesis-yolo/runs_gpu/evac_v12_pred_with_labels/evctmap-113_jpg.rf.f76cd30d85c3ad106d586307507ee3e8.jpg",
+    "ifc_class": "IfcFireSuppressionTerminal",
+    "ifc_type": "FIREEXTINGUISHER",
+    "confidence": 0.641,
+    "bbox_xywh": [
+      160,
+      457,
+      17,
+      30
+    ],
+    "det_class": "fire_extinguisher",
+    "det_conf": 0.6412,
+    "ocr_text": "TLi",
+    "ocr_conf": 0.0253,
+    "ocr_norm": "",
+    "conflict": false
+  },
+  {
+    "image_path": "/home/coder/thesis-yolo/runs_gpu/evac_v12_pred_with_labels/evctmap-11_jpg.rf.7700bb2bbc23e7c7f11008513367026c.jpg",
+    "ifc_class": "IfcFireSuppressionTerminal",
+    "ifc_type": "FIREEXTINGUISHER",
+    "confidence": 0.749,
+    "bbox_xywh": [
+      426,
+      314,
+      22,
+      20
+    ],
+    "det_class": "fire_extinguisher",
+    "det_conf": 0.7494,
+    "ocr_text": "{ \u20ac",
+    "ocr_conf": 0.0799,
+    "ocr_norm": "",
+    "conflict": false
+  },
+  {
+    "image_path": "/home/coder/thesis-yolo/runs_gpu/evac_v12_pred_with_labels/evctmap-11_jpg.rf.7700bb2bbc23e7c7f11008513367026c.jpg",
+    "ifc_class": "IfcDoor",
+    "ifc_type": "EXIT",
+    "confidence": 0.35,
+    "bbox_xywh": [
+      390,
+      385,
+      13,
+      15
+    ],
+    "det_class": "exit",
+    "det_conf": 0.5002,
+    "ocr_text": "4",
+    "ocr_conf": 0.56,
+    "ocr_norm": "",
+    "conflict": false
+  },
+  {
+    "image_path": "/home/coder/thesis-yolo/runs_gpu/evac_v12_pred_with_labels/evctmap-142_jpg.rf.b4169453cd806377e4ef7172e21b8d8f.jpg",
+    "ifc_class": "IfcFireSuppressionTerminal",
+    "ifc_type": "FIREEXTINGUISHER",
+    "confidence": 0.353,
+    "bbox_xywh": [
+      193,
+      214,
+      6,
+      10
+    ],
+    "det_class": "fire_extinguisher",
+    "det_conf": 0.5026,
+    "ocr_text": "1",
+    "ocr_conf": 0.4914,
+    "ocr_norm": "",
+    "conflict": false
+  },
+  {
+    "image_path": "/home/coder/thesis-yolo/runs_gpu/evac_v12_pred_with_labels/evctmap-142_jpg.rf.b4169453cd806377e4ef7172e21b8d8f.jpg",
+    "ifc_class": "IfcDoor",
+    "ifc_type": "EXIT",
+    "confidence": 0.107,
+    "bbox_xywh": [
+      206,
+      422,
+      10,
+      14
+    ],
+    "det_class": "exit",
+    "det_conf": 0.2571,
+    "ocr_text": "5",
+    "ocr_conf": 0.6473,
+    "ocr_norm": "",
+    "conflict": false
+  },
+  {
+    "image_path": "/home/coder/thesis-yolo/runs_gpu/evac_v12_pred_with_labels/evctmap-14_jpg.rf.113a0b99d0cd1e92140777dc927d5b5b.jpg",
+    "ifc_class": "IfcFireSuppressionTerminal",
+    "ifc_type": "FIREEXTINGUISHER",
+    "confidence": 0.31,
+    "bbox_xywh": [
+      143,
+      408,
+      26,
+      22
+    ],
+    "det_class": "fire_extinguisher",
+    "det_conf": 0.3103,
+    "ocr_text": "3L",
+    "ocr_conf": 0.0188,
+    "ocr_norm": "",
+    "conflict": false
+  },
+  {
+    "image_path": "/home/coder/thesis-yolo/runs_gpu/evac_v12_pred_with_labels/evctmap-14_jpg.rf.f116d5b86a30dfa7f25589b656083295.jpg",
+    "ifc_class": "IfcFireSuppressionTerminal",
+    "ifc_type": "FIREEXTINGUISHER",
+    "confidence": 0.642,
+    "bbox_xywh": [
+      261,
+      435,
+      23,
+      32
+    ],
+    "det_class": "fire_extinguisher",
+    "det_conf": 0.6424,
+    "ocr_text": "P7",
+    "ocr_conf": 0.0097,
+    "ocr_norm": "",
+    "conflict": false
+  },
+  {
+    "image_path": "/home/coder/thesis-yolo/runs_gpu/evac_v12_pred_with_labels/evctmap-157_jpg.rf.03f51ff95e04e047ccacbff3e9bf1e43.jpg",
+    "ifc_class": "IfcDoor",
+    "ifc_type": "EXIT",
+    "confidence": 0.329,
+    "bbox_xywh": [
+      331,
+      216,
+      20,
+      28
+    ],
+    "det_class": "exit",
+    "det_conf": 0.3292,
+    "ocr_text": "7'",
+    "ocr_conf": 0.6158,
+    "ocr_norm": "",
+    "conflict": false
+  },
+  {
+    "image_path": "/home/coder/thesis-yolo/runs_gpu/evac_v12_pred_with_labels/evctmap-16_jpg.rf.2dda181a63d3718eec8256f7d7bd7f52.jpg",
+    "ifc_class": "IfcDoor",
+    "ifc_type": "EXIT",
+    "confidence": 0.511,
+    "bbox_xywh": [
+      575,
+      347,
+      24,
+      25
+    ],
+    "det_class": "exit",
+    "det_conf": 0.5111,
+    "ocr_text": "5",
+    "ocr_conf": 0.6665,
+    "ocr_norm": "",
+    "conflict": false
+  },
+  {
+    "image_path": "/home/coder/thesis-yolo/runs_gpu/evac_v12_pred_with_labels/evctmap-25_jpg.rf.202c8a4aa513099f57bcc8ad2e621873.jpg",
+    "ifc_class": "IfcDoor",
+    "ifc_type": "EXIT",
+    "confidence": 0.607,
+    "bbox_xywh": [
+      5,
+      308,
+      25,
+      26
+    ],
+    "det_class": "exit",
+    "det_conf": 0.6072,
+    "ocr_text": "1",
+    "ocr_conf": 0.9787,
+    "ocr_norm": "",
+    "conflict": false
+  },
+  {
+    "image_path": "/home/coder/thesis-yolo/runs_gpu/evac_v12_pred_with_labels/evctmap-27_jpg.rf.3011761f91d44dc5bf4f0ac0b5c3e8d7.jpg",
+    "ifc_class": "IfcFireSuppressionTerminal",
+    "ifc_type": "FIREEXTINGUISHER",
+    "confidence": 0.285,
+    "bbox_xywh": [
+      288,
+      259,
+      11,
+      21
+    ],
+    "det_class": "fire_extinguisher",
+    "det_conf": 0.2848,
+    "ocr_text": "Ji",
+    "ocr_conf": 0.103,
+    "ocr_norm": "",
+    "conflict": false
+  },
+  {
+    "image_path": "/home/coder/thesis-yolo/runs_gpu/evac_v12_pred_with_labels/evctmap-27_jpg.rf.9280c209a69d983e4722e4c3e457cbdf.jpg",
+    "ifc_class": "IfcFireSuppressionTerminal",
+    "ifc_type": "FIREEXTINGUISHER",
+    "confidence": 0.258,
+    "bbox_xywh": [
+      286,
+      260,
+      12,
+      21
+    ],
+    "det_class": "fire_extinguisher",
+    "det_conf": 0.2584,
+    "ocr_text": "94i",
+    "ocr_conf": 0.0093,
+    "ocr_norm": "",
+    "conflict": false
+  },
+  {
+    "image_path": "/home/coder/thesis-yolo/runs_gpu/evac_v12_pred_with_labels/evctmap-28_jpg.rf.3d08d9da016cd721a28b8332d1701581.jpg",
+    "ifc_class": "IfcFireSuppressionTerminal",
+    "ifc_type": "FIREEXTINGUISHER",
+    "confidence": 0.42,
+    "bbox_xywh": [
+      179,
+      144,
+      21,
+      36
+    ],
+    "det_class": "fire_extinguisher",
+    "det_conf": 0.4199,
+    "ocr_text": "Ae",
+    "ocr_conf": 0.0269,
+    "ocr_norm": "",
+    "conflict": false
+  },
+  {
+    "image_path": "/home/coder/thesis-yolo/runs_gpu/evac_v12_pred_with_labels/evctmap-29_jpg.rf.7f3764a18266ed3c52dbbac686328260.jpg",
+    "ifc_class": "IfcDoor",
+    "ifc_type": "EXIT",
+    "confidence": 0.129,
+    "bbox_xywh": [
+      258,
+      437,
+      8,
+      11
+    ],
+    "det_class": "exit",
+    "det_conf": 0.2794,
+    "ocr_text": "5",
+    "ocr_conf": 0.7844,
+    "ocr_norm": "",
+    "conflict": false
+  },
+  {
+    "image_path": "/home/coder/thesis-yolo/runs_gpu/evac_v12_pred_with_labels/evctmap-2_jpg.rf.3bbe941251de4ae0427239392dd937f4.jpg",
+    "ifc_class": "IfcDoor",
+    "ifc_type": "EXIT",
+    "confidence": 0.708,
+    "bbox_xywh": [
+      551,
+      236,
+      27,
+      40
+    ],
+    "det_class": "exit",
+    "det_conf": 0.7081,
+    "ocr_text": "I",
+    "ocr_conf": 0.3362,
+    "ocr_norm": "",
+    "conflict": false
+  },
+  {
+    "image_path": "/home/coder/thesis-yolo/runs_gpu/evac_v12_pred_with_labels/evctmap-320_jpg.rf.9c24cb5cbf3734467bdf77475971ad59.jpg",
+    "ifc_class": "IfcFireSuppressionTerminal",
+    "ifc_type": "FIREEXTINGUISHER",
+    "confidence": 0.119,
+    "bbox_xywh": [
+      548,
+      212,
+      6,
+      8
+    ],
+    "det_class": "fire_extinguisher",
+    "det_conf": 0.2692,
+    "ocr_text": "0",
+    "ocr_conf": 0.4401,
+    "ocr_norm": "",
+    "conflict": false
+  },
+  {
+    "image_path": "/home/coder/thesis-yolo/runs_gpu/evac_v12_pred_with_labels/evctmap-39_jpg.rf.86238fb254695116d93fbacbb7f50e51.jpg",
+    "ifc_class": "IfcFireSuppressionTerminal",
+    "ifc_type": "FIREEXTINGUISHER",
+    "confidence": 0.117,
+    "bbox_xywh": [
+      506,
+      469,
+      9,
+      10
+    ],
+    "det_class": "fire_extinguisher",
+    "det_conf": 0.2665,
+    "ocr_text": "49",
+    "ocr_conf": 0.0849,
+    "ocr_norm": "",
+    "conflict": false
+  },
+  {
+    "image_path": "/home/coder/thesis-yolo/runs_gpu/evac_v12_pred_with_labels/evctmap-3_jpg.rf.d44e8932007bfe3dc7b910589a46b270.jpg",
+    "ifc_class": "IfcDoor",
+    "ifc_type": "EXIT",
+    "confidence": 0.294,
+    "bbox_xywh": [
+      561,
+      281,
+      27,
+      32
+    ],
+    "det_class": "exit",
+    "det_conf": 0.2943,
+    "ocr_text": "0",
+    "ocr_conf": 0.1521,
+    "ocr_norm": "",
+    "conflict": false
+  },
+  {
+    "image_path": "/home/coder/thesis-yolo/runs_gpu/evac_v12_pred_with_labels/evctmap-402_jpg.rf.de94aab5a98098ecabb9ac057f5df533.jpg",
+    "ifc_class": "IfcDoor",
+    "ifc_type": "EXIT",
+    "confidence": 0.751,
+    "bbox_xywh": [
+      527,
+      171,
+      26,
+      33
+    ],
+    "det_class": "exit",
+    "det_conf": 0.7512,
+    "ocr_text": "4",
+    "ocr_conf": 0.7405,
+    "ocr_norm": "",
+    "conflict": false
+  },
+  {
+    "image_path": "/home/coder/thesis-yolo/runs_gpu/evac_v12_pred_with_labels/evctmap-470_jpg.rf.87aca37c93dde49b88d1dca58834dad5.jpg",
+    "ifc_class": "IfcDoor",
+    "ifc_type": "EXIT",
+    "confidence": 0.607,
+    "bbox_xywh": [
+      217,
+      538,
+      15,
+      19
+    ],
+    "det_class": "exit",
+    "det_conf": 0.6072,
+    "ocr_text": "45",
+    "ocr_conf": 0.7039,
+    "ocr_norm": "",
+    "conflict": false
+  },
+  {
+    "image_path": "/home/coder/thesis-yolo/runs_gpu/evac_v12_pred_with_labels/evctmap-470_jpg.rf.9600e644e80fdebefc0d5851ad5523a3.jpg",
+    "ifc_class": "IfcDoor",
+    "ifc_type": "EXIT",
+    "confidence": 0.53,
+    "bbox_xywh": [
+      302,
+      558,
+      13,
+      18
+    ],
+    "det_class": "exit",
+    "det_conf": 0.5304,
+    "ocr_text": "4",
+    "ocr_conf": 0.0881,
+    "ocr_norm": "",
+    "conflict": false
+  },
+  {
+    "image_path": "/home/coder/thesis-yolo/runs_gpu/evac_v12_pred_with_labels/evctmap-481_jpg.rf.b62638f944ff9f91132379c4f9e50a5e.jpg",
+    "ifc_class": "IfcFireSuppressionTerminal",
+    "ifc_type": "FIREEXTINGUISHER",
+    "confidence": 0.107,
+    "bbox_xywh": [
+      335,
+      428,
+      7,
+      19
+    ],
+    "det_class": "fire_extinguisher",
+    "det_conf": 0.2573,
+    "ocr_text": "It",
+    "ocr_conf": 0.0965,
+    "ocr_norm": "",
+    "conflict": false
+  },
+  {
+    "image_path": "/home/coder/thesis-yolo/runs_gpu/evac_v12_pred_with_labels/evctmap-4_jpg.rf.fb43a8b9e3a67a76e8095fe70a5b529f.jpg",
+    "ifc_class": "IfcFireSuppressionTerminal",
+    "ifc_type": "FIREEXTINGUISHER",
+    "confidence": 0.122,
+    "bbox_xywh": [
+      535,
+      270,
+      14,
+      16
+    ],
+    "det_class": "fire_extinguisher",
+    "det_conf": 0.2717,
+    "ocr_text": "16",
+    "ocr_conf": 0.1822,
+    "ocr_norm": "",
+    "conflict": false
+  },
+  {
+    "image_path": "/home/coder/thesis-yolo/runs_gpu/evac_v12_pred_with_labels/evctmap-503_jpg.rf.e268bde21a62bb2629b7c9902e420d98.jpg",
+    "ifc_class": "IfcDoor",
+    "ifc_type": "EXIT",
+    "confidence": 0.666,
+    "bbox_xywh": [
+      585,
+      324,
+      15,
+      16
+    ],
+    "det_class": "exit",
+    "det_conf": 0.6657,
+    "ocr_text": "EF",
+    "ocr_conf": 0.1528,
+    "ocr_norm": "",
+    "conflict": false
+  },
+  {
+    "image_path": "/home/coder/thesis-yolo/runs_gpu/evac_v12_pred_with_labels/evctmap-503_jpg.rf.e268bde21a62bb2629b7c9902e420d98.jpg",
+    "ifc_class": "IfcFireSuppressionTerminal",
+    "ifc_type": "FIREEXTINGUISHER",
+    "confidence": 0.33,
+    "bbox_xywh": [
+      595,
+      229,
+      16,
+      16
+    ],
+    "det_class": "fire_extinguisher",
+    "det_conf": 0.3304,
+    "ocr_text": "7'",
+    "ocr_conf": 0.1763,
+    "ocr_norm": "",
+    "conflict": false
+  },
+  {
+    "image_path": "/home/coder/thesis-yolo/runs_gpu/evac_v12_pred_with_labels/evctmap-509_jpg.rf.f4df436d8d4935d33025661a3c0397c6.jpg",
+    "ifc_class": "IfcDoor",
+    "ifc_type": "EXIT",
+    "confidence": 0.197,
+    "bbox_xywh": [
+      228,
+      316,
+      9,
+      11
+    ],
+    "det_class": "exit",
+    "det_conf": 0.3471,
+    "ocr_text": "1",
+    "ocr_conf": 0.9979,
+    "ocr_norm": "",
+    "conflict": false
+  },
+  {
+    "image_path": "/home/coder/thesis-yolo/runs_gpu/evac_v12_pred_with_labels/evctmap-512_jpg.rf.73efff70214262019a7266ab3046fb1a.jpg",
+    "ifc_class": "IfcFireSuppressionTerminal",
+    "ifc_type": "FIREEXTINGUISHER",
+    "confidence": 0.191,
+    "bbox_xywh": [
+      93,
+      224,
+      9,
+      9
+    ],
+    "det_class": "fire_extinguisher",
+    "det_conf": 0.3408,
+    "ocr_text": "998",
+    "ocr_conf": 0.017,
+    "ocr_norm": "",
+    "conflict": false
+  },
+  {
+    "image_path": "/home/coder/thesis-yolo/runs_gpu/evac_v12_pred_with_labels/evctmap-512_jpg.rf.a6f50c790032992a374173962b2d9234.jpg",
+    "ifc_class": "IfcFireSuppressionTerminal",
+    "ifc_type": "FIREEXTINGUISHER",
+    "confidence": 0.224,
+    "bbox_xywh": [
+      458,
+      510,
+      8,
+      8
+    ],
+    "det_class": "fire_extinguisher",
+    "det_conf": 0.374,
+    "ocr_text": "It",
+    "ocr_conf": 0.0876,
+    "ocr_norm": "",
+    "conflict": false
+  },
+  {
+    "image_path": "/home/coder/thesis-yolo/runs_gpu/evac_v12_pred_with_labels/evctmap-512_jpg.rf.a6f50c790032992a374173962b2d9234.jpg",
+    "ifc_class": "IfcFireSuppressionTerminal",
+    "ifc_type": "FIREEXTINGUISHER",
+    "confidence": 0.118,
+    "bbox_xywh": [
+      543,
+      316,
+      8,
+      8
+    ],
+    "det_class": "fire_extinguisher",
+    "det_conf": 0.2677,
+    "ocr_text": "21",
+    "ocr_conf": 0.0899,
+    "ocr_norm": "",
+    "conflict": false
+  },
+  {
+    "image_path": "/home/coder/thesis-yolo/runs_gpu/evac_v12_pred_with_labels/evctmap-512_jpg.rf.ecc6832d314f7cfb1c1f0de6738a77a5.jpg",
+    "ifc_class": "IfcFireSuppressionTerminal",
+    "ifc_type": "FIREEXTINGUISHER",
+    "confidence": 0.303,
+    "bbox_xywh": [
+      360,
+      474,
+      10,
+      11
+    ],
+    "det_class": "fire_extinguisher",
+    "det_conf": 0.4531,
+    "ocr_text": "38a",
+    "ocr_conf": 0.0854,
+    "ocr_norm": "",
+    "conflict": false
+  },
+  {
+    "image_path": "/home/coder/thesis-yolo/runs_gpu/evac_v12_pred_with_labels/evctmap-512_jpg.rf.ecc6832d314f7cfb1c1f0de6738a77a5.jpg",
+    "ifc_class": "IfcFireSuppressionTerminal",
+    "ifc_type": "FIREEXTINGUISHER",
+    "confidence": 0.135,
+    "bbox_xywh": [
+      422,
+      313,
+      10,
+      10
+    ],
+    "det_class": "fire_extinguisher",
+    "det_conf": 0.2852,
+    "ocr_text": "95",
+    "ocr_conf": 0.1427,
+    "ocr_norm": "",
+    "conflict": false
+  },
+  {
+    "image_path": "/home/coder/thesis-yolo/runs_gpu/evac_v12_pred_with_labels/evctmap-512_jpg.rf.ecc6832d314f7cfb1c1f0de6738a77a5.jpg",
+    "ifc_class": "IfcFireSuppressionTerminal",
+    "ifc_type": "FIREEXTINGUISHER",
+    "confidence": 0.109,
+    "bbox_xywh": [
+      538,
+      358,
+      10,
+      9
+    ],
+    "det_class": "fire_extinguisher",
+    "det_conf": 0.2588,
+    "ocr_text": "7",
+    "ocr_conf": 0.3708,
+    "ocr_norm": "",
+    "conflict": false
+  },
+  {
+    "image_path": "/home/coder/thesis-yolo/runs_gpu/evac_v12_pred_with_labels/evctmap-519_jpg.rf.118193b5ae11414a344e77f902b30a3f.jpg",
+    "ifc_class": "IfcFireSuppressionTerminal",
+    "ifc_type": "FIREEXTINGUISHER",
+    "confidence": 0.267,
+    "bbox_xywh": [
+      326,
+      197,
+      10,
+      21
+    ],
+    "det_class": "fire_extinguisher",
+    "det_conf": 0.4169,
+    "ocr_text": "1",
+    "ocr_conf": 0.8652,
+    "ocr_norm": "",
+    "conflict": false
+  },
+  {
+    "image_path": "/home/coder/thesis-yolo/runs_gpu/evac_v12_pred_with_labels/evctmap-519_jpg.rf.5298370bb16bb1fd007a8354760c47f4.jpg",
+    "ifc_class": "IfcFireSuppressionTerminal",
+    "ifc_type": "FIREEXTINGUISHER",
+    "confidence": 0.256,
+    "bbox_xywh": [
+      154,
+      612,
+      14,
+      18
+    ],
+    "det_class": "fire_extinguisher",
+    "det_conf": 0.2558,
+    "ocr_text": "19",
+    "ocr_conf": 0.1983,
+    "ocr_norm": "",
+    "conflict": false
+  },
+  {
+    "image_path": "/home/coder/thesis-yolo/runs_gpu/evac_v12_pred_with_labels/evctmap-525_jpg.rf.ea75485c9f8d9fdd254ef31ea8ff1376.jpg",
+    "ifc_class": "IfcFireSuppressionTerminal",
+    "ifc_type": "FIREEXTINGUISHER",
+    "confidence": 0.121,
+    "bbox_xywh": [
+      529,
+      148,
+      8,
+      12
+    ],
+    "det_class": "fire_extinguisher",
+    "det_conf": 0.271,
+    "ocr_text": "~",
+    "ocr_conf": 0.1006,
+    "ocr_norm": "",
+    "conflict": false
+  },
+  {
+    "image_path": "/home/coder/thesis-yolo/runs_gpu/evac_v12_pred_with_labels/evctmap-525_jpg.rf.f7367f1b8c23a35a1f9d86d03614d956.jpg",
+    "ifc_class": "IfcFireSuppressionTerminal",
+    "ifc_type": "FIREEXTINGUISHER",
+    "confidence": 0.231,
+    "bbox_xywh": [
+      142,
+      260,
+      9,
+      13
+    ],
+    "det_class": "fire_extinguisher",
+    "det_conf": 0.381,
+    "ocr_text": "4",
+    "ocr_conf": 0.9132,
+    "ocr_norm": "",
+    "conflict": false
+  },
+  {
+    "image_path": "/home/coder/thesis-yolo/runs_gpu/evac_v12_pred_with_labels/evctmap-540_jpg.rf.3ee814bbfd642cd3dc0545e3abb91d68.jpg",
+    "ifc_class": "IfcFireSuppressionTerminal",
+    "ifc_type": "FIREEXTINGUISHER",
+    "confidence": 0.104,
+    "bbox_xywh": [
+      263,
+      454,
+      11,
+      16
+    ],
+    "det_class": "fire_extinguisher",
+    "det_conf": 0.2541,
+    "ocr_text": "94",
+    "ocr_conf": 0.2656,
+    "ocr_norm": "",
+    "conflict": false
+  },
+  {
+    "image_path": "/home/coder/thesis-yolo/runs_gpu/evac_v12_pred_with_labels/evctmap-540_jpg.rf.935f47ad5eb61dc1ee21cc77eba3136a.jpg",
+    "ifc_class": "IfcFireSuppressionTerminal",
+    "ifc_type": "FIREEXTINGUISHER",
+    "confidence": 0.151,
+    "bbox_xywh": [
+      378,
+      371,
+      9,
+      15
+    ],
+    "det_class": "fire_extinguisher",
+    "det_conf": 0.3008,
+    "ocr_text": "10",
+    "ocr_conf": 0.6837,
+    "ocr_norm": "",
+    "conflict": false
+  },
+  {
+    "image_path": "/home/coder/thesis-yolo/runs_gpu/evac_v12_pred_with_labels/evctmap-540_jpg.rf.d304e454f268182a1de59bd73dd41a6a.jpg",
+    "ifc_class": "IfcDoor",
+    "ifc_type": "EXIT",
+    "confidence": 0.176,
+    "bbox_xywh": [
+      340,
+      545,
+      7,
+      11
+    ],
+    "det_class": "exit",
+    "det_conf": 0.3255,
+    "ocr_text": "24",
+    "ocr_conf": 0.6606,
+    "ocr_norm": "",
+    "conflict": false
+  },
+  {
+    "image_path": "/home/coder/thesis-yolo/runs_gpu/evac_v12_pred_with_labels/evctmap-570_jpg.rf.135902d597c8f22235e3ccda44a945c1.jpg",
+    "ifc_class": "IfcDoor",
+    "ifc_type": "EXIT",
+    "confidence": 0.857,
+    "bbox_xywh": [
+      128,
+      268,
+      35,
+      36
+    ],
+    "det_class": "exit",
+    "det_conf": 0.8566,
+    "ocr_text": "It'",
+    "ocr_conf": 0.0266,
+    "ocr_norm": "",
+    "conflict": false
+  },
+  {
+    "image_path": "/home/coder/thesis-yolo/runs_gpu/evac_v12_pred_with_labels/evctmap-570_jpg.rf.76d7692942bf73a842d6e67735742dbd.jpg",
+    "ifc_class": "IfcDoor",
+    "ifc_type": "EXIT",
+    "confidence": 0.7,
+    "bbox_xywh": [
+      126,
+      275,
+      34,
+      35
+    ],
+    "det_class": "exit",
+    "det_conf": 0.6997,
+    "ocr_text": "if",
+    "ocr_conf": 0.2267,
+    "ocr_norm": "",
+    "conflict": false
+  },
+  {
+    "image_path": "/home/coder/thesis-yolo/runs_gpu/evac_v12_pred_with_labels/evctmap-579_jpg.rf.4b3147974d1151c1576e4d2a844e86ab.jpg",
+    "ifc_class": "IfcFireSuppressionTerminal",
+    "ifc_type": "FIREEXTINGUISHER",
+    "confidence": 0.44,
+    "bbox_xywh": [
+      473,
+      282,
+      10,
+      11
+    ],
+    "det_class": "fire_extinguisher",
+    "det_conf": 0.5895,
+    "ocr_text": "7",
+    "ocr_conf": 0.877,
+    "ocr_norm": "",
+    "conflict": false
+  },
+  {
+    "image_path": "/home/coder/thesis-yolo/runs_gpu/evac_v12_pred_with_labels/evctmap-579_jpg.rf.4b3147974d1151c1576e4d2a844e86ab.jpg",
+    "ifc_class": "IfcFireSuppressionTerminal",
+    "ifc_type": "FIREEXTINGUISHER",
+    "confidence": 0.103,
+    "bbox_xywh": [
+      384,
+      309,
+      13,
+      10
+    ],
+    "det_class": "fire_extinguisher",
+    "det_conf": 0.2533,
+    "ocr_text": "4",
+    "ocr_conf": 0.4176,
+    "ocr_norm": "",
+    "conflict": false
+  },
+  {
+    "image_path": "/home/coder/thesis-yolo/runs_gpu/evac_v12_pred_with_labels/evctmap-579_jpg.rf.56a697be3a8739a4114121b3fb18fcf6.jpg",
+    "ifc_class": "IfcFireSuppressionTerminal",
+    "ifc_type": "FIREEXTINGUISHER",
+    "confidence": 0.32,
+    "bbox_xywh": [
+      334,
+      362,
+      11,
+      12
+    ],
+    "det_class": "fire_extinguisher",
+    "det_conf": 0.4702,
+    "ocr_text": "Fli",
+    "ocr_conf": 0.0158,
+    "ocr_norm": "",
+    "conflict": false
+  },
+  {
+    "image_path": "/home/coder/thesis-yolo/runs_gpu/evac_v12_pred_with_labels/evctmap-579_jpg.rf.56a697be3a8739a4114121b3fb18fcf6.jpg",
+    "ifc_class": "IfcFireSuppressionTerminal",
+    "ifc_type": "FIREEXTINGUISHER",
+    "confidence": 0.141,
+    "bbox_xywh": [
+      187,
+      315,
+      12,
+      12
+    ],
+    "det_class": "fire_extinguisher",
+    "det_conf": 0.2906,
+    "ocr_text": "15",
+    "ocr_conf": 0.0519,
+    "ocr_norm": "",
+    "conflict": false
+  },
+  {
+    "image_path": "/home/coder/thesis-yolo/runs_gpu/evac_v12_pred_with_labels/evctmap-579_jpg.rf.579025750392a6eac7cb4239975486be.jpg",
+    "ifc_class": "IfcFireSuppressionTerminal",
+    "ifc_type": "FIREEXTINGUISHER",
+    "confidence": 0.359,
+    "bbox_xywh": [
+      187,
+      301,
+      12,
+      12
+    ],
+    "det_class": "fire_extinguisher",
+    "det_conf": 0.5089,
+    "ocr_text": "71",
+    "ocr_conf": 0.2293,
+    "ocr_norm": "",
+    "conflict": false
+  },
+  {
+    "image_path": "/home/coder/thesis-yolo/runs_gpu/evac_v12_pred_with_labels/evctmap-579_jpg.rf.579025750392a6eac7cb4239975486be.jpg",
+    "ifc_class": "IfcFireSuppressionTerminal",
+    "ifc_type": "FIREEXTINGUISHER",
+    "confidence": 0.115,
+    "bbox_xywh": [
+      378,
+      295,
+      12,
+      12
+    ],
+    "det_class": "fire_extinguisher",
+    "det_conf": 0.2649,
+    "ocr_text": "J#",
+    "ocr_conf": 0.5651,
+    "ocr_norm": "",
+    "conflict": false
+  },
+  {
+    "image_path": "/home/coder/thesis-yolo/runs_gpu/evac_v12_pred_with_labels/evctmap-579_jpg.rf.579025750392a6eac7cb4239975486be.jpg",
+    "ifc_class": "IfcFireSuppressionTerminal",
+    "ifc_type": "FIREEXTINGUISHER",
+    "confidence": 0.101,
+    "bbox_xywh": [
+      328,
+      363,
+      13,
+      14
+    ],
+    "det_class": "fire_extinguisher",
+    "det_conf": 0.2509,
+    "ocr_text": "44",
+    "ocr_conf": 0.86,
+    "ocr_norm": "",
+    "conflict": false
+  },
+  {
+    "image_path": "/home/coder/thesis-yolo/runs_gpu/evac_v12_pred_with_labels/evctmap-590_jpg.rf.95a3c6ce0600e07ef619aaf82dec69b4.jpg",
+    "ifc_class": "IfcFireSuppressionTerminal",
+    "ifc_type": "FIREEXTINGUISHER",
+    "confidence": 0.269,
+    "bbox_xywh": [
+      500,
+      252,
+      21,
+      21
+    ],
+    "det_class": "fire_extinguisher",
+    "det_conf": 0.2693,
+    "ocr_text": "Ven",
+    "ocr_conf": 0.04,
+    "ocr_norm": "",
+    "conflict": false
+  },
+  {
+    "image_path": "/home/coder/thesis-yolo/runs_gpu/evac_v12_pred_with_labels/evctmap-5_jpg.rf.122331c53d6917bf9d4b0f9ef1ac062f.jpg",
+    "ifc_class": "IfcDoor",
+    "ifc_type": "EXIT",
+    "confidence": 0.146,
+    "bbox_xywh": [
+      0,
+      394,
+      6,
+      31
+    ],
+    "det_class": "exit",
+    "det_conf": 0.2957,
+    "ocr_text": "9s",
+    "ocr_conf": 0.0097,
+    "ocr_norm": "",
+    "conflict": false
+  },
+  {
+    "image_path": "/home/coder/thesis-yolo/runs_gpu/evac_v12_pred_with_labels/evctmap-608_jpg.rf.4d7e2f528fad364576cda4dc7fad41fc.jpg",
+    "ifc_class": "IfcFireSuppressionTerminal",
+    "ifc_type": "FIREEXTINGUISHER",
+    "confidence": 0.188,
+    "bbox_xywh": [
+      229,
+      206,
+      9,
+      14
+    ],
+    "det_class": "fire_extinguisher",
+    "det_conf": 0.3382,
+    "ocr_text": "10",
+    "ocr_conf": 0.0065,
+    "ocr_norm": "",
+    "conflict": false
+  },
+  {
+    "image_path": "/home/coder/thesis-yolo/runs_gpu/evac_v12_pred_with_labels/evctmap-608_jpg.rf.98bf42e4968628dd734015a4e73f147e.jpg",
+    "ifc_class": "IfcFireSuppressionTerminal",
+    "ifc_type": "FIREEXTINGUISHER",
+    "confidence": 0.728,
+    "bbox_xywh": [
+      185,
+      540,
+      14,
+      18
+    ],
+    "det_class": "fire_extinguisher",
+    "det_conf": 0.7278,
+    "ocr_text": "51",
+    "ocr_conf": 0.1274,
+    "ocr_norm": "",
+    "conflict": false
+  },
+  {
+    "image_path": "/home/coder/thesis-yolo/runs_gpu/evac_v12_pred_with_labels/evctmap-608_jpg.rf.98bf42e4968628dd734015a4e73f147e.jpg",
+    "ifc_class": "IfcFireSuppressionTerminal",
+    "ifc_type": "FIREEXTINGUISHER",
+    "confidence": 0.193,
+    "bbox_xywh": [
+      362,
+      490,
+      12,
+      16
+    ],
+    "det_class": "fire_extinguisher",
+    "det_conf": 0.3433,
+    "ocr_text": "8",
+    "ocr_conf": 0.1529,
+    "ocr_norm": "",
+    "conflict": false
+  },
+  {
+    "image_path": "/home/coder/thesis-yolo/runs_gpu/evac_v12_pred_with_labels/evctmap-608_jpg.rf.98bf42e4968628dd734015a4e73f147e.jpg",
+    "ifc_class": "IfcFireSuppressionTerminal",
+    "ifc_type": "FIREEXTINGUISHER",
+    "confidence": 0.15,
+    "bbox_xywh": [
+      101,
+      230,
+      12,
+      16
+    ],
+    "det_class": "fire_extinguisher",
+    "det_conf": 0.2997,
+    "ocr_text": "al",
+    "ocr_conf": 0.2297,
+    "ocr_norm": "",
+    "conflict": false
+  },
+  {
+    "image_path": "/home/coder/thesis-yolo/runs_gpu/evac_v12_pred_with_labels/evctmap-608_jpg.rf.c01c5b1ba87ad4443ae382bf54ae0726.jpg",
+    "ifc_class": "IfcFireSuppressionTerminal",
+    "ifc_type": "FIREEXTINGUISHER",
+    "confidence": 0.529,
+    "bbox_xywh": [
+      544,
+      186,
+      12,
+      16
+    ],
+    "det_class": "fire_extinguisher",
+    "det_conf": 0.6787,
+    "ocr_text": "31",
+    "ocr_conf": 0.158,
+    "ocr_norm": "",
+    "conflict": false
+  },
+  {
+    "image_path": "/home/coder/thesis-yolo/runs_gpu/evac_v12_pred_with_labels/evctmap-608_jpg.rf.c01c5b1ba87ad4443ae382bf54ae0726.jpg",
+    "ifc_class": "IfcFireSuppressionTerminal",
+    "ifc_type": "FIREEXTINGUISHER",
+    "confidence": 0.389,
+    "bbox_xywh": [
+      519,
+      433,
+      12,
+      17
+    ],
+    "det_class": "fire_extinguisher",
+    "det_conf": 0.5393,
+    "ocr_text": "4",
+    "ocr_conf": 0.3667,
+    "ocr_norm": "",
+    "conflict": false
+  },
+  {
+    "image_path": "/home/coder/thesis-yolo/runs_gpu/evac_v12_pred_with_labels/evctmap-608_jpg.rf.c01c5b1ba87ad4443ae382bf54ae0726.jpg",
+    "ifc_class": "IfcFireSuppressionTerminal",
+    "ifc_type": "FIREEXTINGUISHER",
+    "confidence": 0.262,
+    "bbox_xywh": [
+      249,
+      191,
+      12,
+      16
+    ],
+    "det_class": "fire_extinguisher",
+    "det_conf": 0.4116,
+    "ocr_text": "#i",
+    "ocr_conf": 0.0713,
+    "ocr_norm": "",
+    "conflict": false
+  },
+  {
+    "image_path": "/home/coder/thesis-yolo/runs_gpu/evac_v12_pred_with_labels/evctmap-641_jpg.rf.6895a6145b74389546e249ae27733074.jpg",
+    "ifc_class": "IfcFireSuppressionTerminal",
+    "ifc_type": "FIREEXTINGUISHER",
+    "confidence": 0.352,
+    "bbox_xywh": [
+      215,
+      255,
+      10,
+      13
+    ],
+    "det_class": "fire_extinguisher",
+    "det_conf": 0.5021,
+    "ocr_text": "4",
+    "ocr_conf": 0.3244,
+    "ocr_norm": "",
+    "conflict": false
+  },
+  {
+    "image_path": "/home/coder/thesis-yolo/runs_gpu/evac_v12_pred_with_labels/evctmap-641_jpg.rf.6895a6145b74389546e249ae27733074.jpg",
+    "ifc_class": "IfcFireSuppressionTerminal",
+    "ifc_type": "FIREEXTINGUISHER",
+    "confidence": 0.294,
+    "bbox_xywh": [
+      571,
+      307,
+      10,
+      18
+    ],
+    "det_class": "fire_extinguisher",
+    "det_conf": 0.4444,
+    "ocr_text": "1",
+    "ocr_conf": 0.935,
+    "ocr_norm": "",
+    "conflict": false
+  },
+  {
+    "image_path": "/home/coder/thesis-yolo/runs_gpu/evac_v12_pred_with_labels/evctmap-643_jpg.rf.fcc771821a5e35b9bd02f8c6a8b95d4a.jpg",
+    "ifc_class": "IfcDoor",
+    "ifc_type": "EXIT",
+    "confidence": 0.653,
+    "bbox_xywh": [
+      222,
+      414,
+      34,
+      35
+    ],
+    "det_class": "exit",
+    "det_conf": 0.6526,
+    "ocr_text": "r",
+    "ocr_conf": 0.0796,
+    "ocr_norm": "",
+    "conflict": false
+  },
+  {
+    "image_path": "/home/coder/thesis-yolo/runs_gpu/evac_v12_pred_with_labels/evctmap-683_jpg.rf.f544c077e361373da32374b9486ac71d.jpg",
+    "ifc_class": "IfcDoor",
+    "ifc_type": "EXIT",
+    "confidence": 0.364,
+    "bbox_xywh": [
+      158,
+      276,
+      12,
+      14
+    ],
+    "det_class": "exit",
+    "det_conf": 0.5137,
+    "ocr_text": "N",
+    "ocr_conf": 0.1222,
+    "ocr_norm": "",
+    "conflict": false
+  },
+  {
+    "image_path": "/home/coder/thesis-yolo/runs_gpu/evac_v12_pred_with_labels/evctmap-9_jpg.rf.ca2538e7d97e772eca459310d3abeaae.jpg",
+    "ifc_class": "IfcFireSuppressionTerminal",
+    "ifc_type": "FIREEXTINGUISHER",
+    "confidence": 0.117,
+    "bbox_xywh": [
+      302,
+      302,
+      9,
+      13
+    ],
+    "det_class": "fire_extinguisher",
+    "det_conf": 0.267,
+    "ocr_text": "35i",
+    "ocr_conf": 0.1239,
+    "ocr_norm": "",
+    "conflict": false
+  },
+  {
+    "image_path": "/home/coder/thesis-yolo/runs_gpu/evac_v12_pred_with_labels/evctmappevacuation-floor-plan110_jpg.rf.5ef9fee218634a9744244d5054effc81.jpg",
+    "ifc_class": "IfcDoor",
+    "ifc_type": "EXIT",
+    "confidence": 0.231,
+    "bbox_xywh": [
+      575,
+      323,
+      9,
+      14
+    ],
+    "det_class": "exit",
+    "det_conf": 0.3808,
+    "ocr_text": "5e",
+    "ocr_conf": 0.0043,
+    "ocr_norm": "",
+    "conflict": false
+  },
+  {
+    "image_path": "/home/coder/thesis-yolo/runs_gpu/evac_v12_pred_with_labels/evctmappevacuation-floor-plan22_jpg.rf.3aba50b5ff0d0013ef977bedb6069d7f.jpg",
+    "ifc_class": "IfcFireSuppressionTerminal",
+    "ifc_type": "FIREEXTINGUISHER",
+    "confidence": 0.47,
+    "bbox_xywh": [
+      250,
+      234,
+      9,
+      14
+    ],
+    "det_class": "fire_extinguisher",
+    "det_conf": 0.6202,
+    "ocr_text": "{#",
+    "ocr_conf": 0.0654,
+    "ocr_norm": "",
+    "conflict": false
+  },
+  {
+    "image_path": "/home/coder/thesis-yolo/runs_gpu/evac_v12_pred_with_labels/evctmappevacuation-floor-plan22_jpg.rf.3aba50b5ff0d0013ef977bedb6069d7f.jpg",
+    "ifc_class": "IfcFireSuppressionTerminal",
+    "ifc_type": "FIREEXTINGUISHER",
+    "confidence": 0.294,
+    "bbox_xywh": [
+      113,
+      185,
+      15,
+      21
+    ],
+    "det_class": "fire_extinguisher",
+    "det_conf": 0.2936,
+    "ocr_text": "4",
+    "ocr_conf": 0.552,
+    "ocr_norm": "",
+    "conflict": false
+  },
+  {
+    "image_path": "/home/coder/thesis-yolo/runs_gpu/evac_v12_pred_with_labels/evctmappevacuation-floor-plan270_jpg.rf.6446a44c1e5b0f6f90a3d789b1ebcbfa.jpg",
+    "ifc_class": "IfcFireSuppressionTerminal",
+    "ifc_type": "FIREEXTINGUISHER",
+    "confidence": 0.15,
+    "bbox_xywh": [
+      170,
+      431,
+      8,
+      14
+    ],
+    "det_class": "fire_extinguisher",
+    "det_conf": 0.3,
+    "ocr_text": "Cs",
+    "ocr_conf": 0.0007,
+    "ocr_norm": "",
+    "conflict": false
+  },
+  {
+    "image_path": "/home/coder/thesis-yolo/runs_gpu/evac_v12_pred_with_labels/evctmappevacuation-floor-plan336_jpg.rf.2f5e59f46f4ad53f0d5785a32fa28bc3.jpg",
+    "ifc_class": "IfcFireSuppressionTerminal",
+    "ifc_type": "FIREEXTINGUISHER",
+    "confidence": 0.667,
+    "bbox_xywh": [
+      363,
+      191,
+      32,
+      58
+    ],
+    "det_class": "fire_extinguisher",
+    "det_conf": 0.6668,
+    "ocr_text": "[",
+    "ocr_conf": 0.7234,
+    "ocr_norm": "",
+    "conflict": false
+  },
+  {
+    "image_path": "/home/coder/thesis-yolo/runs_gpu/evac_v12_pred_with_labels/evctmappevacuation-floor-plan336_jpg.rf.a82d11b7e41e55e512d6d1310218db36.jpg",
+    "ifc_class": "IfcFireSuppressionTerminal",
+    "ifc_type": "FIREEXTINGUISHER",
+    "confidence": 0.555,
+    "bbox_xywh": [
+      249,
+      326,
+      36,
+      59
+    ],
+    "det_class": "fire_extinguisher",
+    "det_conf": 0.5549,
+    "ocr_text": "U2f",
+    "ocr_conf": 0.0266,
+    "ocr_norm": "",
+    "conflict": false
+  },
+  {
+    "image_path": "/home/coder/thesis-yolo/runs_gpu/evac_v12_pred_with_labels/evctmappevacuation-floor-plan336_jpg.rf.c2bce66c0a0162b3b48c826f7fb63042.jpg",
+    "ifc_class": "IfcFireSuppressionTerminal",
+    "ifc_type": "FIREEXTINGUISHER",
+    "confidence": 0.776,
+    "bbox_xywh": [
+      348,
+      332,
+      39,
+      57
+    ],
+    "det_class": "fire_extinguisher",
+    "det_conf": 0.7763,
+    "ocr_text": "29",
+    "ocr_conf": 0.1452,
+    "ocr_norm": "",
+    "conflict": false
+  },
+  {
+    "image_path": "/home/coder/thesis-yolo/runs_gpu/evac_v12_pred_with_labels/evctmappevacuation-floor-plan336_jpg.rf.c2bce66c0a0162b3b48c826f7fb63042.jpg",
+    "ifc_class": "IfcFireSuppressionTerminal",
+    "ifc_type": "FIREEXTINGUISHER",
+    "confidence": 0.455,
+    "bbox_xywh": [
+      357,
+      193,
+      48,
+      64
+    ],
+    "det_class": "fire_extinguisher",
+    "det_conf": 0.455,
+    "ocr_text": "1",
+    "ocr_conf": 0.9641,
+    "ocr_norm": "",
+    "conflict": false
+  },
+  {
+    "image_path": "/home/coder/thesis-yolo/runs_gpu/evac_v12_pred_with_labels/evctmappevacuation-floor-plan345_jpg.rf.22238b334ca8908a366986f0c2652dd7.jpg",
+    "ifc_class": "IfcFireSuppressionTerminal",
+    "ifc_type": "FIREEXTINGUISHER",
+    "confidence": 0.711,
+    "bbox_xywh": [
+      400,
+      446,
+      12,
+      29
+    ],
+    "det_class": "fire_extinguisher",
+    "det_conf": 0.7106,
+    "ocr_text": "Hh",
+    "ocr_conf": 0.2078,
+    "ocr_norm": "",
+    "conflict": false
+  },
+  {
+    "image_path": "/home/coder/thesis-yolo/runs_gpu/evac_v12_pred_with_labels/evctmappevacuation-floor-plan345_jpg.rf.22238b334ca8908a366986f0c2652dd7.jpg",
+    "ifc_class": "IfcFireSuppressionTerminal",
+    "ifc_type": "FIREEXTINGUISHER",
+    "confidence": 0.405,
+    "bbox_xywh": [
+      203,
+      103,
+      14,
+      27
+    ],
+    "det_class": "fire_extinguisher",
+    "det_conf": 0.4054,
+    "ocr_text": "ri7",
+    "ocr_conf": 0.2156,
+    "ocr_norm": "",
+    "conflict": false
+  },
+  {
+    "image_path": "/home/coder/thesis-yolo/runs_gpu/evac_v12_pred_with_labels/evctmappevacuation-floor-plan345_jpg.rf.5b6e6bba6143fd1f4dc4f6da4c5cb727.jpg",
+    "ifc_class": "IfcFireSuppressionTerminal",
+    "ifc_type": "FIREEXTINGUISHER",
+    "confidence": 0.469,
+    "bbox_xywh": [
+      409,
+      394,
+      14,
+      27
+    ],
+    "det_class": "fire_extinguisher",
+    "det_conf": 0.4689,
+    "ocr_text": "198",
+    "ocr_conf": 0.087,
+    "ocr_norm": "",
+    "conflict": false
+  },
+  {
+    "image_path": "/home/coder/thesis-yolo/runs_gpu/evac_v12_pred_with_labels/evctmappevacuation-floor-plan345_jpg.rf.f4b12bcabad18ef493311c8c31614622.jpg",
+    "ifc_class": "IfcFireSuppressionTerminal",
+    "ifc_type": "FIREEXTINGUISHER",
+    "confidence": 0.774,
+    "bbox_xywh": [
+      398,
+      449,
+      12,
+      26
+    ],
+    "det_class": "fire_extinguisher",
+    "det_conf": 0.7737,
+    "ocr_text": "HaL",
+    "ocr_conf": 0.0743,
+    "ocr_norm": "",
+    "conflict": false
+  },
+  {
+    "image_path": "/home/coder/thesis-yolo/runs_gpu/evac_v12_pred_with_labels/evctmappevacuation-floor-plan397_jpg.rf.15c11a63abce739da4675cd43f3c8241.jpg",
+    "ifc_class": "IfcDoor",
+    "ifc_type": "EXIT",
+    "confidence": 0.2,
+    "bbox_xywh": [
+      64,
+      72,
+      14,
+      15
+    ],
+    "det_class": "exit",
+    "det_conf": 0.3497,
+    "ocr_text": "@n",
+    "ocr_conf": 0.0333,
+    "ocr_norm": "",
+    "conflict": false
+  },
+  {
+    "image_path": "/home/coder/thesis-yolo/runs_gpu/evac_v12_pred_with_labels/evctmappevacuation-floor-plan397_jpg.rf.6772ab0a86eb41dbff44b7b6872a50b6.jpg",
+    "ifc_class": "IfcDoor",
+    "ifc_type": "EXIT",
+    "confidence": 0.318,
+    "bbox_xywh": [
+      126,
+      350,
+      15,
+      26
+    ],
+    "det_class": "exit",
+    "det_conf": 0.3182,
+    "ocr_text": "4",
+    "ocr_conf": 0.8416,
+    "ocr_norm": "",
+    "conflict": false
+  },
+  {
+    "image_path": "/home/coder/thesis-yolo/runs_gpu/evac_v12_pred_with_labels/evctmappevacuation-floor-plan474_jpg.rf.a4635bd70339f910e4bd951fe0829f90.jpg",
+    "ifc_class": "IfcDoor",
+    "ifc_type": "EXIT",
+    "confidence": 0.155,
+    "bbox_xywh": [
+      409,
+      546,
+      8,
+      11
+    ],
+    "det_class": "exit",
+    "det_conf": 0.305,
+    "ocr_text": "1",
+    "ocr_conf": 0.2068,
+    "ocr_norm": "",
+    "conflict": false
+  },
+  {
+    "image_path": "/home/coder/thesis-yolo/runs_gpu/evac_v12_pred_with_labels/evctmappevacuation-floor-plan474_jpg.rf.d78f8f7536fae1287a9bd33d6d749c0c.jpg",
+    "ifc_class": "IfcDoor",
+    "ifc_type": "EXIT",
+    "confidence": 0.144,
+    "bbox_xywh": [
+      444,
+      530,
+      9,
+      11
+    ],
+    "det_class": "exit",
+    "det_conf": 0.2942,
+    "ocr_text": "5",
+    "ocr_conf": 0.1215,
+    "ocr_norm": "",
+    "conflict": false
+  },
+  {
+    "image_path": "/home/coder/thesis-yolo/runs_gpu/evac_v12_pred_with_labels/evctmappevacuation-floor-plan500_jpg.rf.7be3f8068405fe2dcb5215baa1ac09aa.jpg",
+    "ifc_class": "IfcFireSuppressionTerminal",
+    "ifc_type": "FIREEXTINGUISHER",
+    "confidence": 0.172,
+    "bbox_xywh": [
+      49,
+      528,
+      10,
+      16
+    ],
+    "det_class": "fire_extinguisher",
+    "det_conf": 0.3221,
+    "ocr_text": "41",
+    "ocr_conf": 0.6242,
+    "ocr_norm": "",
+    "conflict": false
+  },
+  {
+    "image_path": "/home/coder/thesis-yolo/runs_gpu/evac_v12_pred_with_labels/evctmappevacuation-floor-plan502_jpg.rf.8e5c503fe0217472329c60b1732b108b.jpg",
+    "ifc_class": "IfcFireSuppressionTerminal",
+    "ifc_type": "FIREEXTINGUISHER",
+    "confidence": 0.82,
+    "bbox_xywh": [
+      382,
+      248,
+      17,
+      30
+    ],
+    "det_class": "fire_extinguisher",
+    "det_conf": 0.82,
+    "ocr_text": "715",
+    "ocr_conf": 0.1725,
+    "ocr_norm": "",
+    "conflict": false
+  },
+  {
+    "image_path": "/home/coder/thesis-yolo/runs_gpu/evac_v12_pred_with_labels/evctmappevacuation-floor-plan502_jpg.rf.8e5c503fe0217472329c60b1732b108b.jpg",
+    "ifc_class": "IfcFireSuppressionTerminal",
+    "ifc_type": "FIREEXTINGUISHER",
+    "confidence": 0.781,
+    "bbox_xywh": [
+      457,
+      371,
+      15,
+      28
+    ],
+    "det_class": "fire_extinguisher",
+    "det_conf": 0.7807,
+    "ocr_text": "1",
+    "ocr_conf": 0.9631,
+    "ocr_norm": "",
+    "conflict": false
+  },
+  {
+    "image_path": "/home/coder/thesis-yolo/runs_gpu/evac_v12_pred_with_labels/evctmappevacuation-floor-plan502_jpg.rf.8e5c503fe0217472329c60b1732b108b.jpg",
+    "ifc_class": "IfcFireSuppressionTerminal",
+    "ifc_type": "FIREEXTINGUISHER",
+    "confidence": 0.74,
+    "bbox_xywh": [
+      269,
+      370,
+      18,
+      25
+    ],
+    "det_class": "fire_extinguisher",
+    "det_conf": 0.7401,
+    "ocr_text": "ale",
+    "ocr_conf": 0.0068,
+    "ocr_norm": "",
+    "conflict": false
+  },
+  {
+    "image_path": "/home/coder/thesis-yolo/runs_gpu/evac_v12_pred_with_labels/evctmappevacuation-floor-plan502_jpg.rf.8e5c503fe0217472329c60b1732b108b.jpg",
+    "ifc_class": "IfcDoor",
+    "ifc_type": "EXIT",
+    "confidence": 0.619,
+    "bbox_xywh": [
+      243,
+      592,
+      17,
+      25
+    ],
+    "det_class": "exit",
+    "det_conf": 0.6186,
+    "ocr_text": "74",
+    "ocr_conf": 0.4941,
+    "ocr_norm": "",
+    "conflict": false
+  },
+  {
+    "image_path": "/home/coder/thesis-yolo/runs_gpu/evac_v12_pred_with_labels/evctmappevacuation-floor-plan502_jpg.rf.8e5c503fe0217472329c60b1732b108b.jpg",
+    "ifc_class": "IfcFireSuppressionTerminal",
+    "ifc_type": "FIREEXTINGUISHER",
+    "confidence": 0.615,
+    "bbox_xywh": [
+      362,
+      372,
+      18,
+      21
+    ],
+    "det_class": "fire_extinguisher",
+    "det_conf": 0.6147,
+    "ocr_text": "Vl",
+    "ocr_conf": 0.0103,
+    "ocr_norm": "",
+    "conflict": false
+  },
+  {
+    "image_path": "/home/coder/thesis-yolo/runs_gpu/evac_v12_pred_with_labels/evctmappevacuation-floor-plan502_jpg.rf.9cd83a131ab55baf58e4c857cdb8c62c.jpg",
+    "ifc_class": "IfcDoor",
+    "ifc_type": "EXIT",
+    "confidence": 0.321,
+    "bbox_xywh": [
+      307,
+      599,
+      20,
+      28
+    ],
+    "det_class": "exit",
+    "det_conf": 0.3207,
+    "ocr_text": "21",
+    "ocr_conf": 0.5443,
+    "ocr_norm": "",
+    "conflict": false
+  },
+  {
+    "image_path": "/home/coder/thesis-yolo/runs_gpu/evac_v12_pred_with_labels/evctmappevacuation-floor-plan51_jpg.rf.dfbab3d2fb166d0e1982aa561141bfcb.jpg",
+    "ifc_class": "IfcDoor",
+    "ifc_type": "EXIT",
+    "confidence": 0.206,
+    "bbox_xywh": [
+      163,
+      351,
+      10,
+      15
+    ],
+    "det_class": "exit",
+    "det_conf": 0.3559,
+    "ocr_text": "E",
+    "ocr_conf": 0.0956,
+    "ocr_norm": "",
+    "conflict": false
+  },
+  {
+    "image_path": "/home/coder/thesis-yolo/runs_gpu/evac_v12_pred_with_labels/evctmappevacuation-floor-plan558_jpg.rf.4eaac485477f64d5e035d2101c1eb792.jpg",
+    "ifc_class": "IfcFireSuppressionTerminal",
+    "ifc_type": "FIREEXTINGUISHER",
+    "confidence": 0.102,
+    "bbox_xywh": [
+      264,
+      447,
+      11,
+      16
+    ],
+    "det_class": "fire_extinguisher",
+    "det_conf": 0.2518,
+    "ocr_text": "Lu",
+    "ocr_conf": 0.0625,
+    "ocr_norm": "",
+    "conflict": false
+  },
+  {
+    "image_path": "/home/coder/thesis-yolo/runs_gpu/evac_v12_pred_with_labels/evctmappevacuation-floor-plan610_jpg.rf.44fb697ba918f002035765d99354e582.jpg",
+    "ifc_class": "IfcFireSuppressionTerminal",
+    "ifc_type": "FIREEXTINGUISHER",
+    "confidence": 0.565,
+    "bbox_xywh": [
+      189,
+      156,
+      32,
+      43
+    ],
+    "det_class": "fire_extinguisher",
+    "det_conf": 0.5648,
+    "ocr_text": "9;",
+    "ocr_conf": 0.0285,
+    "ocr_norm": "",
+    "conflict": false
+  },
+  {
+    "image_path": "/home/coder/thesis-yolo/runs_gpu/evac_v12_pred_with_labels/evctmappevacuation-floor-plan610_jpg.rf.44fb697ba918f002035765d99354e582.jpg",
+    "ifc_class": "IfcFireSuppressionTerminal",
+    "ifc_type": "FIREEXTINGUISHER",
+    "confidence": 0.464,
+    "bbox_xywh": [
+      554,
+      238,
+      17,
+      29
+    ],
+    "det_class": "fire_extinguisher",
+    "det_conf": 0.4636,
+    "ocr_text": "77",
+    "ocr_conf": 0.1401,
+    "ocr_norm": "",
+    "conflict": false
+  },
+  {
+    "image_path": "/home/coder/thesis-yolo/runs_gpu/evac_v12_pred_with_labels/evctmappevacuation-floor-plan615_jpg.rf.573869ab419318a0ccb29c952cbe1cf8.jpg",
+    "ifc_class": "IfcDoor",
+    "ifc_type": "EXIT",
+    "confidence": 0.17,
+    "bbox_xywh": [
+      258,
+      213,
+      12,
+      16
+    ],
+    "det_class": "exit",
+    "det_conf": 0.3197,
+    "ocr_text": "R!",
+    "ocr_conf": 0.0469,
+    "ocr_norm": "",
+    "conflict": false
+  },
+  {
+    "image_path": "/home/coder/thesis-yolo/runs_gpu/evac_v12_pred_with_labels/evctmappevacuation-floor-plan615_jpg.rf.b5f242649717a479789d2245b0f987d2.jpg",
+    "ifc_class": "IfcFireSuppressionTerminal",
+    "ifc_type": "FIREEXTINGUISHER",
+    "confidence": 0.272,
+    "bbox_xywh": [
+      572,
+      0,
+      22,
+      16
+    ],
+    "det_class": "fire_extinguisher",
+    "det_conf": 0.2724,
+    "ocr_text": "L",
+    "ocr_conf": 0.7599,
+    "ocr_norm": "",
+    "conflict": false
+  },
+  {
+    "image_path": "/home/coder/thesis-yolo/runs_gpu/evac_v12_pred_with_labels/evctmappevacuation-floor-plan640_jpg.rf.b76eb0e1308c50e4e63e3e8d98387a72.jpg",
+    "ifc_class": "IfcFireSuppressionTerminal",
+    "ifc_type": "FIREEXTINGUISHER",
+    "confidence": 0.194,
+    "bbox_xywh": [
+      278,
+      100,
+      9,
+      19
+    ],
+    "det_class": "fire_extinguisher",
+    "det_conf": 0.3442,
+    "ocr_text": "i",
+    "ocr_conf": 0.7251,
+    "ocr_norm": "",
+    "conflict": false
+  },
+  {
+    "image_path": "/home/coder/thesis-yolo/runs_gpu/evac_v12_pred_with_labels/evctmappevacuation-floor-plan643_jpg.rf.e5fbd50175089c0b52993f47af73356e.jpg",
+    "ifc_class": "IfcDoor",
+    "ifc_type": "EXIT",
+    "confidence": 0.135,
+    "bbox_xywh": [
+      29,
+      235,
+      8,
+      11
+    ],
+    "det_class": "exit",
+    "det_conf": 0.2855,
+    "ocr_text": "3",
+    "ocr_conf": 0.6014,
+    "ocr_norm": "",
+    "conflict": false
+  },
+  {
+    "image_path": "/home/coder/thesis-yolo/runs_gpu/evac_v12_pred_with_labels/evctmappevacuation-floor-plan683_jpg.rf.7d5142630961f88a236f0512767fa94e.jpg",
+    "ifc_class": "IfcFireSuppressionTerminal",
+    "ifc_type": "FIREEXTINGUISHER",
+    "confidence": 0.421,
+    "bbox_xywh": [
+      16,
+      397,
+      19,
+      50
+    ],
+    "det_class": "fire_extinguisher",
+    "det_conf": 0.4215,
+    "ocr_text": "1",
+    "ocr_conf": 0.9585,
+    "ocr_norm": "",
+    "conflict": false
+  },
+  {
+    "image_path": "/home/coder/thesis-yolo/runs_gpu/evac_v12_pred_with_labels/evctmappevacuation-floor-plan686_jpg.rf.3b74d1397ee7c3152bf40ab8e3ef11b4.jpg",
+    "ifc_class": "IfcDoor",
+    "ifc_type": "EXIT",
+    "confidence": 0.766,
+    "bbox_xywh": [
+      479,
+      39,
+      26,
+      31
+    ],
+    "det_class": "exit",
+    "det_conf": 0.7656,
+    "ocr_text": "lir !",
+    "ocr_conf": 0.0318,
+    "ocr_norm": "",
+    "conflict": false
+  },
+  {
+    "image_path": "/home/coder/thesis-yolo/runs_gpu/evac_v12_pred_with_labels/evctmappevacuation-floor-plan686_jpg.rf.c7f0ba82b482daf2391ab494baa09588.jpg",
+    "ifc_class": "IfcFireSuppressionTerminal",
+    "ifc_type": "FIREEXTINGUISHER",
+    "confidence": 0.743,
+    "bbox_xywh": [
+      563,
+      87,
+      28,
+      41
+    ],
+    "det_class": "fire_extinguisher",
+    "det_conf": 0.7425,
+    "ocr_text": "Jl",
+    "ocr_conf": 0.022,
+    "ocr_norm": "",
+    "conflict": false
+  },
+  {
+    "image_path": "/home/coder/thesis-yolo/runs_gpu/evac_v12_pred_with_labels/evctmappevacuation-floor-plan686_jpg.rf.c7f0ba82b482daf2391ab494baa09588.jpg",
+    "ifc_class": "IfcDoor",
+    "ifc_type": "EXIT",
+    "confidence": 0.343,
+    "bbox_xywh": [
+      353,
+      571,
+      19,
+      25
+    ],
+    "det_class": "exit",
+    "det_conf": 0.3431,
+    "ocr_text": "{",
+    "ocr_conf": 0.8493,
+    "ocr_norm": "",
+    "conflict": false
+  },
+  {
+    "image_path": "/home/coder/thesis-yolo/runs_gpu/evac_v12_pred_with_labels/evctmappevacuation-floor-plan686_jpg.rf.d4c1d8949d942b20aff1f3a22900835b.jpg",
+    "ifc_class": "IfcDoor",
+    "ifc_type": "EXIT",
+    "confidence": 0.852,
+    "bbox_xywh": [
+      273,
+      571,
+      19,
+      25
+    ],
+    "det_class": "exit",
+    "det_conf": 0.852,
+    "ocr_text": "74",
+    "ocr_conf": 0.4786,
+    "ocr_norm": "",
+    "conflict": false
+  },
+  {
+    "image_path": "/home/coder/thesis-yolo/runs_gpu/evac_v12_pred_with_labels/evctmappevacuation-floor-plan6_jpg.rf.0a6ac2012bc60acb0c7915f8e508e0b4.jpg",
+    "ifc_class": "IfcDoor",
+    "ifc_type": "EXIT",
+    "confidence": 0.325,
+    "bbox_xywh": [
+      415,
+      418,
+      11,
+      13
+    ],
+    "det_class": "exit",
+    "det_conf": 0.4751,
+    "ocr_text": "2",
+    "ocr_conf": 0.0031,
+    "ocr_norm": "",
+    "conflict": false
+  },
+  {
+    "image_path": "/home/coder/thesis-yolo/runs_gpu/evac_v12_pred_with_labels/evctmappevacuation-floor-plan6_jpg.rf.0a6ac2012bc60acb0c7915f8e508e0b4.jpg",
+    "ifc_class": "IfcFireSuppressionTerminal",
+    "ifc_type": "FIREEXTINGUISHER",
+    "confidence": 0.125,
+    "bbox_xywh": [
+      165,
+      241,
+      9,
+      11
+    ],
+    "det_class": "fire_extinguisher",
+    "det_conf": 0.2745,
+    "ocr_text": "18",
+    "ocr_conf": 0.0505,
+    "ocr_norm": "",
+    "conflict": false
+  },
+  {
+    "image_path": "/home/coder/thesis-yolo/runs_gpu/evac_v12_pred_with_labels/evctmapppevacuation-diagram132_jpg.rf.7691774454a9317560278bab6f98d3ed.jpg",
+    "ifc_class": "IfcDoor",
+    "ifc_type": "EXIT",
+    "confidence": 0.108,
+    "bbox_xywh": [
+      213,
+      579,
+      8,
+      11
+    ],
+    "det_class": "exit",
+    "det_conf": 0.2583,
+    "ocr_text": "80",
+    "ocr_conf": 0.0327,
+    "ocr_norm": "",
+    "conflict": false
+  },
+  {
+    "image_path": "/home/coder/thesis-yolo/runs_gpu/evac_v12_pred_with_labels/evctmapppevacuation-diagram132_jpg.rf.997f3d4c1e235f32292e386109aff797.jpg",
+    "ifc_class": "IfcDoor",
+    "ifc_type": "EXIT",
+    "confidence": 0.474,
+    "bbox_xywh": [
+      269,
+      594,
+      9,
+      13
+    ],
+    "det_class": "exit",
+    "det_conf": 0.6242,
+    "ocr_text": "2:",
+    "ocr_conf": 0.0577,
+    "ocr_norm": "",
+    "conflict": false
+  },
+  {
+    "image_path": "/home/coder/thesis-yolo/runs_gpu/evac_v12_pred_with_labels/evctmapppevacuation-diagram183_jpg.rf.275be6169b5745e3073344373b65cd23.jpg",
+    "ifc_class": "IfcFireSuppressionTerminal",
+    "ifc_type": "FIREEXTINGUISHER",
+    "confidence": 0.162,
+    "bbox_xywh": [
+      260,
+      459,
+      7,
+      14
+    ],
+    "det_class": "fire_extinguisher",
+    "det_conf": 0.3115,
+    "ocr_text": "'j1",
+    "ocr_conf": 0.0054,
+    "ocr_norm": "",
+    "conflict": false
+  },
+  {
+    "image_path": "/home/coder/thesis-yolo/runs_gpu/evac_v12_pred_with_labels/evctmapppevacuation-diagram210_jpg.rf.56c7ff3f5b4dec0b48a786b039047b2f.jpg",
+    "ifc_class": "IfcFireSuppressionTerminal",
+    "ifc_type": "FIREEXTINGUISHER",
+    "confidence": 0.111,
+    "bbox_xywh": [
+      139,
+      440,
+      6,
+      11
+    ],
+    "det_class": "fire_extinguisher",
+    "det_conf": 0.2612,
+    "ocr_text": "9",
+    "ocr_conf": 0.2545,
+    "ocr_norm": "",
+    "conflict": false
+  },
+  {
+    "image_path": "/home/coder/thesis-yolo/runs_gpu/evac_v12_pred_with_labels/evctmapppevacuation-diagram310_jpg.rf.0046d577779c4ac33869fffebfb7da99.jpg",
+    "ifc_class": "IfcFireSuppressionTerminal",
+    "ifc_type": "FIREEXTINGUISHER",
+    "confidence": 0.654,
+    "bbox_xywh": [
+      554,
+      395,
+      19,
+      24
+    ],
+    "det_class": "fire_extinguisher",
+    "det_conf": 0.654,
+    "ocr_text": "HUJI",
+    "ocr_conf": 0.1387,
+    "ocr_norm": "",
+    "conflict": false
+  },
+  {
+    "image_path": "/home/coder/thesis-yolo/runs_gpu/evac_v12_pred_with_labels/evctmapppevacuation-diagram356_jpg.rf.cfbe43beec5190de0aec2304a119c9a4.jpg",
+    "ifc_class": "IfcDoor",
+    "ifc_type": "EXIT",
+    "confidence": 0.325,
+    "bbox_xywh": [
+      411,
+      308,
+      10,
+      11
+    ],
+    "det_class": "exit",
+    "det_conf": 0.4748,
+    "ocr_text": "JI",
+    "ocr_conf": 0.1172,
+    "ocr_norm": "",
+    "conflict": false
+  },
+  {
+    "image_path": "/home/coder/thesis-yolo/runs_gpu/evac_v12_pred_with_labels/evctmapppevacuation-diagram362_jpg.rf.454bad1f958adc3c2e4ab281ac24812b.jpg",
+    "ifc_class": "IfcFireSuppressionTerminal",
+    "ifc_type": "FIREEXTINGUISHER",
+    "confidence": 0.13,
+    "bbox_xywh": [
+      433,
+      227,
+      5,
+      8
+    ],
+    "det_class": "fire_extinguisher",
+    "det_conf": 0.2802,
+    "ocr_text": "24",
+    "ocr_conf": 0.1263,
+    "ocr_norm": "",
+    "conflict": false
+  },
+  {
+    "image_path": "/home/coder/thesis-yolo/runs_gpu/evac_v12_pred_with_labels/evctmapppevacuation-diagram373_jpg.rf.9fb08b6ca2da709f0122d38d101e9da4.jpg",
+    "ifc_class": "IfcDoor",
+    "ifc_type": "EXIT",
+    "confidence": 0.809,
+    "bbox_xywh": [
+      123,
+      503,
+      27,
+      40
+    ],
+    "det_class": "exit",
+    "det_conf": 0.8091,
+    "ocr_text": "4'",
+    "ocr_conf": 0.7074,
+    "ocr_norm": "",
+    "conflict": false
+  },
+  {
+    "image_path": "/home/coder/thesis-yolo/runs_gpu/evac_v12_pred_with_labels/evctmapppevacuation-diagram389_jpg.rf.68a41a587c8857f148980ff7df90458c.jpg",
+    "ifc_class": "IfcFireSuppressionTerminal",
+    "ifc_type": "FIREEXTINGUISHER",
+    "confidence": 0.42,
+    "bbox_xywh": [
+      119,
+      7,
+      16,
+      16
+    ],
+    "det_class": "fire_extinguisher",
+    "det_conf": 0.4204,
+    "ocr_text": "#;",
+    "ocr_conf": 0.5809,
+    "ocr_norm": "",
+    "conflict": false
+  },
+  {
+    "image_path": "/home/coder/thesis-yolo/runs_gpu/evac_v12_pred_with_labels/evctmapppevacuation-diagram389_jpg.rf.ac8e536a5f5d28a8e508de5e3b120778.jpg",
+    "ifc_class": "IfcFireSuppressionTerminal",
+    "ifc_type": "FIREEXTINGUISHER",
+    "confidence": 0.297,
+    "bbox_xywh": [
+      576,
+      64,
+      10,
+      13
+    ],
+    "det_class": "fire_extinguisher",
+    "det_conf": 0.4472,
+    "ocr_text": "42",
+    "ocr_conf": 0.3489,
+    "ocr_norm": "",
+    "conflict": false
+  },
+  {
+    "image_path": "/home/coder/thesis-yolo/runs_gpu/evac_v12_pred_with_labels/evctmapppevacuation-diagram412_jpg.rf.43afa981d829d1e067666236ad25fbcb.jpg",
+    "ifc_class": "IfcFireSuppressionTerminal",
+    "ifc_type": "FIREEXTINGUISHER",
+    "confidence": 0.418,
+    "bbox_xywh": [
+      27,
+      549,
+      13,
+      12
+    ],
+    "det_class": "fire_extinguisher",
+    "det_conf": 0.568,
+    "ocr_text": "Al",
+    "ocr_conf": 0.0433,
+    "ocr_norm": "",
+    "conflict": false
+  },
+  {
+    "image_path": "/home/coder/thesis-yolo/runs_gpu/evac_v12_pred_with_labels/evctmapppevacuation-diagram416_jpg.rf.864c97b3337b787b56a80d66c0a8a4a2.jpg",
+    "ifc_class": "IfcFireSuppressionTerminal",
+    "ifc_type": "FIREEXTINGUISHER",
+    "confidence": 0.607,
+    "bbox_xywh": [
+      279,
+      263,
+      25,
+      39
+    ],
+    "det_class": "fire_extinguisher",
+    "det_conf": 0.6073,
+    "ocr_text": "Ir?",
+    "ocr_conf": 0.2004,
+    "ocr_norm": "",
+    "conflict": false
+  },
+  {
+    "image_path": "/home/coder/thesis-yolo/runs_gpu/evac_v12_pred_with_labels/evctmapppevacuation-diagram447_jpg.rf.c564b980454f6606da8ca302dec021a1.jpg",
+    "ifc_class": "IfcFireSuppressionTerminal",
+    "ifc_type": "FIREEXTINGUISHER",
+    "confidence": 0.318,
+    "bbox_xywh": [
+      229,
+      134,
+      12,
+      23
+    ],
+    "det_class": "fire_extinguisher",
+    "det_conf": 0.3182,
+    "ocr_text": "A",
+    "ocr_conf": 0.2436,
+    "ocr_norm": "",
+    "conflict": false
+  },
+  {
+    "image_path": "/home/coder/thesis-yolo/runs_gpu/evac_v12_pred_with_labels/evctmapppevacuation-diagram447_jpg.rf.f48d5e7f31c9c4bc2667e67c69b1a090.jpg",
+    "ifc_class": "IfcDoor",
+    "ifc_type": "EXIT",
+    "confidence": 0.754,
+    "bbox_xywh": [
+      172,
+      400,
+      29,
+      37
+    ],
+    "det_class": "exit",
+    "det_conf": 0.7536,
+    "ocr_text": "4",
+    "ocr_conf": 0.906,
+    "ocr_norm": "",
+    "conflict": false
+  },
+  {
+    "image_path": "/home/coder/thesis-yolo/runs_gpu/evac_v12_pred_with_labels/evctmapppevacuation-diagram48_jpg.rf.2bffad77e3e7ca00ac4b6b9f994a3e88.jpg",
+    "ifc_class": "IfcFireSuppressionTerminal",
+    "ifc_type": "FIREEXTINGUISHER",
+    "confidence": 0.289,
+    "bbox_xywh": [
+      49,
+      283,
+      30,
+      31
+    ],
+    "det_class": "fire_extinguisher",
+    "det_conf": 0.2888,
+    "ocr_text": "76",
+    "ocr_conf": 0.0755,
+    "ocr_norm": "",
+    "conflict": false
+  },
+  {
+    "image_path": "/home/coder/thesis-yolo/runs_gpu/evac_v12_pred_with_labels/evctmapppevacuation-diagram48_jpg.rf.f31a811e9170c2c865dc294838691db0.jpg",
+    "ifc_class": "IfcFireSuppressionTerminal",
+    "ifc_type": "FIREEXTINGUISHER",
+    "confidence": 0.502,
+    "bbox_xywh": [
+      54,
+      276,
+      23,
+      29
+    ],
+    "det_class": "fire_extinguisher",
+    "det_conf": 0.5025,
+    "ocr_text": "3",
+    "ocr_conf": 0.8319,
+    "ocr_norm": "",
+    "conflict": false
+  },
+  {
+    "image_path": "/home/coder/thesis-yolo/runs_gpu/evac_v12_pred_with_labels/evctmapppevacuation-diagram56_jpg.rf.269cb4703292f628bd812e7ef0590971.jpg",
+    "ifc_class": "IfcFireSuppressionTerminal",
+    "ifc_type": "FIREEXTINGUISHER",
+    "confidence": 0.76,
+    "bbox_xywh": [
+      581,
+      246,
+      48,
+      66
+    ],
+    "det_class": "fire_extinguisher",
+    "det_conf": 0.7597,
+    "ocr_text": "U {",
+    "ocr_conf": 0.0542,
+    "ocr_norm": "",
+    "conflict": false
+  },
+  {
+    "image_path": "/home/coder/thesis-yolo/runs_gpu/evac_v12_pred_with_labels/evctmapppevacuation-diagram56_jpg.rf.269cb4703292f628bd812e7ef0590971.jpg",
+    "ifc_class": "IfcFireSuppressionTerminal",
+    "ifc_type": "FIREEXTINGUISHER",
+    "confidence": 0.406,
+    "bbox_xywh": [
+      185,
+      216,
+      16,
+      26
+    ],
+    "det_class": "fire_extinguisher",
+    "det_conf": 0.4055,
+    "ocr_text": "n",
+    "ocr_conf": 0.1973,
+    "ocr_norm": "",
+    "conflict": false
+  },
+  {
+    "image_path": "/home/coder/thesis-yolo/runs_gpu/evac_v12_pred_with_labels/evctmapppevacuation-diagram56_jpg.rf.a9047490a9c906a8bac58072df6321db.jpg",
+    "ifc_class": "IfcFireSuppressionTerminal",
+    "ifc_type": "FIREEXTINGUISHER",
+    "confidence": 0.552,
+    "bbox_xywh": [
+      7,
+      239,
+      58,
+      83
+    ],
+    "det_class": "fire_extinguisher",
+    "det_conf": 0.5519,
+    "ocr_text": "n",
+    "ocr_conf": 0.2174,
+    "ocr_norm": "",
+    "conflict": false
+  },
+  {
+    "image_path": "/home/coder/thesis-yolo/runs_gpu/evac_v12_pred_with_labels/evctmapppevacuation-diagram56_jpg.rf.d373245ec4100cb7027c360b1cd26389.jpg",
+    "ifc_class": "IfcFireSuppressionTerminal",
+    "ifc_type": "FIREEXTINGUISHER",
+    "confidence": 0.682,
+    "bbox_xywh": [
+      3,
+      314,
+      62,
+      84
+    ],
+    "det_class": "fire_extinguisher",
+    "det_conf": 0.6818,
+    "ocr_text": "9/ \u20ac",
+    "ocr_conf": 0.1628,
+    "ocr_norm": "",
+    "conflict": false
+  },
+  {
+    "image_path": "/home/coder/thesis-yolo/runs_gpu/evac_v12_pred_with_labels/evctmapppevacuation-diagram611_jpg.rf.91f9dec628b81ade54d55d4d277cfc5e.jpg",
+    "ifc_class": "IfcFireSuppressionTerminal",
+    "ifc_type": "FIREEXTINGUISHER",
+    "confidence": 0.439,
+    "bbox_xywh": [
+      407,
+      306,
+      13,
+      26
+    ],
+    "det_class": "fire_extinguisher",
+    "det_conf": 0.439,
+    "ocr_text": "5a",
+    "ocr_conf": 0.0017,
+    "ocr_norm": "",
+    "conflict": false
+  },
+  {
+    "image_path": "/home/coder/thesis-yolo/runs_gpu/evac_v12_pred_with_labels/evctmapppevacuation-diagram693_jpg.rf.49e7543021764a57f51f9b3a7e9ab9b5.jpg",
+    "ifc_class": "IfcDoor",
+    "ifc_type": "EXIT",
+    "confidence": 0.208,
+    "bbox_xywh": [
+      115,
+      345,
+      6,
+      7
+    ],
+    "det_class": "exit",
+    "det_conf": 0.3585,
+    "ocr_text": "095",
+    "ocr_conf": 0.3043,
+    "ocr_norm": "",
+    "conflict": false
+  },
+  {
+    "image_path": "/home/coder/thesis-yolo/runs_gpu/evac_v12_pred_with_labels/evctmapppevacuation-diagram693_jpg.rf.49e7543021764a57f51f9b3a7e9ab9b5.jpg",
+    "ifc_class": "IfcFireSuppressionTerminal",
+    "ifc_type": "FIREEXTINGUISHER",
+    "confidence": 0.355,
+    "bbox_xywh": [
+      519,
+      332,
+      16,
+      16
+    ],
+    "det_class": "fire_extinguisher",
+    "det_conf": 0.3549,
+    "ocr_text": "FA",
+    "ocr_conf": 0.0472,
+    "ocr_norm": "",
+    "conflict": false
+  },
+  {
+    "image_path": "/home/coder/thesis-yolo/runs_gpu/evac_v12_pred_with_labels/evctmapppevacuation-diagram72_jpg.rf.82686074d85e441a3c162c24557e8f9d.jpg",
+    "ifc_class": "IfcFireSuppressionTerminal",
+    "ifc_type": "FIREEXTINGUISHER",
+    "confidence": 0.191,
+    "bbox_xywh": [
+      75,
+      352,
+      5,
+      9
+    ],
+    "det_class": "fire_extinguisher",
+    "det_conf": 0.3411,
+    "ocr_text": "19",
+    "ocr_conf": 0.1422,
+    "ocr_norm": "",
+    "conflict": false
+  }
+]

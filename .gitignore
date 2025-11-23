@@ -1,0 +1,26 @@
+# --- Python virtual environment ---
+venv/
+
+# --- YOLO training runs (big, not needed for thesis code) ---
+runs/
+runs_gpu/
+
+# --- Model weights / large binaries ---
+*.pt
+*.onnx
+
+# --- Datasets and archives (keep only small samples manually) ---
+EvacuationPlanDataset/
+EvacuationPlanDataset.zip
+*.zip
+
+# --- Python cache ---
+__pycache__/
+*.pyc
+
+# --- OS / editor junk ---
+.DS_Store
+Thumbs.db
+
+# --- Optional: very large outputs you don't need on GitHub ---
+out/

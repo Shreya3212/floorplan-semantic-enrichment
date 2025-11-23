@@ -1,0 +1,224 @@
+image,cls,conf,status,ocr_raw,ocr_clean,best_iou,bbox_x,bbox_y,bbox_w,bbox_h
+evctmap-113_jpg.rf.f76cd30d85c3ad106d586307507ee3e8.jpg,fire extinguisher,0.641,no_text,,,0.0,160,457,17,30
+evctmap-11_jpg.rf.7700bb2bbc23e7c7f11008513367026c.jpg,fire extinguisher,0.749,no_text,,,0.0,425,313,22,20
+evctmap-11_jpg.rf.7700bb2bbc23e7c7f11008513367026c.jpg,exit,0.5,no_text,,,0.0,389,385,13,15
+evctmap-142_jpg.rf.b4169453cd806377e4ef7172e21b8d8f.jpg,fire extinguisher,0.503,no_text,,,0.0,192,214,6,9
+evctmap-142_jpg.rf.b4169453cd806377e4ef7172e21b8d8f.jpg,exit,0.257,no_text,,,0.0,206,422,10,14
+evctmap-14_jpg.rf.113a0b99d0cd1e92140777dc927d5b5b.jpg,fire extinguisher,0.31,no_text,,,0.0,142,408,26,22
+evctmap-14_jpg.rf.f116d5b86a30dfa7f25589b656083295.jpg,fire extinguisher,0.642,no_text,,,0.0,260,435,23,32
+evctmap-157_jpg.rf.03f51ff95e04e047ccacbff3e9bf1e43.jpg,exit,0.329,no_text,,,0.0,331,215,20,28
+evctmap-16_jpg.rf.2dda181a63d3718eec8256f7d7bd7f52.jpg,exit,0.511,no_text,,,0.0,575,346,24,25
+evctmap-25_jpg.rf.202c8a4aa513099f57bcc8ad2e621873.jpg,exit,0.607,no_text,,,0.0,5,307,24,27
+evctmap-27_jpg.rf.3011761f91d44dc5bf4f0ac0b5c3e8d7.jpg,fire extinguisher,0.285,no_text,,,0.0,288,258,10,21
+evctmap-27_jpg.rf.9280c209a69d983e4722e4c3e457cbdf.jpg,fire extinguisher,0.258,no_text,,,0.0,286,259,11,21
+evctmap-28_jpg.rf.3d08d9da016cd721a28b8332d1701581.jpg,fire extinguisher,0.42,no_text,,,0.0,178,144,21,36
+evctmap-29_jpg.rf.7f3764a18266ed3c52dbbac686328260.jpg,exit,0.279,no_text,,,0.0,258,437,7,11
+evctmap-2_jpg.rf.3bbe941251de4ae0427239392dd937f4.jpg,exit,0.708,no_text,,,0.0,551,235,26,40
+evctmap-320_jpg.rf.9c24cb5cbf3734467bdf77475971ad59.jpg,fire extinguisher,0.269,no_text,,,0.0,547,211,7,8
+evctmap-39_jpg.rf.86238fb254695116d93fbacbb7f50e51.jpg,fire extinguisher,0.267,no_text,,,0.0,505,468,9,10
+evctmap-3_jpg.rf.d44e8932007bfe3dc7b910589a46b270.jpg,exit,0.294,no_text,,,0.0,561,280,27,33
+evctmap-402_jpg.rf.de94aab5a98098ecabb9ac057f5df533.jpg,exit,0.751,no_text,,,0.0,527,170,26,33
+evctmap-470_jpg.rf.87aca37c93dde49b88d1dca58834dad5.jpg,exit,0.607,no_text,,,0.0,217,537,15,19
+evctmap-470_jpg.rf.9600e644e80fdebefc0d5851ad5523a3.jpg,exit,0.53,no_text,,,0.0,301,558,14,17
+evctmap-481_jpg.rf.b62638f944ff9f91132379c4f9e50a5e.jpg,fire extinguisher,0.257,no_text,,,0.0,334,428,8,19
+evctmap-4_jpg.rf.fb43a8b9e3a67a76e8095fe70a5b529f.jpg,fire extinguisher,0.272,no_text,,,0.0,535,270,14,15
+evctmap-503_jpg.rf.e268bde21a62bb2629b7c9902e420d98.jpg,exit,0.666,no_text,,,0.0,584,324,15,16
+evctmap-503_jpg.rf.e268bde21a62bb2629b7c9902e420d98.jpg,fire extinguisher,0.33,no_text,,,0.0,595,228,15,16
+evctmap-509_jpg.rf.f4df436d8d4935d33025661a3c0397c6.jpg,exit,0.347,no_text,,,0.0,227,316,9,11
+evctmap-512_jpg.rf.73efff70214262019a7266ab3046fb1a.jpg,fire extinguisher,0.341,no_text,,,0.0,93,224,9,9
+evctmap-512_jpg.rf.a6f50c790032992a374173962b2d9234.jpg,fire extinguisher,0.374,no_text,,,0.0,458,509,8,8
+evctmap-512_jpg.rf.a6f50c790032992a374173962b2d9234.jpg,fire extinguisher,0.268,no_text,,,0.0,543,315,8,8
+evctmap-512_jpg.rf.ecc6832d314f7cfb1c1f0de6738a77a5.jpg,fire extinguisher,0.453,no_text,,,0.0,360,474,10,10
+evctmap-512_jpg.rf.ecc6832d314f7cfb1c1f0de6738a77a5.jpg,fire extinguisher,0.285,no_text,,,0.0,422,313,10,10
+evctmap-512_jpg.rf.ecc6832d314f7cfb1c1f0de6738a77a5.jpg,fire extinguisher,0.259,no_text,,,0.0,537,358,11,9
+evctmap-519_jpg.rf.118193b5ae11414a344e77f902b30a3f.jpg,fire extinguisher,0.417,no_text,,,0.0,326,196,10,22
+evctmap-519_jpg.rf.5298370bb16bb1fd007a8354760c47f4.jpg,fire extinguisher,0.256,no_text,,,0.0,154,612,14,18
+evctmap-525_jpg.rf.ea75485c9f8d9fdd254ef31ea8ff1376.jpg,fire extinguisher,0.271,no_text,,,0.0,529,148,8,11
+evctmap-525_jpg.rf.f7367f1b8c23a35a1f9d86d03614d956.jpg,fire extinguisher,0.381,no_text,,,0.0,142,259,9,14
+evctmap-540_jpg.rf.3ee814bbfd642cd3dc0545e3abb91d68.jpg,fire extinguisher,0.254,no_text,,,0.0,262,453,11,16
+evctmap-540_jpg.rf.935f47ad5eb61dc1ee21cc77eba3136a.jpg,fire extinguisher,0.301,no_text,,,0.0,377,370,9,15
+evctmap-540_jpg.rf.d304e454f268182a1de59bd73dd41a6a.jpg,exit,0.325,no_text,,,0.0,340,544,7,11
+evctmap-570_jpg.rf.76d7692942bf73a842d6e67735742dbd.jpg,exit,0.7,no_text,,,0.0,125,274,35,36
+evctmap-579_jpg.rf.4b3147974d1151c1576e4d2a844e86ab.jpg,fire extinguisher,0.589,no_text,,,0.0,473,282,9,11
+evctmap-579_jpg.rf.4b3147974d1151c1576e4d2a844e86ab.jpg,fire extinguisher,0.253,no_text,,,0.0,384,308,13,11
+evctmap-579_jpg.rf.56a697be3a8739a4114121b3fb18fcf6.jpg,fire extinguisher,0.47,no_text,,,0.0,334,362,11,12
+evctmap-579_jpg.rf.56a697be3a8739a4114121b3fb18fcf6.jpg,fire extinguisher,0.291,no_text,,,0.0,186,314,12,12
+evctmap-579_jpg.rf.579025750392a6eac7cb4239975486be.jpg,fire extinguisher,0.509,no_text,,,0.0,187,301,12,12
+evctmap-579_jpg.rf.579025750392a6eac7cb4239975486be.jpg,fire extinguisher,0.265,no_text,,,0.0,378,295,12,12
+evctmap-579_jpg.rf.579025750392a6eac7cb4239975486be.jpg,fire extinguisher,0.251,no_text,,,0.0,328,363,13,13
+evctmap-590_jpg.rf.95a3c6ce0600e07ef619aaf82dec69b4.jpg,fire extinguisher,0.269,no_text,,,0.0,499,252,22,20
+evctmap-5_jpg.rf.122331c53d6917bf9d4b0f9ef1ac062f.jpg,exit,0.296,no_text,,,0.0,0,393,6,31
+evctmap-608_jpg.rf.4d7e2f528fad364576cda4dc7fad41fc.jpg,fire extinguisher,0.338,no_text,,,0.0,229,205,8,14
+evctmap-608_jpg.rf.98bf42e4968628dd734015a4e73f147e.jpg,fire extinguisher,0.728,no_text,,,0.0,185,540,14,18
+evctmap-608_jpg.rf.98bf42e4968628dd734015a4e73f147e.jpg,fire extinguisher,0.343,no_text,,,0.0,362,490,12,15
+evctmap-608_jpg.rf.98bf42e4968628dd734015a4e73f147e.jpg,fire extinguisher,0.3,no_text,,,0.0,101,230,11,16
+evctmap-608_jpg.rf.c01c5b1ba87ad4443ae382bf54ae0726.jpg,fire extinguisher,0.679,no_text,,,0.0,544,185,12,16
+evctmap-608_jpg.rf.c01c5b1ba87ad4443ae382bf54ae0726.jpg,fire extinguisher,0.539,no_text,,,0.0,518,432,13,17
+evctmap-608_jpg.rf.c01c5b1ba87ad4443ae382bf54ae0726.jpg,fire extinguisher,0.412,no_text,,,0.0,248,191,12,16
+evctmap-641_jpg.rf.6895a6145b74389546e249ae27733074.jpg,fire extinguisher,0.502,no_text,,,0.0,215,254,10,13
+evctmap-641_jpg.rf.6895a6145b74389546e249ae27733074.jpg,fire extinguisher,0.444,no_text,,,0.0,570,307,11,17
+evctmap-643_jpg.rf.fcc771821a5e35b9bd02f8c6a8b95d4a.jpg,exit,0.653,no_text,,,0.0,221,414,35,35
+evctmap-683_jpg.rf.f544c077e361373da32374b9486ac71d.jpg,exit,0.514,no_text,,,0.0,157,275,12,14
+evctmap-9_jpg.rf.ca2538e7d97e772eca459310d3abeaae.jpg,fire extinguisher,0.267,no_text,,,0.0,301,302,9,13
+evctmappevacuation-floor-plan110_jpg.rf.5ef9fee218634a9744244d5054effc81.jpg,exit,0.381,no_text,,,0.0,575,322,8,14
+evctmappevacuation-floor-plan22_jpg.rf.3aba50b5ff0d0013ef977bedb6069d7f.jpg,fire extinguisher,0.62,no_text,,,0.0,249,233,9,15
+evctmappevacuation-floor-plan22_jpg.rf.3aba50b5ff0d0013ef977bedb6069d7f.jpg,fire extinguisher,0.294,no_text,,,0.0,113,184,15,21
+evctmappevacuation-floor-plan270_jpg.rf.6446a44c1e5b0f6f90a3d789b1ebcbfa.jpg,fire extinguisher,0.3,no_text,,,0.0,169,430,8,14
+evctmappevacuation-floor-plan336_jpg.rf.2f5e59f46f4ad53f0d5785a32fa28bc3.jpg,fire extinguisher,0.667,no_text,,,0.0,363,190,32,58
+evctmappevacuation-floor-plan336_jpg.rf.a82d11b7e41e55e512d6d1310218db36.jpg,fire extinguisher,0.555,no_text,,,0.0,248,325,36,59
+evctmappevacuation-floor-plan336_jpg.rf.c2bce66c0a0162b3b48c826f7fb63042.jpg,fire extinguisher,0.776,no_text,,,0.0,348,332,39,57
+evctmappevacuation-floor-plan336_jpg.rf.c2bce66c0a0162b3b48c826f7fb63042.jpg,fire extinguisher,0.455,no_text,,,0.0,357,192,48,65
+evctmappevacuation-floor-plan345_jpg.rf.22238b334ca8908a366986f0c2652dd7.jpg,fire extinguisher,0.711,no_text,,,0.0,400,446,11,28
+evctmappevacuation-floor-plan345_jpg.rf.22238b334ca8908a366986f0c2652dd7.jpg,fire extinguisher,0.405,no_text,,,0.0,202,102,15,28
+evctmappevacuation-floor-plan345_jpg.rf.5b6e6bba6143fd1f4dc4f6da4c5cb727.jpg,fire extinguisher,0.469,no_text,,,0.0,408,393,14,27
+evctmappevacuation-floor-plan345_jpg.rf.f4b12bcabad18ef493311c8c31614622.jpg,fire extinguisher,0.774,no_text,,,0.0,398,448,11,27
+evctmappevacuation-floor-plan397_jpg.rf.15c11a63abce739da4675cd43f3c8241.jpg,exit,0.35,no_text,,,0.0,63,71,15,16
+evctmappevacuation-floor-plan397_jpg.rf.6772ab0a86eb41dbff44b7b6872a50b6.jpg,exit,0.318,no_text,,,0.0,126,349,15,26
+evctmappevacuation-floor-plan474_jpg.rf.a4635bd70339f910e4bd951fe0829f90.jpg,exit,0.305,no_text,,,0.0,409,546,7,11
+evctmappevacuation-floor-plan474_jpg.rf.d78f8f7536fae1287a9bd33d6d749c0c.jpg,exit,0.294,no_text,,,0.0,444,529,8,11
+evctmappevacuation-floor-plan500_jpg.rf.7be3f8068405fe2dcb5215baa1ac09aa.jpg,fire extinguisher,0.322,no_text,,,0.0,49,528,10,16
+evctmappevacuation-floor-plan502_jpg.rf.8e5c503fe0217472329c60b1732b108b.jpg,fire extinguisher,0.82,no_text,,,0.0,382,248,16,29
+evctmappevacuation-floor-plan502_jpg.rf.8e5c503fe0217472329c60b1732b108b.jpg,fire extinguisher,0.781,no_text,,,0.0,456,371,15,28
+evctmappevacuation-floor-plan502_jpg.rf.8e5c503fe0217472329c60b1732b108b.jpg,fire extinguisher,0.74,no_text,,,0.0,269,370,18,24
+evctmappevacuation-floor-plan502_jpg.rf.8e5c503fe0217472329c60b1732b108b.jpg,exit,0.619,no_text,,,0.0,242,592,17,25
+evctmappevacuation-floor-plan502_jpg.rf.8e5c503fe0217472329c60b1732b108b.jpg,fire extinguisher,0.615,no_text,,,0.0,361,371,18,22
+evctmappevacuation-floor-plan502_jpg.rf.9cd83a131ab55baf58e4c857cdb8c62c.jpg,exit,0.321,no_text,,,0.0,306,599,20,28
+evctmappevacuation-floor-plan51_jpg.rf.dfbab3d2fb166d0e1982aa561141bfcb.jpg,exit,0.356,no_text,,,0.0,162,350,10,15
+evctmappevacuation-floor-plan558_jpg.rf.4eaac485477f64d5e035d2101c1eb792.jpg,fire extinguisher,0.252,no_text,,,0.0,263,447,11,15
+evctmappevacuation-floor-plan610_jpg.rf.44fb697ba918f002035765d99354e582.jpg,fire extinguisher,0.565,no_text,,,0.0,188,156,33,43
+evctmappevacuation-floor-plan610_jpg.rf.44fb697ba918f002035765d99354e582.jpg,fire extinguisher,0.464,no_text,,,0.0,554,238,17,29
+evctmappevacuation-floor-plan615_jpg.rf.573869ab419318a0ccb29c952cbe1cf8.jpg,exit,0.32,no_text,,,0.0,257,213,12,16
+evctmappevacuation-floor-plan615_jpg.rf.b5f242649717a479789d2245b0f987d2.jpg,fire extinguisher,0.272,no_text,,,0.0,572,0,22,16
+evctmappevacuation-floor-plan640_jpg.rf.b76eb0e1308c50e4e63e3e8d98387a72.jpg,fire extinguisher,0.344,no_text,,,0.0,278,99,9,19
+evctmappevacuation-floor-plan643_jpg.rf.e5fbd50175089c0b52993f47af73356e.jpg,exit,0.285,no_text,,,0.0,28,235,9,10
+evctmappevacuation-floor-plan683_jpg.rf.7d5142630961f88a236f0512767fa94e.jpg,fire extinguisher,0.421,no_text,,,0.0,16,396,19,50
+evctmappevacuation-floor-plan686_jpg.rf.3b74d1397ee7c3152bf40ab8e3ef11b4.jpg,exit,0.766,no_text,,,0.0,479,39,25,31
+evctmappevacuation-floor-plan686_jpg.rf.c7f0ba82b482daf2391ab494baa09588.jpg,fire extinguisher,0.743,no_text,,,0.0,563,86,28,41
+evctmappevacuation-floor-plan686_jpg.rf.c7f0ba82b482daf2391ab494baa09588.jpg,exit,0.343,no_text,,,0.0,352,570,19,26
+evctmappevacuation-floor-plan686_jpg.rf.d4c1d8949d942b20aff1f3a22900835b.jpg,exit,0.852,no_text,,,0.0,272,570,19,26
+evctmappevacuation-floor-plan6_jpg.rf.0a6ac2012bc60acb0c7915f8e508e0b4.jpg,exit,0.475,no_text,,,0.0,414,418,11,13
+evctmappevacuation-floor-plan6_jpg.rf.0a6ac2012bc60acb0c7915f8e508e0b4.jpg,fire extinguisher,0.275,no_text,,,0.0,164,241,9,11
+evctmapppevacuation-diagram132_jpg.rf.7691774454a9317560278bab6f98d3ed.jpg,exit,0.258,no_text,,,0.0,212,578,8,12
+evctmapppevacuation-diagram132_jpg.rf.997f3d4c1e235f32292e386109aff797.jpg,exit,0.624,no_text,,,0.0,268,594,10,13
+evctmapppevacuation-diagram210_jpg.rf.56c7ff3f5b4dec0b48a786b039047b2f.jpg,fire extinguisher,0.261,no_text,,,0.0,138,439,6,12
+evctmapppevacuation-diagram310_jpg.rf.0046d577779c4ac33869fffebfb7da99.jpg,fire extinguisher,0.654,no_text,,,0.0,554,394,19,24
+evctmapppevacuation-diagram356_jpg.rf.cfbe43beec5190de0aec2304a119c9a4.jpg,exit,0.475,no_text,,,0.0,410,307,10,12
+evctmapppevacuation-diagram362_jpg.rf.454bad1f958adc3c2e4ab281ac24812b.jpg,fire extinguisher,0.28,no_text,,,0.0,432,227,5,7
+evctmapppevacuation-diagram373_jpg.rf.9fb08b6ca2da709f0122d38d101e9da4.jpg,exit,0.809,no_text,,,0.0,123,503,27,40
+evctmapppevacuation-diagram389_jpg.rf.68a41a587c8857f148980ff7df90458c.jpg,fire extinguisher,0.42,no_text,,,0.0,118,6,17,16
+evctmapppevacuation-diagram389_jpg.rf.ac8e536a5f5d28a8e508de5e3b120778.jpg,fire extinguisher,0.447,no_text,,,0.0,575,63,10,13
+evctmapppevacuation-diagram412_jpg.rf.43afa981d829d1e067666236ad25fbcb.jpg,fire extinguisher,0.568,no_text,,,0.0,27,549,12,12
+evctmapppevacuation-diagram416_jpg.rf.864c97b3337b787b56a80d66c0a8a4a2.jpg,fire extinguisher,0.607,no_text,,,0.0,278,262,25,39
+evctmapppevacuation-diagram447_jpg.rf.c564b980454f6606da8ca302dec021a1.jpg,fire extinguisher,0.318,no_text,,,0.0,229,133,11,23
+evctmapppevacuation-diagram447_jpg.rf.f48d5e7f31c9c4bc2667e67c69b1a090.jpg,exit,0.754,no_text,,,0.0,171,399,29,37
+evctmapppevacuation-diagram48_jpg.rf.2bffad77e3e7ca00ac4b6b9f994a3e88.jpg,fire extinguisher,0.289,no_text,,,0.0,48,283,31,31
+evctmapppevacuation-diagram48_jpg.rf.f31a811e9170c2c865dc294838691db0.jpg,fire extinguisher,0.502,no_text,,,0.0,54,276,23,29
+evctmapppevacuation-diagram56_jpg.rf.269cb4703292f628bd812e7ef0590971.jpg,fire extinguisher,0.76,no_text,,,0.0,581,246,48,66
+evctmapppevacuation-diagram56_jpg.rf.269cb4703292f628bd812e7ef0590971.jpg,fire extinguisher,0.405,no_text,,,0.0,185,216,16,26
+evctmapppevacuation-diagram56_jpg.rf.a9047490a9c906a8bac58072df6321db.jpg,fire extinguisher,0.552,no_text,,,0.0,6,239,58,83
+evctmapppevacuation-diagram56_jpg.rf.d373245ec4100cb7027c360b1cd26389.jpg,fire extinguisher,0.682,no_text,,,0.0,3,313,62,85
+evctmapppevacuation-diagram611_jpg.rf.91f9dec628b81ade54d55d4d277cfc5e.jpg,fire extinguisher,0.439,no_text,,,0.0,406,306,13,25
+evctmapppevacuation-diagram693_jpg.rf.49e7543021764a57f51f9b3a7e9ab9b5.jpg,exit,0.358,no_text,,,0.0,114,345,7,7
+evctmapppevacuation-diagram693_jpg.rf.49e7543021764a57f51f9b3a7e9ab9b5.jpg,fire extinguisher,0.355,no_text,,,0.0,519,332,16,16
+evctmapppevacuation-diagram72_jpg.rf.82686074d85e441a3c162c24557e8f9d.jpg,fire extinguisher,0.341,no_text,,,0.0,74,351,6,9
+KakaoTalk_20240319_133126275_jpg.rf.b10b770156fad18531f735afa211f6b6.jpg,fire extinguisher,0.332,no_text,,,0.0,424,93,18,39
+KakaoTalk_20240325_162133706_04_jpg.rf.470f2fd4b0e4d6a203d659c3ac2ff49b.jpg,fire extinguisher,0.277,no_text,,,0.0,341,557,11,10
+KakaoTalk_20240325_162133706_06_jpg.rf.6ab13f86d2b307e02c69f678f1ab4042.jpg,exit,0.303,no_text,,,0.0,167,298,16,21
+KakaoTalk_20240325_162133706_07_jpg.rf.01e7a87e0d6bcc1aa3bb7d940d5b9bd9.jpg,exit,0.813,no_text,,,0.0,249,537,31,51
+KakaoTalk_20240325_162133706_07_jpg.rf.5591e80f61f9e87b51c0e285b55ba7f5.jpg,exit,0.674,no_text,,,0.0,381,535,32,49
+KakaoTalk_20240325_162133706_07_jpg.rf.f1cf771e1a92454ebd5fa2139e81de47.jpg,exit,0.817,no_text,,,0.0,338,543,34,50
+KakaoTalk_20240330_153803899_01_jpg.rf.959cf5de93d52bfddbda353d8418c921.jpg,exit,0.846,no_text,,,0.0,362,476,42,57
+KakaoTalk_20240330_153803899_01_jpg.rf.ae64b8a21d67a0f70c62d50e92ec626e.jpg,exit,0.888,no_text,,,0.0,151,420,41,53
+KakaoTalk_20240330_153803899_01_jpg.rf.ae64b8a21d67a0f70c62d50e92ec626e.jpg,exit,0.3,no_text,,,0.0,116,319,66,90
+KakaoTalk_20240330_153803899_02_jpg.rf.6b0204ee81d0a1c3bb8f5ececea71058.jpg,exit,0.853,no_text,,,0.0,106,312,37,49
+KakaoTalk_20240330_153803899_02_jpg.rf.6b0204ee81d0a1c3bb8f5ececea71058.jpg,exit,0.756,no_text,,,0.0,197,431,34,50
+KakaoTalk_20240330_153803899_02_jpg.rf.6b0204ee81d0a1c3bb8f5ececea71058.jpg,exit,0.512,no_text,,,0.0,396,451,37,50
+KakaoTalk_20240330_153803899_02_jpg.rf.939a102bc7119b3636730fa7a78711c3.jpg,exit,0.717,no_text,,,0.0,491,326,39,49
+KakaoTalk_20240330_153803899_02_jpg.rf.939a102bc7119b3636730fa7a78711c3.jpg,exit,0.515,no_text,,,0.0,190,444,46,54
+KakaoTalk_20240330_153803899_02_jpg.rf.939a102bc7119b3636730fa7a78711c3.jpg,exit,0.489,no_text,,,0.0,393,437,41,53
+KakaoTalk_20240330_153803899_03_jpg.rf.b1d221f32f89ed2f577301a6d24d86df.jpg,exit,0.757,no_text,,,0.0,392,432,37,52
+KakaoTalk_20240330_153803899_03_jpg.rf.c367c568d1ebe367e7d4f8c604b6920a.jpg,exit,0.821,no_text,,,0.0,138,374,49,48
+KakaoTalk_20240330_153803899_03_jpg.rf.c367c568d1ebe367e7d4f8c604b6920a.jpg,exit,0.728,no_text,,,0.0,195,431,45,46
+KakaoTalk_20240330_153803899_03_jpg.rf.c367c568d1ebe367e7d4f8c604b6920a.jpg,exit,0.344,no_text,,,0.0,133,349,56,77
+KakaoTalk_20240330_153803899_03_jpg.rf.c367c568d1ebe367e7d4f8c604b6920a.jpg,exit,0.338,no_text,,,0.0,150,373,33,48
+KakaoTalk_20240330_153803899_03_jpg.rf.f8819cfdc033ec7c6ef20d493312869d.jpg,exit,0.763,no_text,,,0.0,361,446,45,53
+KakaoTalk_20240330_153803899_03_jpg.rf.f8819cfdc033ec7c6ef20d493312869d.jpg,exit,0.679,no_text,,,0.0,354,423,55,78
+KakaoTalk_20240330_153803899_04_jpg.rf.0da9e56a974d8d355a93f9133fbcbbd1.jpg,exit,0.878,no_text,,,0.0,243,369,53,67
+KakaoTalk_20240330_153803899_04_jpg.rf.0da9e56a974d8d355a93f9133fbcbbd1.jpg,exit,0.826,no_text,,,0.0,239,345,58,95
+KakaoTalk_20240330_153803899_04_jpg.rf.579a9f7345ee4d5f9dcbebde299d7544.jpg,exit,0.896,no_text,,,0.0,318,378,57,71
+KakaoTalk_20240330_153803899_04_jpg.rf.f218ad87d6cd4b8d44e4a1aa168901c4.jpg,exit,0.895,no_text,,,0.0,340,372,48,65
+KakaoTalk_20240330_153803899_05_jpg.rf.0c119ec54703160bc8c474f60c8d1895.jpg,exit,0.873,no_text,,,0.0,377,283,34,46
+KakaoTalk_20240330_153803899_05_jpg.rf.e4776cd62813e41ccc5e51aa97203213.jpg,exit,0.827,no_text,,,0.0,359,273,60,82
+KakaoTalk_20240330_153803899_05_jpg.rf.e4776cd62813e41ccc5e51aa97203213.jpg,exit,0.791,no_text,,,0.0,372,299,47,55
+KakaoTalk_20240330_153803899_05_jpg.rf.f7c28aec03afdbd8c35406043df8dcec.jpg,exit,0.853,no_text,,,0.0,224,280,39,52
+KakaoTalk_20240330_153803899_06_jpg.rf.2f23a961108e87e820e2ae586f99a692.jpg,exit,0.889,no_text,,,0.0,366,405,42,62
+KakaoTalk_20240330_153803899_06_jpg.rf.2f23a961108e87e820e2ae586f99a692.jpg,exit,0.858,no_text,,,0.0,400,335,41,55
+KakaoTalk_20240330_153803899_06_jpg.rf.2f23a961108e87e820e2ae586f99a692.jpg,exit,0.808,no_text,,,0.0,397,308,46,85
+KakaoTalk_20240330_153803899_06_jpg.rf.dee67d32adad3fab8009044bdeb0c15b.jpg,exit,0.889,no_text,,,0.0,366,409,40,59
+KakaoTalk_20240330_153803899_06_jpg.rf.dee67d32adad3fab8009044bdeb0c15b.jpg,exit,0.884,no_text,,,0.0,400,339,43,52
+KakaoTalk_20240330_153803899_06_jpg.rf.fabefdeef536a091d8a7ddd45b5be7e5.jpg,exit,0.889,no_text,,,0.0,206,391,50,63
+KakaoTalk_20240330_153803899_06_jpg.rf.fabefdeef536a091d8a7ddd45b5be7e5.jpg,exit,0.867,no_text,,,0.0,180,314,55,60
+KakaoTalk_20240330_153803899_06_jpg.rf.fabefdeef536a091d8a7ddd45b5be7e5.jpg,exit,0.851,no_text,,,0.0,173,289,63,89
+KakaoTalk_20240330_153803899_07_jpg.rf.6ef2d245f567fdf7844e8575739f6e5c.jpg,exit,0.851,no_text,,,0.0,376,458,40,54
+KakaoTalk_20240330_153803899_07_jpg.rf.ace706353d428209c8978a79e7877db4.jpg,exit,0.865,no_text,,,0.0,409,440,47,52
+KakaoTalk_20240330_153803899_07_jpg.rf.ace706353d428209c8978a79e7877db4.jpg,exit,0.679,no_text,,,0.0,452,372,47,49
+KakaoTalk_20240330_153803899_07_jpg.rf.ace706353d428209c8978a79e7877db4.jpg,exit,0.309,no_text,,,0.0,449,346,51,76
+KakaoTalk_20240330_153803899_08_jpg.rf.5b0d8da7b6c4118f11352f2174c133c7.jpg,exit,0.874,no_text,,,0.0,421,176,64,97
+KakaoTalk_20240330_153803899_08_jpg.rf.5b0d8da7b6c4118f11352f2174c133c7.jpg,exit,0.867,no_text,,,0.0,129,311,63,77
+KakaoTalk_20240330_153803899_08_jpg.rf.5b0d8da7b6c4118f11352f2174c133c7.jpg,exit,0.841,no_text,,,0.0,423,206,60,65
+KakaoTalk_20240330_153803899_08_jpg.rf.5b0d8da7b6c4118f11352f2174c133c7.jpg,exit,0.466,no_text,,,0.0,124,286,69,102
+KakaoTalk_20240330_153803899_08_jpg.rf.9a71078ff8c3d1361bcad5f1ec704f7b.jpg,exit,0.894,no_text,,,0.0,441,349,52,65
+KakaoTalk_20240330_153803899_08_jpg.rf.9a71078ff8c3d1361bcad5f1ec704f7b.jpg,exit,0.878,no_text,,,0.0,180,172,47,69
+KakaoTalk_20240330_153803899_08_jpg.rf.d92d77cb566af8b00d5246070cad898d.jpg,exit,0.879,no_text,,,0.0,149,353,44,64
+KakaoTalk_20240330_153803899_08_jpg.rf.d92d77cb566af8b00d5246070cad898d.jpg,exit,0.861,no_text,,,0.0,405,175,45,61
+KakaoTalk_20240330_153803899_09_jpg.rf.5a533f68147ae474e32a79b0c4f18a9e.jpg,exit,0.481,no_text,,,0.0,277,390,23,32
+KakaoTalk_20240330_153803899_10_jpg.rf.68aa21cf56f333ea5ada533d0e0e8ecd.jpg,exit,0.894,no_text,,,0.0,333,427,55,71
+KakaoTalk_20240330_153803899_10_jpg.rf.68aa21cf56f333ea5ada533d0e0e8ecd.jpg,exit,0.886,no_text,,,0.0,444,300,52,65
+KakaoTalk_20240330_153803899_10_jpg.rf.68aa21cf56f333ea5ada533d0e0e8ecd.jpg,exit,0.884,no_text,,,0.0,128,400,60,99
+KakaoTalk_20240330_153803899_10_jpg.rf.68aa21cf56f333ea5ada533d0e0e8ecd.jpg,exit,0.848,no_text,,,0.0,133,422,53,76
+KakaoTalk_20240330_153803899_10_jpg.rf.68aa21cf56f333ea5ada533d0e0e8ecd.jpg,exit,0.786,no_text,,,0.0,438,276,59,92
+KakaoTalk_20240330_153803899_10_jpg.rf.82d9275f6e4ea197a222f3e74ac74ec8.jpg,exit,0.869,no_text,,,0.0,453,272,38,61
+KakaoTalk_20240330_153803899_10_jpg.rf.82d9275f6e4ea197a222f3e74ac74ec8.jpg,exit,0.794,no_text,,,0.0,369,418,39,63
+KakaoTalk_20240330_153803899_10_jpg.rf.82d9275f6e4ea197a222f3e74ac74ec8.jpg,exit,0.609,no_text,,,0.0,170,456,43,66
+KakaoTalk_20240330_153803899_10_jpg.rf.82d9275f6e4ea197a222f3e74ac74ec8.jpg,exit,0.58,no_text,,,0.0,367,393,46,91
+KakaoTalk_20240330_153803899_10_jpg.rf.82d9275f6e4ea197a222f3e74ac74ec8.jpg,exit,0.429,no_text,,,0.0,157,437,56,86
+KakaoTalk_20240330_153803899_11_jpg.rf.2190b199b7aa354ea4c8887dda605c53.jpg,exit,0.887,no_text,,,0.0,261,474,54,71
+KakaoTalk_20240330_153803899_11_jpg.rf.499524f6602ac0c83e7acca083361254.jpg,exit,0.896,no_text,,,0.0,352,466,59,71
+KakaoTalk_20240330_153803899_11_jpg.rf.77f208f10d79fbca21dfbc29e9ae6b18.jpg,exit,0.89,no_text,,,0.0,278,474,45,71
+KakaoTalk_20240330_153803899_12_jpg.rf.4099e028dee5a4fe3d99bd848a68c06f.jpg,exit,0.901,no_text,,,0.0,565,323,50,70
+KakaoTalk_20240330_153803899_12_jpg.rf.4099e028dee5a4fe3d99bd848a68c06f.jpg,exit,0.853,no_text,,,0.0,240,92,56,93
+KakaoTalk_20240330_153803899_12_jpg.rf.4099e028dee5a4fe3d99bd848a68c06f.jpg,exit,0.771,no_text,,,0.0,248,113,46,68
+KakaoTalk_20240330_153803899_12_jpg.rf.43429a4fb07053da63f9365464c34c3b.jpg,exit,0.854,no_text,,,0.0,548,342,57,88
+KakaoTalk_20240330_153803899_12_jpg.rf.43429a4fb07053da63f9365464c34c3b.jpg,exit,0.84,no_text,,,0.0,269,100,51,78
+KakaoTalk_20240330_153803899_12_jpg.rf.43429a4fb07053da63f9365464c34c3b.jpg,exit,0.835,no_text,,,0.0,275,112,43,64
+KakaoTalk_20240330_153803899_12_jpg.rf.43429a4fb07053da63f9365464c34c3b.jpg,exit,0.821,no_text,,,0.0,560,359,44,70
+KakaoTalk_20240330_153803899_12_jpg.rf.9cf146d82ae7e6cee61058863e0360c5.jpg,exit,0.881,no_text,,,0.0,329,114,43,64
+KakaoTalk_20240330_153803899_12_jpg.rf.9cf146d82ae7e6cee61058863e0360c5.jpg,exit,0.88,no_text,,,0.0,326,90,50,90
+KakaoTalk_20240330_153803899_12_jpg.rf.9cf146d82ae7e6cee61058863e0360c5.jpg,exit,0.878,no_text,,,0.0,28,343,48,73
+KakaoTalk_20240330_153803899_13_jpg.rf.1ab5cf0d9800c92ab735b820d2bb15b0.jpg,exit,0.905,no_text,,,0.0,62,325,41,58
+KakaoTalk_20240330_153803899_13_jpg.rf.1ab5cf0d9800c92ab735b820d2bb15b0.jpg,exit,0.771,no_text,,,0.0,456,113,46,55
+KakaoTalk_20240330_153803899_13_jpg.rf.60fa36f6e8ef0c6703357534bb6d80e7.jpg,exit,0.885,no_text,,,0.0,534,326,41,57
+KakaoTalk_20240330_153803899_13_jpg.rf.60fa36f6e8ef0c6703357534bb6d80e7.jpg,exit,0.882,no_text,,,0.0,130,88,50,80
+KakaoTalk_20240330_153803899_13_jpg.rf.60fa36f6e8ef0c6703357534bb6d80e7.jpg,exit,0.873,no_text,,,0.0,132,114,46,53
+KakaoTalk_20240330_153803899_13_jpg.rf.e9f6b5cbd6eb07cf65acef498f15156d.jpg,exit,0.889,no_text,,,0.0,52,282,53,64
+KakaoTalk_20240330_153803899_13_jpg.rf.e9f6b5cbd6eb07cf65acef498f15156d.jpg,exit,0.878,no_text,,,0.0,484,139,52,63
+KakaoTalk_20240330_153803899_13_jpg.rf.e9f6b5cbd6eb07cf65acef498f15156d.jpg,exit,0.724,no_text,,,0.0,478,111,62,95
+KakaoTalk_20240330_153803899_13_jpg.rf.e9f6b5cbd6eb07cf65acef498f15156d.jpg,exit,0.495,no_text,,,0.0,42,262,65,85
+KakaoTalk_20240330_153803899_14_jpg.rf.dced5cc79c1c2740117164e6cf5b2408.jpg,exit,0.882,no_text,,,0.0,508,378,53,67
+KakaoTalk_20240330_153803899_14_jpg.rf.dced5cc79c1c2740117164e6cf5b2408.jpg,exit,0.836,no_text,,,0.0,162,59,56,66
+KakaoTalk_20240330_153803899_14_jpg.rf.dced5cc79c1c2740117164e6cf5b2408.jpg,exit,0.81,no_text,,,0.0,500,348,64,101
+KakaoTalk_20240330_153803899_14_jpg.rf.dced5cc79c1c2740117164e6cf5b2408.jpg,exit,0.581,no_text,,,0.0,152,33,71,97
+KakaoTalk_20240330_153803899_14_jpg.rf.f2ba07bbbf00dc8dc432d847f424f787.jpg,exit,0.881,no_text,,,0.0,62,324,48,67
+KakaoTalk_20240330_153803899_14_jpg.rf.f2ba07bbbf00dc8dc432d847f424f787.jpg,exit,0.751,no_text,,,0.0,471,70,49,87
+KakaoTalk_20240330_153803899_14_jpg.rf.f2ba07bbbf00dc8dc432d847f424f787.jpg,exit,0.338,no_text,,,0.0,474,97,44,59
+KakaoTalk_20240330_153803899_14_jpg.rf.f7e87cef1806b996a86644ede7d94263.jpg,exit,0.866,no_text,,,0.0,58,298,52,66
+KakaoTalk_20240330_153803899_14_jpg.rf.f7e87cef1806b996a86644ede7d94263.jpg,exit,0.826,no_text,,,0.0,493,113,50,68
+KakaoTalk_20240330_153803899_14_jpg.rf.f7e87cef1806b996a86644ede7d94263.jpg,exit,0.758,no_text,,,0.0,487,85,60,99
+KakaoTalk_20240330_153803899_14_jpg.rf.f7e87cef1806b996a86644ede7d94263.jpg,exit,0.732,no_text,,,0.0,49,270,61,100
+KakaoTalk_20240330_153803899_jpg.rf.f32b1c686b1fc90ca16000564ee9a567.jpg,exit,0.399,no_text,,,0.0,410,305,30,36
+KakaoTalk_20240405_160640520_01_jpg.rf.a37c1cd6e45e32b7aa72a4612625e040.jpg,exit,0.259,no_text,,,0.0,136,546,9,10
+KakaoTalk_20240405_160640520_03_jpg.rf.31ec73feed4a354cc72b095862dc43e7.jpg,fire extinguisher,0.695,no_text,,,0.0,377,463,13,17
+KakaoTalk_20240405_160640520_03_jpg.rf.c05806bd430541712a7bfa72e9b5935b.jpg,fire extinguisher,0.735,no_text,,,0.0,354,473,10,14
+KakaoTalk_20240405_160640520_04_jpg.rf.57c55652206889ee41dfc92ae61c5b15.jpg,exit,0.312,no_text,,,0.0,71,223,9,15
+KakaoTalk_20240405_160721726_jpg.rf.b64c0beb55ea3000735d97e2250383f8.jpg,fire extinguisher,0.256,no_text,,,0.0,88,203,8,10
+KakaoTalk_20240405_160721726_jpg.rf.e1cb6e191c891ac5005d7ef696ef4a85.jpg,exit,0.317,no_text,,,0.0,323,143,10,13
